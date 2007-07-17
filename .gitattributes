@@ -1,6 +1,8 @@
 * text=auto !eol
-/Makefile -text
+/AUTHORS -text
+/COPYING -text
 /Makefile.am -text
+/NEWS -text
 /apertium-es-it.es-it.dix.xml -text
 /apertium-es-it.es.dix.xml -text
 /apertium-es-it.it.dix.xml -text
