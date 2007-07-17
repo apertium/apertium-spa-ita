@@ -7,5 +7,6 @@
 /apertium-es-it.es.dix.xml -text
 /apertium-es-it.it.dix.xml -text
 /apertium-es-it.symbols.xml -text
+/autogen.sh -text
 /configure.ac -text
 /modes.xml -text
