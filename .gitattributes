@@ -8,6 +8,7 @@
 /apertium-es-it.es-it.dix.xml -text
 /apertium-es-it.es.dix.xml -text
 /apertium-es-it.it.dix.xml -text
+/apertium-es-it.post-es.dix -text
 /apertium-es-it.symbols.xml -text
 /autogen.sh -text
 /configure.ac -text
