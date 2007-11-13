@@ -20,4 +20,6 @@
 /apertium-es-it.symbols.xml -text
 /autogen.sh -text
 /configure.ac -text
+/es-it.prob -text svneol=unset#unset
+/it-es.prob -text svneol=unset#unset
 /modes.xml -text
