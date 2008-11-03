@@ -16,6 +16,7 @@
 /apertium-es-it.it-es.t2x -text
 /apertium-es-it.it-es.t3x -text
 /apertium-es-it.it.dix.xml -text
+/apertium-es-it.it.dix.xml-ordered -text
 /apertium-es-it.it.tsx -text
 /apertium-es-it.post-es.dix -text
 /apertium-es-it.post-it.dix -text
