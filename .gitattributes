@@ -7,6 +7,7 @@
 /README -text
 /TODO -text
 /apertium-es-it.es-it.dix.xml -text
+/apertium-es-it.es-it.dix.xml-sorted -text
 /apertium-es-it.es-it.t1x -text
 /apertium-es-it.es-it.t2x -text
 /apertium-es-it.es-it.t3x -text
