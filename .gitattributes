@@ -26,3 +26,4 @@
 /it-es.prob -text svneol=unset#unset
 /it-nouns.xml -text
 /modes.xml -text
+/testvoc-apertium2-utf -text
