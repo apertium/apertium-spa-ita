@@ -28,6 +28,7 @@ dev/testvoc-summary.it-es.txt -text
 dev/testvoc.sh -text
 /es-it.prob -text svneol=unset#unset
 /i_to_p.awk -text
+/inline_e.awk -text
 /it-es-unsupervised.make -text
 /it-es.prob -text svneol=unset#unset
 it-tagger-data/README -text
