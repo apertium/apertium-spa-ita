@@ -27,12 +27,12 @@ dev/testvoc-summary.es-it.txt -text
 dev/testvoc-summary.it-es.txt -text
 dev/testvoc.sh -text
 /es-it.prob -text svneol=unset#unset
-/i_to_p.awk -text
-/inline_e.awk -text
+/i_to_p.awk.in -text
+/inline_e.awk.in -text
 /it-es-unsupervised.make -text
 /it-es.prob -text svneol=unset#unset
 it-tagger-data/README -text
 it-tagger-data/it.crp.txt.gz -text
 /modes.xml -text
-/sustituye_caracteres.awk -text
+/sustituye_caracteres.awk.in -text
 /testvoc-apertium2-utf -text
