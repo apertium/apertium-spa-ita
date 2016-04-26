@@ -18,10 +18,6 @@
 /autogen.sh -text
 /configure.ac -text
 dev/inconsistency-summary.sh -text
-dev/inconsistency.sh -text
-dev/testvoc-summary.es-it.txt -text
-dev/testvoc-summary.it-es.txt -text
-dev/testvoc.sh -text
 dev/testvoc/bidix-unknowns.sh -text
 dev/testvoc/generation.sh -text
 dev/testvoc/streamparser.py -text
