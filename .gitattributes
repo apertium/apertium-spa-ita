@@ -6,10 +6,12 @@
 /NEWS -text
 /README -text
 /TODO -text
+/apertium-spa-ita.ita-spa.lrx -text
 /apertium-spa-ita.ita-spa.t1x -text
 /apertium-spa-ita.ita-spa.t2x -text
 /apertium-spa-ita.ita-spa.t3x -text
 /apertium-spa-ita.spa-ita.dix -text
+/apertium-spa-ita.spa-ita.lrx -text
 /apertium-spa-ita.spa-ita.t1x -text
 /apertium-spa-ita.spa-ita.t2x -text
 /apertium-spa-ita.spa-ita.t3x -text
