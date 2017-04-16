@@ -14931,7 +14931,7 @@
 <e>       <p><l>seleccionar<s n="vblex"/></l>          <r>selezionare<s n="vblex"/></r></p></e>
 <e>       <p><l>ser<s n="vblex"/></l>                  <r>essere<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>estar<g><b/>en<b/>Babia</g><s n="vblex"/></l><r>essere<g><b/>imbranato</g><s n="vbser"/></r></p></e>
-<e>       <p><l>estar<g><b/>a<b/>punto<b/>de</g><s n="vblex"/></l><r>essere<g><b/>per</g><s n="vbser"/></r></p></e>
+<e r="LR">       <p><l>estar<g><b/>a<b/>punto<b/>de</g><s n="vblex"/></l><r>essere<g><b/>per</g><s n="vbser"/></r></p></e>
 <e>       <p><l>sintetizar<s n="vblex"/></l>           <r>sintetizzare<s n="vblex"/></r></p></e>
 <e>       <p><l>sobrevivir<s n="vblex"/></l>           <r>sopravvivere<s n="vblex"/></r></p></e>
 <e>       <p><l>someter<s n="vblex"/></l>              <r>sottoporre<s n="vblex"/></r></p></e>
@@ -18265,6 +18265,11 @@
 <e>       <p><l>que<s n="cnjsub"/></l>                 <r>che<s n="cnjsub"/></r></p></e>
 <e>       <p><l>dignidad<s n="n"/><s n="f"/></l>       <r>dignità<s n="n"/><s n="f"/></r></p><par n="ND_sp"/></e>
 <e>       <p><l>alguien<s n="prn"/><s n="tn"/></l>     <r>qualcuno<s n="prn"/><s n="tn"/></r></p><par n="mf_GD"/></e>
+
+<e r="LR"><p><l>milanés<s n="adj"/><s n="m"/></l>      <r>milanese<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>milanés<s n="adj"/><s n="f"/></l>      <r>milanese<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>milanés<s n="adj"/><s n="GD"/></l>     <r>milanese<s n="adj"/><s n="mf"/></r></p></e>
+
 
 
 
