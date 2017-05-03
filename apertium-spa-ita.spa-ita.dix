@@ -14058,7 +14058,7 @@
 <e>       <p><l>notar<s n="vblex"/></l>                <r>notare<s n="vblex"/></r></p><par n="temps"/></e>
 <e>       <p><l>notificar<s n="vblex"/></l>            <r>notificare<s n="vblex"/></r></p><par n="temps"/></e>
 <e>       <p><l>numerar<s n="vblex"/></l>              <r>numerare<s n="vblex"/></r></p><par n="temps"/></e>
-<e>       <p><l>obligar<s n="vblex"/></l>              <r>obbligare<s n="vblex"/></r></p><par n="temps"/></e>
+<e r="RL">       <p><l>obligar<s n="vblex"/></l>              <r>obbligare<s n="vblex"/></r></p><par n="temps"/></e>
 <e>       <p><l>observar<s n="vblex"/></l>             <r>osservare<s n="vblex"/></r></p><par n="temps"/></e>
 <e>       <p><l>obstruir<s n="vblex"/></l>             <r>ostruire<s n="vblex"/></r></p><par n="temps"/></e>
 <e>       <p><l>obtener<s n="vblex"/></l>              <r>ottenere<s n="vblex"/></r></p><par n="temps"/></e>
@@ -18266,11 +18266,25 @@
 <e>       <p><l>dignidad<s n="n"/><s n="f"/></l>       <r>dignità<s n="n"/><s n="f"/></r></p><par n="ND_sp"/></e>
 <e>       <p><l>alguien<s n="prn"/><s n="tn"/></l>     <r>qualcuno<s n="prn"/><s n="tn"/></r></p><par n="mf_GD"/></e>
 
-<e r="LR"><p><l>milanés<s n="adj"/><s n="m"/></l>      <r>milanese<s n="adj"/><s n="mf"/></r></p></e>
-<e r="LR"><p><l>milanés<s n="adj"/><s n="f"/></l>      <r>milanese<s n="adj"/><s n="mf"/></r></p></e>
-<e r="RL"><p><l>milanés<s n="adj"/><s n="GD"/></l>     <r>milanese<s n="adj"/><s n="mf"/></r></p></e>
-
-
+<e>       <p><l>milanés<s n="adj"/></l><r>milanese<s n="adj"/></r></p><par n="GD_mf"/></e>
+<e>       <p><l>operoso<s n="adj"/></l><r>laborioso<s n="adj"/></r></p></e>
+<e>       <p><l>lombardo<s n="adj"/></l><r>lombardo<s n="adj"/></r></p></e>
+<e>       <p><l>ocasionar<s n="vblex"/></l><r>arrecare<s n="vblex"/></r></p><par n="temps"/></e>
+<e r="RL"><p><l>coste<s n="n"/></l><r>onere<s n="n"/></r></p></e>
+<e>       <p><l>subalterno<s n="adj"/></l><r>subalterno<s n="adj"/></r></p></e>
+<e>       <p><l>exceder<s n="vblex"/></l><r>eccedere<s n="vblex"/></r></p></e>
+<e>       <p><l>prepotencia<s n="n"/></l><r>prepotenza<s n="n"/></r></p></e>
+<e>       <p><l>propenso<s n="adj"/></l><r>incline<s n="adj"/></r></p><par n="GD_mf"/></e>
+<e r="RL"><p><l>presencia<s n="n"/><s n="f"/></l><r>cospetto<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>tranquilidad<s n="n"/></l><r>quiete<s n="n"/></r></p></e>
+<e>       <p><l>injuria<s n="n"/></l><r>ingiuria<s n="n"/></r></p></e>
+<e>       <p><l>perturbar<s n="vblex"/></l><r>perturbare<s n="vblex"/></r></p><par n="temps"/></e>
+<e r="RL"><p><l>perturbar<s n="vblex"/></l><r>turbare<s n="vblex"/></r></p><par n="temps"/></e>
+<e>       <p><l>agudeza<s n="n"/></l><r>acutezza<s n="n"/></r></p></e>
+<e>       <p><l>veneciano<s n="adj"/></l><r>veneziano<s n="adj"/></r></p></e>
+<e>       <p><l>obligar<s n="vblex"/></l><r>costringere<s n="vblex"/></r></p><par n="temps"/></e>
+<e>       <p><l>restituir<s n="vblex"/></l><r>restituire<s n="vblex"/></r></p><par n="temps"/></e>
+<e>       <p><l>atrevido<s n="adj"/></l><r>azzardato<s n="adj"/></r></p></e>
 
 
   </section>
