@@ -6275,8 +6275,8 @@
 <e>       <p><l>código<s n="n"/></l>                   <r>codice<s n="n"/></r></p></e>
 <e>       <p><l>código<g><b/>de<b/>barras</g><s n="n"/></l><r>codice<g><b/>a<b/>barre</g><s n="n"/></r></p></e>
 
-<e>       <p><l>cólera<s n="n"/><s n="f"/></l>    <r>colera<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>cólera<s n="n"/><s n="m"/></l>    <r>collera<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>cólera<s n="n"/><s n="f"/></l>    <r>collera<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>cólera<s n="n"/><s n="m"/><s n="sg"/></l><r>colera<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>cómic<s n="n"/></l>                    <r>fumetto<s n="n"/></r></p></e>
 <e>       <p><l>cómico<s n="n"/></l>                   <r>comico<s n="n"/></r></p></e>
