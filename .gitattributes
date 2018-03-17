@@ -26,3 +26,8 @@ it-tagger-data/it.crp.txt.gz -text
 /ita-spa-unsupervised.make -text
 /modes.xml -text
 /testvoc-apertium2-utf -text
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true
