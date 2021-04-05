@@ -12974,7 +12974,10 @@
 <e r="LR"><p><l>visibilidad<s n="n"/><s n="f"/><s n="pl"/></l><r>visibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>visibilidad<s n="n"/><s n="f"/><s n="ND"/></l><r>visibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e>       <p><l>visitación<s n="n"/></l>               <r>Visitazione<s n="n"/></r></p></e>
-<e>       <p><l>visitante<s n="n"/><s n="mf"/></l>     <r>visitatore<s n="n"/><s n="mf"/></r></p></e>
+<e r="LR">       <p><l>visitante<s n="n"/><s n="mf"/></l>     <r>visitatore<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL">       <p><l>visitante<s n="n"/><s n="mf"/></l>     <r>visitatore<s n="n"/><s n="f"/></r></p></e>
+<e r="RL">       <p><l>visitante<s n="n"/><s n="mf"/></l>     <r>visitatore<s n="n"/><s n="m"/></r></p></e>
+
 <e>       <p><l>visión<s n="n"/></l>                   <r>visione<s n="n"/></r></p></e>
 
 <e>       <p><l>visor<s n="n"/></l>                    <r>visore<s n="n"/></r></p></e>
