@@ -1,31 +1,5 @@
-* text=auto !eol
-/AUTHORS -text
-/COPYING -text
-/ChangeLog -text
-/Makefile.am -text
-/NEWS -text
-/README -text
-/TODO -text
-/apertium-spa-ita.ita-spa.lrx -text
-/apertium-spa-ita.ita-spa.t1x -text
-/apertium-spa-ita.ita-spa.t2x -text
-/apertium-spa-ita.ita-spa.t3x -text
-/apertium-spa-ita.spa-ita.dix -text
-/apertium-spa-ita.spa-ita.lrx -text
-/apertium-spa-ita.spa-ita.t1x -text
-/apertium-spa-ita.spa-ita.t2x -text
-/apertium-spa-ita.spa-ita.t3x -text
-/autogen.sh -text
-/configure.ac -text
-dev/inconsistency-summary.sh -text
-dev/testvoc/bidix-unknowns.sh -text
-dev/testvoc/generation.sh -text
-dev/testvoc/streamparser.py -text
-it-tagger-data/README -text
-it-tagger-data/it.crp.txt.gz -text
-/ita-spa-unsupervised.make -text
-/modes.xml -text
-/testvoc-apertium2-utf -text
+* text eol=lf
+*.gz binary
 *.dix linguist-language=XML linguist-detectable=true
 *.lrx linguist-language=XML linguist-detectable=true
 *.lsx linguist-language=XML linguist-detectable=true

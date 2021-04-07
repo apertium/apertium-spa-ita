@@ -2,7 +2,6 @@
 ## Makefile for Spanish--Italian
 ###############################################################################
 
-VERSION=0.1.0
 LANG1=spa
 LANG2=ita
 PREFIX1=$(LANG1)-$(LANG2)
@@ -214,4 +213,3 @@ test: all
 	@echo "casa" > .test-ref
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt
-
