@@ -534,7 +534,7 @@
     <!-- ******************************
           group preadv_symbol
       ****************************** -->
-<e>       <p><l>bien<s n="preadv"/></l>                <r>bene<s n="preadv"/></r></p></e>
+<e>       <p><l>bien<s n="preadv"/></l>                <r>ben<s n="preadv"/></r></p></e>
 <e>       <p><l>casi<s n="preadv"/></l>                <r>quasi<s n="preadv"/></r></p></e>
 <e>       <p><l>mal<s n="preadv"/></l>                 <r>male<s n="preadv"/></r></p></e>
 <e>       <p><l>muy<s n="preadv"/></l>                 <r>molto<s n="preadv"/></r></p></e>
@@ -930,10 +930,6 @@
 <e>       <p><l>alternativo<s n="adj"/></l>            <r>alternativo<s n="adj"/></r></p></e>
 <e>       <p><l>alterno<s n="adj"/></l>                <r>alternato<s n="adj"/></r></p></e>
 <e>       <p><l>alto<s n="adj"/></l>                   <r>alto<s n="adj"/></r></p></e>
-
-<e r="RL"><p><l>altruista<s n="adj"/><s n="mf"/></l><r>altruista<s n="adj"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>altruista<s n="adj"/><s n="mf"/></l><r>altruista<s n="adj"/><s n="f"/></r></p></e>
-
 <e>       <p><l>altísimo<s n="adj"/></l>               <r>altissimo<s n="adj"/></r></p></e>
 <e>       <p><l>alérgico<s n="adj"/></l>               <r>allergico<s n="adj"/></r></p></e>
 <e>       <p><l>amable<s n="adj"/></l>                 <r>gentile<s n="adj"/></r></p></e>
@@ -1103,7 +1099,6 @@
 <e r="RL"><p><l>autista<s n="adj"/><s n="mf"/></l>     <r>autistico<s n="adj"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>autista<s n="adj"/><s n="mf"/></l>     <r>autistico<s n="adj"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>autista<s n="adj"/><s n="mf"/></l>     <r>autistico<s n="adj"/><s n="GD"/></r></p></e>
-<e>       <p><l>automotriz<s n="adj"/></l>             <r>automobilistica<s n="adj"/></r></p></e>
 
 <e r="RL"><p><l>automotriz<s n="adj"/><s n="mf"/></l>  <r>automobilistico<s n="adj"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>automotriz<s n="adj"/><s n="mf"/></l>  <r>automobilistico<s n="adj"/><s n="f"/></r></p></e>
@@ -1113,7 +1108,7 @@
 <e>       <p><l>autoritario<s n="adj"/></l>            <r>autoritario<s n="adj"/></r></p></e>
 <e>       <p><l>autosuficiente<s n="adj"/></l>         <r>autosufficiente<s n="adj"/></r></p></e>
 <e>       <p><l>auténtico<s n="adj"/></l>              <r>autentico<s n="adj"/></r></p></e>
-<e>       <p><l>autónomo<s n="adj"/></l>               <r>autonomo<s n="adj"/></r></p></e>
+<e r="RL">       <p><l>autónomo<s n="adj"/></l>               <r>autonomo<s n="adj"/></r></p></e>
 <e r="LR"><p><l>auxiliar<s n="adj"/><s n="mf"/></l>    <r>ausiliario<s n="adj"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>auxiliar<s n="adj"/><s n="mf"/></l>    <r>ausiliario<s n="adj"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>auxiliar<s n="adj"/><s n="mf"/></l>    <r>ausiliario<s n="adj"/><s n="f"/></r></p></e>
@@ -2530,9 +2525,9 @@
 <e>       <p><l>marcial<s n="adj"/></l>                <r>marziale<s n="adj"/></r></p></e>
 <e>       <p><l>marciano<s n="adj"/></l>               <r>marziano<s n="adj"/></r></p></e>
 <e>       <p><l>marginal<s n="adj"/></l>               <r>marginale<s n="adj"/></r></p></e>
-<e r="LR"><p><l>marinero<s n="adj"/><s n="m"/></l>     <r>marinaio<s n="adj"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>marinero<s n="adj"/><s n="f"/></l>     <r>marinaio<s n="adj"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>marinero<s n="adj"/><s n="GD"/></l>    <r>marinaio<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>marinero<s n="adj"/><s n="m"/></l>     <r>marinaio<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>marinero<s n="adj"/><s n="f"/></l>     <r>marinaio<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>marinero<s n="adj"/><s n="GD"/></l>    <r>marinaio<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>marino<s n="adj"/></l>                 <r>marino<s n="adj"/></r></p></e>
 <e>       <p><l>marital<s n="adj"/></l>                <r>maritale<s n="adj"/></r></p></e>
 <e r="LR"><p><l>marroquí<s n="adj"/><s n="mf"/></l>    <r>marocchino<s n="adj"/><s n="GD"/></r></p></e>
@@ -3026,6 +3021,8 @@
 <e>       <p><l>religioso<s n="adj"/></l>              <r>religioso<s n="adj"/></r></p></e>
 
 <e r="LR"><p><l>remoto<s n="adj"/><s n="m"/><s n="sg"/></l><r>a<b/>distanza<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>remoto<s n="adj"/><s n="m"/><s n="pl"/></l><r>a<b/>distanza<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>remoto<s n="adj"/><s n="f"/><s n="sg"/></l><r>a<b/>distanza<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>remoto<s n="adj"/><s n="f"/><s n="pl"/></l><r>a<b/>distanza<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>remoto<s n="adj"/><s n="GD"/><s n="ND"/></l><r>a<b/>distanza<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
 
@@ -3172,9 +3169,9 @@
 <e>       <p><l>siniestro<s n="adj"/></l>              <r>sinistro<s n="adj"/></r></p></e>
 <e>       <p><l>sintético<s n="adj"/></l>              <r>sintetico<s n="adj"/></r></p></e>
 <e>       <p><l>sintético<s n="adj"/></l>              <r>sintetico<s n="adj"/></r></p></e>
-<e r="LR"><p><l>sinónimo<s n="adj"/><s n="m"/></l>     <r>sinonimo<s n="adj"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>sinónimo<s n="adj"/><s n="f"/></l>     <r>sinonimo<s n="adj"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>sinónimo<s n="adj"/><s n="GD"/></l>    <r>sinonimo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>sinónimo<s n="adj"/><s n="m"/></l>     <r>sinonimo<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>sinónimo<s n="adj"/><s n="f"/></l>     <r>sinonimo<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>sinónimo<s n="adj"/><s n="GD"/></l>    <r>sinonimo<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>sirio<s n="adj"/></l>                  <r>siriano<s n="adj"/></r></p></e>
 <e>       <p><l>sistemático<s n="adj"/></l>            <r>sistematico<s n="adj"/></r></p></e>
 <e>       <p><l>sistémico<s n="adj"/></l>              <r>sistemico<s n="adj"/></r></p></e>
@@ -3360,9 +3357,9 @@
 <e>       <p><l>tóxico<s n="adj"/></l>                 <r>tossico<s n="adj"/></r></p></e>
 <e>       <p><l>ulterior<s n="adj"/></l>               <r>ulteriore<s n="adj"/></r></p></e>
 
-<e r="LR"><p><l>ultra<s n="adj"/><s n="sg"/></l>       <r>ultra<s n="adj"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>ultra<s n="adj"/><s n="pl"/></l>       <r>ultra<s n="adj"/><s n="sp"/></r></p></e>
-<e r="RL"><p><l>ultra<s n="adj"/><s n="ND"/></l>       <r>ultra<s n="adj"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>ultra<s n="adj"/><s n="mf"/><s n="sg"/></l>       <r>ultra<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>ultra<s n="adj"/><s n="mf"/><s n="pl"/></l>       <r>ultra<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
+<e r="RL"><p><l>ultra<s n="adj"/><s n="mf"/><s n="ND"/></l>       <r>ultra<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>ultravioleta<s n="adj"/></l>           <r>ultravioletta<s n="adj"/></r></p></e>
 <e>       <p><l>umbilical<s n="adj"/></l>              <r>ombelicale<s n="adj"/></r></p></e>
@@ -3385,7 +3382,7 @@
 <e>       <p><l>vacante<s n="adj"/></l>                <r>vacante<s n="adj"/></r></p></e>
 <e>       <p><l>vacío<s n="adj"/></l>                  <r>vuoto<s n="adj"/></r></p></e>
 <e>       <p><l>vaginal<s n="adj"/></l>                <r>vaginale<s n="adj"/></r></p></e>
-<e>       <p><l>valenciano<s n="adj"/></l>             <r>valenziano<s n="adj"/></r></p></e>
+<e>       <p><l>valenciano<s n="adj"/></l>             <r>valenciano<s n="adj"/></r></p></e>
 <e>       <p><l>valiente<s n="adj"/></l>               <r>coraggioso<s n="adj"/></r></p></e>
 <e r="RL"><p><l>valiente<s n="adj"/><s n="mf"/></l>    <r>coraggioso<s n="adj"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>valiente<s n="adj"/><s n="mf"/></l>    <r>coraggioso<s n="adj"/><s n="f"/></r></p></e>
@@ -3926,7 +3923,7 @@
 <e>       <p><l>agrupación<s n="n"/></l>               <r>raggruppazione<s n="n"/></r></p></e>
 <e>       <p><l>agua<s n="n"/></l>                     <r>acqua<s n="n"/></r></p></e>
 <e>       <p><l>aguanieve<s n="n"/></l>                <r>acquaneve<s n="n"/></r></p></e>
-<e>       <p><l>aguardiente<s n="n"/></l>              <r>acquavite<s n="n"/></r></p></e>
+<e>       <p><l>aguardiente<s n="n"/><s n="m"/></l>              <r>acquavite<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>aguja<s n="n"/><s n="f"/></l>          <r>ago<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>agujero<s n="n"/></l>                  <r>buco<s n="n"/></r></p></e>
 <e>       <p><l>ahogamiento<s n="n"/></l>              <r>annegamento<s n="n"/></r></p></e>
@@ -4052,7 +4049,9 @@
 <e>       <p><l>altitud<s n="n"/></l>                  <r>altitudine<s n="n"/></r></p></e>
 <e>       <p><l>alto<s n="n"/></l>                     <r>alto<s n="n"/></r></p></e>
 <e>       <p><l>altruismo<s n="n"/></l>                <r>altruismo<s n="n"/></r></p></e>
-<e>       <p><l>altruista<s n="n"/><s n="mf"/></l>     <r>altruista<s n="n"/><s n="mf"/></r></p></e>
+<e r="RL">       <p><l>altruista<s n="n"/><s n="mf"/></l>     <r>altruista<s n="n"/><s n="m"/></r></p></e>
+<e r="RL">       <p><l>altruista<s n="n"/><s n="mf"/></l>     <r>altruista<s n="n"/><s n="f"/></r></p></e>
+<e r="LR">       <p><l>altruista<s n="n"/><s n="mf"/></l>     <r>altruista<s n="n"/><s n="GD"/></r></p></e>
 <e>       <p><l>altura<s n="n"/></l>                   <r>altezza<s n="n"/></r></p></e>
 <e>       <p><l>alucinación<s n="n"/></l>              <r>allucinazione<s n="n"/></r></p></e>
 <e r="LR"><p><l>alud<s n="n"/><s n="m"/></l>           <r>valanga<s n="n"/><s n="f"/></r></p></e>
@@ -4105,7 +4104,6 @@
 <e>       <p><l>amígdala<s n="n"/></l>                 <r>amigdala<s n="n"/></r></p></e>
 <e>       <p><l>anacoreta<s n="n"/><s n="m"/></l>      <r>eremita<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>anacronismo<s n="n"/></l>              <r>anacronismo<s n="n"/></r></p></e>
-<e>       <p><l>anal<s n="n"/></l>                     <r>annale<s n="n"/></r></p></e>
 <e r="RL"><p><l>analista<s n="n"/><s n="mf"/></l>      <r>analista<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>analista<s n="n"/><s n="mf"/></l>      <r>analista<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>analista<s n="n"/><s n="mf"/></l>      <r>analista<s n="n"/><s n="GD"/></r></p></e>
@@ -4339,7 +4337,7 @@
 <e>       <p><l>arrogancia<s n="n"/></l>               <r>arroganza<s n="n"/></r></p></e>
 <e r="RL"><p><l>arroyo<s n="n"/></l>                   <r>torrente<s n="n"/></r></p></e>
 <e>       <p><l>arroyo<s n="n"/></l>                   <r>ruscello<s n="n"/></r></p></e>
-<e>       <p><l>arroz<s n="n"/></l>                    <r>riso<s n="n"/></r></p></e>
+<e>       <p><l>arroz<s n="n"/></l>                    <r>riso_pianta<s n="n"/></r></p></e>
 <e>       <p><l>arruga<s n="n"/></l>                   <r>ruga<s n="n"/></r></p></e>
 <e>       <p><l>arsenal<s n="n"/></l>                  <r>arsenale<s n="n"/></r></p></e>
 <e>       <p><l>arsénico<s n="n"/></l>                 <r>arsenico<s n="n"/></r></p></e>
@@ -4391,9 +4389,9 @@
 <e>       <p><l>asimetría<s n="n"/></l>                <r>asimmetria<s n="n"/></r></p></e>
 <e>       <p><l>asimilación<s n="n"/></l>              <r>assimilazione<s n="n"/></r></p></e>
 <e>       <p><l>asistencia<s n="n"/></l>               <r>assistenza<s n="n"/></r></p></e>
-<e r="LR"><p><l>asistente<s n="n"/><s n="m"/></l>      <r>assistente<s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>asistente<s n="n"/><s n="f"/></l>      <r>assistente<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>asistente<s n="n"/><s n="GD"/></l>     <r>assistente<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>asistente<s n="n"/><s n="m"/></l>      <r>assistente<s n="n"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>asistente<s n="n"/><s n="f"/></l>      <r>assistente<s n="n"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>asistente<s n="n"/><s n="GD"/></l>     <r>assistente<s n="n"/><s n="mf"/></r></p></e>
 <e r="LR"><p><l>asma<s n="n"/><s n="f"/><s n="sg"/></l><r>asma<s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
 <e r="LR"><p><l>asma<s n="n"/><s n="f"/><s n="pl"/></l><r>asma<s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
 <e r="RL"><p><l>asma<s n="n"/><s n="f"/><s n="ND"/></l><r>asma<s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -4533,7 +4531,7 @@
 <e>       <p><l>autotracción<s n="n"/></l>             <r>autotrazione<s n="n"/></r></p></e>
 <e>       <p><l>autovía<s n="n"/></l>                  <r>superstrada<s n="n"/></r></p></e>
 <e>       <p><l>autómata<s n="n"/></l>                 <r>automa<s n="n"/></r></p></e>
-<e r="LR"><p><l>autónomo<s n="n"/><s n="m"/></l>       <r>autonomo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>autónomo<s n="n"/><s n="m"/></l>       <r>autonomo<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>auxiliar<s n="n"/><s n="mf"/></l>      <r>ausiliario<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>aval<s n="n"/></l>                     <r>avallo<s n="n"/></r></p></e>
 <e>       <p><l>avalancha<s n="n"/></l>                <r>valanga<s n="n"/></r></p></e>
@@ -4684,7 +4682,7 @@
 <e>       <p><l>batalla<s n="n"/></l>                  <r>battaglia<s n="n"/></r></p></e>
 <e>       <p><l>batallón<s n="n"/></l>                 <r>battaglione<s n="n"/></r></p></e>
 
-<e>       <p><l>batería<s n="n"/></l>                  <r>batteria<s n="n"/></r></p></e>
+<e>       <p><l>batería<s n="n"/><s n="mf"/></l>                  <r>batteria<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>batiente<s n="n"/></l>                 <r>battente<s n="n"/></r></p></e>
 <e>       <p><l>bautizo<s n="n"/></l>                  <r>battesimo<s n="n"/></r></p></e>
 <e>       <p><l>bayoneta<s n="n"/></l>                 <r>baionetta<s n="n"/></r></p></e>
@@ -4720,9 +4718,7 @@
 <e r="LR"><p><l>bestialidad<s n="n"/><s n="f"/><s n="pl"/></l><r>bestialità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>bestialidad<s n="n"/><s n="f"/><s n="ND"/></l><r>bestialità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
-<e r="LR">      <p><l>beta<s n="n"/><s n="f"/><s n="sg"/></l><r>beta<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e r="LR">      <p><l>beta<s n="n"/><s n="f"/><s n="pl"/></l><r>beta<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e r="RL">      <p><l>beta<s n="n"/><s n="f"/><s n="ND"/></l><r>beta<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e>      <p><l>beta<s n="n"/></l><r>beta<s n="n"/></r></p></e>
 
 
 <e>       <p><l>biblia<s n="n"/></l>                   <r>bibbia<s n="n"/></r></p></e>
@@ -5253,7 +5249,13 @@
 <e r="RL"><p><l>cavidad<s n="n"/><s n="f"/><s n="ND"/></l><r>cavità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>cavidad<s n="n"/><s n="f"/><s n="sg"/></l><r>cavità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>cavidad<s n="n"/><s n="f"/><s n="pl"/></l><r>cavità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e>       <p><l>caza<s n="n"/></l>                     <r>caccia<s n="n"/></r></p></e>
+<e>       <p><l>caza<s n="n"/><s n="f"/></l>                     <r>caccia<s n="n"/><s n="f"/></r></p></e>
+<e r="LR">       <p><l>caza<s n="n"/><s n="m"/><s n="sg"/></l>                     <r>caccia<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="LR">       <p><l>caza<s n="n"/><s n="m"/><s n="pl"/></l>                     <r>caccia<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="RL">       <p><l>caza<s n="n"/><s n="m"/><s n="ND"/></l>                     <r>caccia<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+
+
+
 <e>       <p><l>cazador<s n="n"/></l>                  <r>cacciatore<s n="n"/></r></p></e>
 <e>       <p><l>caída<s n="n"/></l>                    <r>caduta<s n="n"/></r></p></e>
 <e>       <p><l>caña<s n="n"/></l>                     <r>canna<s n="n"/></r></p></e>
@@ -15134,7 +15136,7 @@
 <e>       <p><l>ni<s n="cnjcoo"/></l>                  <r>né<s n="cnjcoo"/></r></p></e>
 <e r="LR"><p><l>ni<b/>aun<s n="cnjcoo"/></l>           <r>neanche<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>o<s n="cnjcoo"/></l>                   <r>o<s n="cnjcoo"/></r></p></e>
-<e>       <p><l>o<s n="cnjcoo"/></l>                   <r>oppure<s n="cnjcoo"/></r></p></e>
+<e r="RL">       <p><l>o<s n="cnjcoo"/></l>                   <r>oppure<s n="cnjcoo"/></r></p></e>
 <e r="LR"><p><l>o<b/>sea<s n="cnjcoo"/></l>            <r>ossia<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>pero<s n="cnjcoo"/></l>                <r>ma<s n="cnjcoo"/></r></p></e>
 <e r="RL"><p><l>pero<s n="cnjcoo"/></l>                <r>però<s n="cnjcoo"/></r></p></e>
@@ -15169,7 +15171,7 @@
 <e>       <p><l>basta<b/>con<b/>que<s n="cnjadv"/></l> <r>basta<b/>che<s n="cnjadv"/></r></p></e>
 <e r="RL"><p><l>como<s n="cnjadv"/></l>                <r>siccome<s n="cnjadv"/></r></p></e>
 <e>       <p><l>comoquiera<b/>que<s n="cnjadv"/></l>   <r>come<b/>vuoi<b/>che<s n="cnjadv"/></r></p></e>
-<e>       <p><l>con<b/>el<b/>fin<b/>de<b/>que<s n="cnjadv"/></l><r>col<b/>fine<b/>di<s n="cnjadv"/></r></p></e>
+<e>       <p><l>con<b/>el<b/>fin<b/>de<b/>que<s n="cnjadv"/></l><r>col<b/>fine<b/>di<s n="pr"/></r></p></e>
 <e>       <p><l>con<b/>sólo<b/>que<s n="cnjadv"/></l>  <r>solo<b/>con<s n="cnjadv"/></r></p></e>
 <e r="LR"><p><l>dada<b/>cuenta<b/>que<s n="cnjadv"/></l><r>dato<b/>che<s n="cnjadv"/></r></p></e>
 <e>       <p><l>dado<b/>el<b/>caso<b/>que<s n="cnjadv"/></l><r>dato<b/>il<b/>caso<b/>in<b/>cui<s n="cnjadv"/></r></p></e>
@@ -15197,7 +15199,7 @@
 <e>       <p><l>para<b/>que<s n="cnjadv"/></l>         <r>affinché<s n="cnjadv"/></r></p></e>
 <e>       <p><l>por<b/>consiguiente<s n="cnjadv"/></l> <r>conseguentemente<s n="cnjadv"/></r></p></e>
 <e>       <p><l>por<b/>ello<s n="cnjadv"/></l>         <r>per<b/>questo<s n="cnjadv"/></r></p></e>
-<e>       <p><l>por<b/>lo<b/>tanto<s n="cnjadv"/></l>  <r>pertanto<s n="cnjadv"/></r></p></e>
+<e r="RL">       <p><l>por<b/>lo<b/>tanto<s n="cnjadv"/></l>  <r>pertanto<s n="cnjadv"/></r></p></e>
 <e>       <p><l>por<b/>mucho<b/>que<s n="cnjadv"/></l> <r>per<b/>molto<b/>che<s n="cnjadv"/></r></p></e>
 <e>       <p><l>por<b/>todo<b/>ello<s n="cnjadv"/></l> <r>per<b/>tutto<b/>ciò<s n="cnjadv"/></r></p></e>
 <e>       <p><l>porque<s n="cnjadv"/></l>              <r>perché<s n="cnjadv"/></r></p></e>
@@ -15209,12 +15211,11 @@
 <e r="LR"><p><l>sin<b/>embargo<s n="cnjadv"/></l>      <r>ciò<b/>nonostante<s n="cnjadv"/></r></p></e>
 <e r="RL"><p><l>sin<b/>embargo<s n="cnjadv"/></l>      <r>però<s n="cnjadv"/></r></p></e>
 <e r="RL"><p><l>sin<b/>embargo<s n="cnjadv"/></l>      <r>comunque<s n="cnjadv"/></r></p></e>
-<e>       <p><l>sino<s n="cnjcoo"/></l>                <r>bensì<s n="cnjadv"/></r></p></e>
 <e>       <p><l>sino<b/>también<s n="cnjcoo"/></l>     <r>sennonché<s n="cnjadv"/></r></p></e>
 <e>       <p><l>teniendo<b/>en<b/>cuenta<s n="cnjadv"/></l><r>tenendo<b/>in<b/>conto<s n="cnjadv"/></r></p></e>
 <e>       <p><l>todo<b/>ello<s n="cnjadv"/></l>        <r>tutto<b/>ciò<s n="cnjadv"/></r></p></e>
 <e>       <p><l>ya<b/>que<s n="cnjadv"/></l>           <r>poiché<s n="cnjadv"/></r></p></e>
-<e>       <p><l>ya<b/>que<s n="cnjadv"/></l>           <r>giacché<s n="cnjadv"/></r></p></e>
+<e r="RL">       <p><l>ya<b/>que<s n="cnjadv"/></l>           <r>giacché<s n="cnjadv"/></r></p></e>
     <!-- ******************************
           group adv_symbol
       ****************************** -->
@@ -15234,7 +15235,7 @@
 <e>       <p><l>a<b/>corto<b/>plazo<s n="adv"/></l>    <r>a<b/>breve<b/>termine<s n="adv"/></r></p></e>
 <e>       <p><l>a<b/>decir<b/>verdad<s n="adv"/></l>   <r>a<b/>dire<b/>la<b/>verità<s n="adv"/></r></p></e>
 <e>       <p><l>a<b/>diario<s n="adv"/></l>            <r>quotidianamente<s n="adv"/></r></p></e>
-<e>       <p><l>a<b/>duras<b/>penas<s n="adv"/></l>    <r>con<b/>grandi<b/>difficoltà<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>a<b/>duras<b/>penas<s n="adv"/></l>    <r>con<b/>grandi<b/>difficoltà<s n="adv"/></r></p></e>
 <e>       <p><l>a<b/>duras<b/>penas<s n="adv"/></l>    <r>malapena<s n="adv"/></r></p></e>
 <e r="RL"><p><l>a<b/>día<b/>de<b/>hoy<s n="adv"/></l>  <r>tutt'oggi<s n="adv"/></r></p></e>
 <e>       <p><l>a<b/>escala<s n="adv"/></l>            <r>su<b/>scala<s n="adv"/></r></p></e>
@@ -15273,7 +15274,7 @@
 <e>       <p><l>a<b/>muerte<s n="adv"/></l>            <r>a<b/>morte<s n="adv"/></r></p></e>
 <e>       <p><l>al<b/>norte<s n="adv"/></l>            <r>a<b/>nord<s n="adv"/></r></p></e>
 <e r="LR"><p><l>a<b/>nivel<b/>mundial<s n="adv"/></l>  <r>globalmente<s n="adv"/></r></p></e>
-<e>       <p><l>a<b/>no<b/>ser<b/>que<s n="cnjadv"/></l><r>a<b/>meno<b/>che<s n="adv"/></r></p></e>
+<e>       <p><l>a<b/>no<b/>ser<b/>que<s n="cnjadv"/></l><r>a<b/>meno<b/>che<s n="cnjadv"/></r></p></e>
 <e>       <p><l>a<b/>nuestro<b/>turno<s n="adv"/></l>  <r>al<b/>nostro<b/>turno<s n="adv"/></r></p></e>
 <e>       <p><l>a<b/>otra<b/>parte<s n="adv"/></l>     <r>ad<b/>un'altra<b/>parte<s n="adv"/></r></p></e>
 <e>       <p><l>a<b/>partir<b/>de<b/>las<s n="adv"/></l><r>a<b/>partire<b/>dalle<s n="adv"/></r></p></e>
@@ -15408,8 +15409,8 @@
 <e>       <p><l>con<b/>cautela<s n="adv"/></l>         <r>cautamente<s n="adv"/></r></p></e>
 <e>       <p><l>alrededor<b/>de<s n="adv"/></l>        <r>intorno<b/>a<s n="adv"/></r></p></e>
 <e>       <p><l>altamente<s n="adv"/></l>              <r>altamente<s n="adv"/></r></p></e>
-<e>       <p><l>alternativamente<s n="adv"/></l>       <r>alternativamente<s n="adv"/></r></p></e>
-<e>       <p><l>amablemente<s n="adv"/></l>            <r>amabilmente<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>alternativamente<s n="adv"/></l>       <r>alternativamente<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>amablemente<s n="adv"/></l>            <r>amabilmente<s n="adv"/></r></p></e>
 <e>       <p><l>amablemente<s n="adv"/></l>            <r>gentilmente<s n="adv"/></r></p></e>
 <e>       <p><l>amargamente<s n="adv"/></l>            <r>aspramente<s n="adv"/></r></p></e>
 <e>       <p><l>amistosamente<s n="adv"/></l>          <r>amichevolmente<s n="adv"/></r></p></e>
@@ -15468,17 +15469,17 @@
 <e>       <p><l>artísticamente<s n="adv"/></l>         <r>artisticamente<s n="adv"/></r></p></e>
 <e>       <p><l>asiduamente<s n="adv"/></l>            <r>assiduamente<s n="adv"/></r></p></e>
 <e r="LR"><p><l>asimismo<s n="adv"/></l>               <r>anche<s n="adv"/></r></p></e>
-<e>       <p><l>asimismo<s n="adv"/></l>               <r>altresì<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>asimismo<s n="adv"/></l>               <r>altresì<s n="adv"/></r></p></e>
 <e>       <p><l>asombrosamente<s n="adv"/></l>         <r>stupefacentemente<s n="adv"/></r></p></e>
 <e>       <p><l>así<s n="adv"/></l>                    <r>così<s n="adv"/></r></p></e>
 <e r="RL"><p><l>así<s n="adv"/></l>                    <r>cosicché<s n="adv"/></r></p></e>
 <e r="LR"><p><l>así<b/>como<s n="adv"/></l>            <r>così<b/>come<s n="adv"/></r></p></e>
-<e>       <p><l>así<b/>como<s n="adv"/></l>            <r>nonché<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>así<b/>como<s n="adv"/></l>            <r>nonché<s n="adv"/></r></p></e>
 <e>       <p><l>así<b/>pues<s n="adv"/></l>            <r>quindi<s n="adv"/></r></p></e>
 <e>       <p><l>así<b/>así<s n="adv"/></l>             <r>così<b/>così<s n="adv"/></r></p></e>
 <e>       <p><l>atentamente<s n="adv"/></l>            <r>attentamente<s n="adv"/></r></p></e>
 <e r="LR"><p><l>atrás<s n="adv"/></l>                  <r>dietro<s n="adv"/></r></p></e>
-<e>       <p><l>atrás<s n="adv"/></l>                  <r>indietro<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>atrás<s n="adv"/></l>                  <r>indietro<s n="adv"/></r></p></e>
 
 <e r="LR"><p><l>aun<s n="adv"/></l>                    <r>ancora<s n="adv"/></r></p></e>
 <e>       <p><l>automáticamente<s n="adv"/></l>        <r>automaticamente<s n="adv"/></r></p></e>
@@ -15489,9 +15490,6 @@
 <e>       <p><l>bastante<s n="adv"/></l>               <r>abbastanza<s n="adv"/></r></p></e>
 <e r="RL"><p><l>bastante<s n="adv"/></l>               <r>piuttosto<s n="adv"/></r></p></e>
 <e r="RL"><p><l>bastante<s n="adv"/></l>               <r>assai<s n="adv"/></r></p></e>
-<e>       <p><l>bastante<s n="adv"/></l>               <r>abbastanza<s n="adv"/></r></p></e>
-<e>       <p><l>bien<s n="adv"/></l>                   <r>bene<s n="adv"/></r></p></e>
-<e>       <p><l>bien<s n="preadv"/></l>                   <r>ben<s n="preadv"/></r></p></e>
 <e>       <p><l>bien<s n="adv"/></l>                   <r>bene<s n="adv"/></r></p></e>
 <e>       <p><l>biológicamente<s n="adv"/></l>         <r>biologicamente<s n="adv"/></r></p></e>
 <e>       <p><l>brevemente<s n="adv"/></l>             <r>brevemente<s n="adv"/></r></p></e>
@@ -15515,7 +15513,6 @@
 <e>       <p><l>casualmente<s n="adv"/></l>            <r>casualmente<s n="adv"/></r></p></e>
 
 <e r="RL"><p><l>casualmente<s n="adv"/></l>            <r>per<b/>pura<b/>coincidenza<s n="adv"/></r></p></e>
-<e><p><l>por<b/>último<s n="adv"/></l>                 <r>per<b/>ultimo<s n="adv"/></r></p></e>
 <e><p><l>algún<b/>tiempo<s n="adv"/></l>               <r>per<b/>un<b/>po'<s n="adv"/></r></p></e>
 <e>       <p><l>categóricamente<s n="adv"/></l>        <r>categoricamente<s n="adv"/></r></p></e>
 <e>       <p><l>celosamente<s n="adv"/></l>            <r>gelosamente<s n="adv"/></r></p></e>
@@ -15534,7 +15531,7 @@
 <e>       <p><l>coherentemente<s n="adv"/></l>         <r>coerentemente<s n="adv"/></r></p></e>
 <e>       <p><l>de<b/>lado<s n="adv"/></l>             <r>lateralmente<s n="adv"/></r></p></e>
 <e>       <p><l>colectivamente<s n="adv"/></l>         <r>collettivamente<s n="adv"/></r></p></e>
-<e>       <p><l>a<b/>ciegas<s n="adv"/></l>            <r>ciecamente<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>a<b/>ciegas<s n="adv"/></l>            <r>ciecamente<s n="adv"/></r></p></e>
 <e>       <p><l>comercialmente<s n="adv"/></l>         <r>commercialmente<s n="adv"/></r></p></e>
 <e>       <p><l>como<b/>consecuencia<s n="adv"/></l>   <r>come<b/>conseguenza<s n="adv"/></r></p></e>
 <e>       <p><l>como<b/>de<b/>costumbre<s n="adv"/></l><r>come<b/>di<b/>consueto<s n="adv"/></r></p></e>
@@ -15563,7 +15560,7 @@
 <e>       <p><l>concretamente<s n="adv"/></l>          <r>concretamente<s n="adv"/></r></p></e>
 <e>       <p><l>conjuntamente<s n="adv"/></l>          <r>congiuntamente<s n="adv"/></r></p></e>
 <e r="RL"><p><l>conjuntamente<s n="adv"/></l>          <r>unitariamente<s n="adv"/></r></p></e>
-<e>       <p><l>conscientemente<s n="adv"/></l>        <r>coscientemente<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>conscientemente<s n="adv"/></l>        <r>coscientemente<s n="adv"/></r></p></e>
 <e>       <p><l>consecutivamente<s n="adv"/></l>       <r>consecutivamente<s n="adv"/></r></p></e>
 <e>       <p><l>considerablemente<s n="adv"/></l>      <r>considerevolmente<s n="adv"/></r></p></e>
 <e>       <p><l>constantemente<s n="adv"/></l>         <r>costantemente<s n="adv"/></r></p></e>
@@ -15583,7 +15580,7 @@
 <e>       <p><l>cuantitativamente<s n="adv"/></l>      <r>quantitativamente<s n="adv"/></r></p></e>
 <e r="RL"><p><l>cuidadosamente<s n="adv"/></l>         <r>con<b/>attenzione<s n="adv"/></r></p></e>
 <e r="LR"><p><l>cuidadosamente<s n="adv"/></l>         <r>attentamente<s n="adv"/></r></p></e>
-<e>       <p><l>cuidadosamente<s n="adv"/></l>         <r>accuratamente<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>cuidadosamente<s n="adv"/></l>         <r>accuratamente<s n="adv"/></r></p></e>
 <e r="RL"><p><l>cuidadosamente<s n="adv"/></l>         <r>certosinamente<s n="adv"/></r></p></e>
 <e>       <p><l>culturalmente<s n="adv"/></l>          <r>culturalmente<s n="adv"/></r></p></e>
 <e>       <p><l>curiosamente<s n="adv"/></l>           <r>curiosamente<s n="adv"/></r></p></e>
@@ -15632,8 +15629,6 @@
 <e>       <p><l>de<b/>pura<b/>cepa<s n="adv"/></l>     <r>verace<s n="adv"/></r></p></e>
 <e>       <p><l>de<b/>qué<b/>se<b/>trata<s n="adv"/></l><r>di<b/>che<b/>si<b/>tratta<s n="adv"/></r></p></e>
 <e>       <p><l>de<b/>repente<s n="adv"/></l>          <r>all'improvviso<s n="adv"/></r></p></e>
-<e r="RL"><p><l>de<b/>repente<s n="adv"/></l>          <r>improvvisamente<s n="adv"/></r></p></e>
-<e>       <p><l>de<b/>repente<s n="adv"/></l>          <r>improvvisamente<s n="adv"/></r></p></e>
 <e>       <p><l>de<b/>ser<b/>posible<s n="adv"/></l>   <r>se<b/>possibile<s n="adv"/></r></p></e>
 <e>       <p><l>de<b/>soslayo<s n="adv"/></l>          <r>di<b/>sfuggita<s n="adv"/></r></p></e>
 <e r="RL"><p><l>de<b/>todas<b/>maneras<s n="adv"/></l> <r>ad<b/>ogni<b/>modo<s n="adv"/></r></p></e>
@@ -15666,7 +15661,6 @@
 <e>       <p><l>desastrosamente<s n="adv"/></l>        <r>disastrosamente<s n="adv"/></r></p></e>
 <e>       <p><l>descaradamente<s n="adv"/></l>         <r>sfacciatamente<s n="adv"/></r></p></e>
 <e>       <p><l>desde<b/>el<b/>extranjero<s n="adv"/></l><r>dall'estero<s n="adv"/></r></p></e>
-<e>       <p><l>desde<b/>el<b/>momento<b/>en<b/>que<s n="adv"/></l><r>dal<b/>momento<b/>in<b/>cui<s n="adv"/></r></p></e>
 <e>       <p><l>desde<b/>entonces<s n="adv"/></l>      <r>da<b/>allora<b/>in<b/>poi<s n="adv"/></r></p></e>
 
 <e>       <p><l>desde<b/>hace<b/>alrededor<b/>de<s n="adv"/></l><r>da<b/>circa<s n="adv"/></r></p></e><!--find the right translation-->
@@ -15681,10 +15675,10 @@
 <e>       <p><l>despacio<s n="adv"/></l>               <r>piano<s n="adv"/></r></p></e>
 <e>       <p><l>desproporcionadamente<s n="adv"/></l>  <r>sproporzionatamente<s n="adv"/></r></p></e>
 <e>       <p><l>después<s n="adv"/></l>                <r>dopo<s n="adv"/></r></p></e>
-<e r="LR"><p><l>después<b/>de<b/>que<s n="adv"/></l>   <r>dopodiché<s n="adv"/></r></p></e>
+<e r="LR"><p><l>después<b/>de<b/>que<s n="cnjadv"/></l>   <r>dopodiché<s n="adv"/></r></p></e>
 <e>       <p><l>con<b/>lo<b/>cual<s n="adv"/></l>      <r>dopodiché<s n="adv"/></r></p></e>
-<e r="RL"><p><l>después<b/>de<b/>que<s n="adv"/></l>   <r>dopo<b/>di<b/>ché<s n="adv"/></r></p></e>
-<e>       <p><l>después<b/>de<b/>que<s n="adv"/></l>   <r>dopo<b/>di<b/>che<s n="adv"/></r></p></e>
+<e r="RL"><p><l>después<b/>de<b/>que<s n="cnjadv"/></l>   <r>dopo<b/>di<b/>ché<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>después<b/>de<b/>que<s n="cnjadv"/></l>   <r>dopo<b/>di<b/>che<s n="cnjadv"/></r></p></e>
 <e r="RL"><p><l>después<b/>de<b/>todo<s n="adv"/></l>  <r>dopotutto<s n="adv"/></r></p></e>
 <e>       <p><l>detalladamente<s n="adv"/></l>         <r>dettagliatamente<s n="adv"/></r></p></e>
 <e>       <p><l>detenidamente<s n="adv"/></l>          <r>pianamente<s n="adv"/></r></p></e>
@@ -15728,7 +15722,7 @@
 <e>       <p><l>el<b/>próximo<b/>mes<s n="adv"/></l>   <r>il<b/>mese<b/>prossimo<s n="adv"/></r></p></e>
 <e>       <p><l>elegantemente<s n="adv"/></l>          <r>elegantemente<s n="adv"/></r></p></e>
 <e>       <p><l>emocionalmente<s n="adv"/></l>         <r>emozionalmente<s n="adv"/></r></p></e>
-<e>       <p><l>emocionalmente<s n="adv"/></l>         <r>emotivamente<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>emocionalmente<s n="adv"/></l>         <r>emotivamente<s n="adv"/></r></p></e>
 
 <e>       <p><l>en<b/>absoluto<s n="adv"/></l>         <r>in<b/>assoluto<s n="adv"/></r></p></e>
 
@@ -15876,7 +15870,7 @@
 <e>       <p><l>exitosamente<s n="adv"/></l>           <r>con<b/>successo<s n="adv"/></r></p></e>
 <e>       <p><l>experimentalmente<s n="adv"/></l>      <r>sperimentalmente<s n="adv"/></r></p></e>
 <e>       <p><l>explícitamente<s n="adv"/></l>         <r>esplicitamente<s n="adv"/></r></p></e>
-<e>       <p><l>exponencialmente<s n="adv"/></l>       <r>in<b/>modo<b/>esponenziale<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>exponencialmente<s n="adv"/></l>       <r>in<b/>modo<b/>esponenziale<s n="adv"/></r></p></e>
 <e>       <p><l>exponencialmente<s n="adv"/></l>       <r>esponenzialmente<s n="adv"/></r></p></e>
 <e>       <p><l>expresamente<s n="adv"/></l>           <r>espressamente<s n="adv"/></r></p></e>
 <e r="RL"><p><l>expresamente<s n="adv"/></l>           <r>appositamente<s n="adv"/></r></p></e>
@@ -15897,7 +15891,7 @@
 <e>       <p><l>fielmente<s n="adv"/></l>              <r>fedelmente<s n="adv"/></r></p></e>
 <e>       <p><l>fijamente<s n="adv"/></l>              <r>fisso<s n="adv"/></r></p></e>
 <e>       <p><l>filosóficamente<s n="adv"/></l>        <r>filosoficamente<s n="adv"/></r></p></e>
-<e r="RL"><p><l>finalmente<s n="adv"/></l>             <r>infine<s n="adv"/></r></p></e>
+<e><p><l>finalmente<s n="adv"/></l>             <r>infine<s n="adv"/></r></p></e>
 <e>       <p><l>finalmente<s n="adv"/></l>             <r>finalmente<s n="adv"/></r></p></e>
 
 <e r="RL"><p><l>finalmente<s n="adv"/></l>             <r>alla<b/>fine<s n="adv"/></r></p></e>
@@ -15951,11 +15945,10 @@
     <e><p><l>hace<b/>un<b/>momento<s n="adv"/></l><r>fa<b/>un<b/>poco<b/>istante<s n="adv"/></r></p></e>
     <e><p><l>hace<b/>una<b/>semana<s n="adv"/></l><r>una<b/>settimana<b/>fa<s n="adv"/></r></p></e>-->
 
-<e>       <p><l>hasta<s n="adv"/></l>                  <r>fino a<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>hasta<s n="adv"/></l>                  <r>fino a<s n="adv"/></r></p></e>
 <e>       <p><l>hasta<s n="adv"/></l>                  <r>fin<s n="adv"/></r></p></e>
-<e>       <p><l>hasta<s n="adv"/></l>                  <r>finché<s n="adv"/></r></p></e>
 <e>       <p><l>hasta<b/>ahora<s n="adv"/></l>         <r>finora<s n="adv"/></r></p></e>
-<e>       <p><l>hasta<b/>ahora<s n="adv"/></l>         <r>sinora<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>hasta<b/>ahora<s n="adv"/></l>         <r>sinora<s n="adv"/></r></p></e>
 <e>       <p><l>hasta<b/>entonces<s n="adv"/></l>      <r>fino<b/>ad<b/>allora<s n="adv"/></r></p></e>
 <e r="LR"><p><l>hasta<b/>la<b/>fecha<s n="adv"/></l>   <r>finora<s n="adv"/></r></p></e><!--check it-->
 <e>       <p><l>he<b/>aquí<s n="adv"/></l>             <r>ecco<s n="adv"/></r></p></e>
@@ -15991,13 +15984,12 @@
 <e>       <p><l>inclusive<s n="adv"/></l>              <r>inclusive<s n="adv"/></r></p></e>
 <e>       <p><l>incluso<s n="adv"/></l>                <r>incluso<s n="adv"/></r></p></e>
 <e r="RL"><p><l>incluso<s n="adv"/></l>                <r>persino<s n="adv"/></r></p></e>
-<e>       <p><l>incluso<s n="adv"/></l>                <r>perfino<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>incluso<s n="adv"/></l>                <r>perfino<s n="adv"/></r></p></e>
 <e>       <p><l>incoherentemente<s n="adv"/></l>       <r>incoerentemente<s n="adv"/></r></p></e>
 <e>       <p><l>incondicionalmente<s n="adv"/></l>     <r>incondizionalmente<s n="adv"/></r></p></e>
 <e>       <p><l>incorrectamente<s n="adv"/></l>        <r>in<b/>modo<b/>sbagliato<s n="adv"/></r></p></e>
 
-<e>       <p><l>sospechosamente<s n="adv"/></l>        <r>in<b/>modo<b/>sospetto<s n="adv"/></r></p></e>
-<e>       <p><l>indudablemente<s n="adv"/></l>         <r>innegabilmente<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>sospechosamente<s n="adv"/></l>        <r>in<b/>modo<b/>sospetto<s n="adv"/></r></p></e>
 <e r="RL"><p><l>especialmente<s n="adv"/></l>          <r>in<b/>particolare<s n="adv"/></r></p></e>
 
 
@@ -16097,7 +16089,7 @@
 <e>       <p><l>manifiestamente<s n="adv"/></l>        <r>manifestamente<s n="adv"/></r></p></e>
 <e>       <p><l>manualmente<s n="adv"/></l>            <r>manualmente<s n="adv"/></r></p></e>
 <e>       <p><l>maravillosamente<s n="adv"/></l>       <r>splendidamente<s n="adv"/></r></p></e>
-<e>       <p><l>maravillosamente<s n="adv"/></l>       <r>meravigliosamente<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>maravillosamente<s n="adv"/></l>       <r>meravigliosamente<s n="adv"/></r></p></e>
 <e>       <p><l>marcadamente<s n="adv"/></l>           <r>marcatamente<s n="adv"/></r></p></e>
 <e>       <p><l>marginalmente<s n="adv"/></l>          <r>marginalmente<s n="adv"/></r></p></e>
 <e>       <p><l>masivamente<s n="adv"/></l>            <r>massivamente<s n="adv"/></r></p></e>
@@ -16108,7 +16100,7 @@
 <e>       <p><l>mañana<s n="adv"/></l>                 <r>domani<s n="adv"/></r></p></e>
 
 <e>       <p><l>mecánicamente<s n="adv"/></l>          <r>meccanicamente<s n="adv"/></r></p></e>
-<e>       <p><l>media<b/>noche<s n="adv"/></l>         <r>mezza<b/>notte<s n="adv"/></r></p></e>
+<e>       <p><l>media<b/>noche<s n="adv"/></l>         <r>mezzanotte<s n="adv"/></r></p></e>
 <e>       <p><l>medianamente<s n="adv"/></l>           <r>mediamente<s n="adv"/></r></p></e>
 <e>       <p><l>mejor<s n="adv"/></l>                  <r>migliore<s n="adv"/></r></p></e>
 <e r="RL"><p><l>mejor<s n="adv"/></l>                  <r>meglio<s n="adv"/></r></p></e>
@@ -16214,7 +16206,7 @@
 <e>       <p><l>persuasivamente<s n="adv"/></l>        <r>persuasivamente<s n="adv"/></r></p></e>
 <e>       <p><l>pesadamente<s n="adv"/></l>            <r>pesantemente<s n="adv"/></r></p></e>
 <e>       <p><l>plenamente<s n="adv"/></l>             <r>pienamente<s n="adv"/></r></p></e>
-<e>       <p><l>plenamente<s n="adv"/></l>             <r>appieno<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>plenamente<s n="adv"/></l>             <r>appieno<s n="adv"/></r></p></e>
 <e>       <p><l>pobremente<s n="adv"/></l>             <r>poveramente<s n="adv"/></r></p></e>
 <e>       <p><l>poco<s n="adv"/></l>                   <r>poco<s n="adv"/></r></p></e>
 <e>       <p><l>poco<b/>a<b/>poco<s n="adv"/></l>      <r>poco<b/>a<b/>poco<s n="adv"/></r></p></e>
@@ -16240,8 +16232,8 @@
 <e>       <p><l>por<b/>descontado<s n="adv"/></l>      <r>per<b/>scontato<s n="adv"/></r></p></e>
 <e>       <p><l>por<b/>ejemplo<s n="adv"/></l>         <r>per<b/>esempio<s n="adv"/></r></p></e>
 <e>       <p><l>por<b/>el<b/>extranjero<s n="adv"/></l><r>all'estero<s n="adv"/></r></p></e>
-<e r="LR"><p><l>por<b/>ende<s n="cnjadv"/></l>         <r>quindi<s n="adv"/></r></p></e>
-<e r="LR"><p><l>por<b/>ende<s n="adv"/></l>            <r>dunque<s n="adv"/></r></p></e>
+<e r="LR"><p><l>por<b/>ende<s n="adv"/></l>         <r>quindi<s n="adv"/></r></p></e>
+<e r="LR"><p><l>por<b/>ende<s n="adv"/></l>            <r>dunque<s n="cnjadv"/></r></p></e>
 <e>       <p><l>por<b/>entero<s n="adv"/></l>          <r>per<b/>intero<s n="adv"/></r></p></e>
 <e r="LR"><p><l>por<b/>fin<s n="adv"/></l>             <r>infine<s n="adv"/></r></p></e>
 <e r="LR"><p><l>por<b/>hora<s n="adv"/></l>            <r>per<b/>ora<s n="adv"/></r></p></e>
@@ -16262,7 +16254,7 @@
 <e>       <p><l>por<b/>qué<s n="adv"/></l>             <r>perché<s n="adv"/></r></p></e>
 <e>       <p><l>por<b/>segundo<s n="adv"/></l>         <r>per<b/>secondo<s n="adv"/></r></p></e>
 <e>       <p><l>por<b/>sistema<s n="adv"/></l>         <r>da<b/>sistema<s n="adv"/></r></p></e><!--check it-->
-<e r="LR"><p><l>por<b/>supuesto<s n="adv"/></l>        <r>ovviamente<s n="adv"/></r></p></e>
+<e r="RL"><p><l>por<b/>supuesto<s n="adv"/></l>        <r>ovviamente<s n="adv"/></r></p></e>
 <e>       <p><l>por<b/>todas<b/>partes<s n="adv"/></l> <r>da<b/>tutte<b/>le<b/>parti<s n="adv"/></r></p></e>
 <e r="RL"><p><l>por<b/>todas<b/>partes<s n="adv"/></l> <r>dovunque<s n="adv"/></r></p></e>
 <e>       <p><l>por<b/>un<b/>lado<s n="adv"/></l>      <r>da<b/>un<b/>lato<s n="adv"/></r></p></e>
@@ -16320,7 +16312,7 @@
 <e>       <p><l>raramente<s n="adv"/></l>              <r>raramente<s n="adv"/></r></p></e>
 <e>       <p><l>raras<b/>veces<s n="adv"/></l>         <r>rare<b/>volte<s n="adv"/></r></p></e>
 <e>       <p><l>razonablemente<s n="adv"/></l>         <r>ragionevolmente<s n="adv"/></r></p></e>
-<e>       <p><l>realmente<s n="adv"/></l>              <r>realmente<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>realmente<s n="adv"/></l>              <r>realmente<s n="adv"/></r></p></e>
 <e>       <p><l>de<b/>manera<b/>realista<s n="adv"/></l><r>realisticamente<s n="adv"/></r></p></e>
 <e>       <p><l>rumorosamente<s n="adv"/></l>          <r>ruidosamente<s n="adv"/></r></p></e>
 <e>       <p><l>realmente<s n="adv"/></l>              <r>veramente<s n="adv"/></r></p></e>
@@ -16361,7 +16353,7 @@
 <e>       <p><l>seriamente<s n="adv"/></l>             <r>seriamente<s n="adv"/></r></p></e>
 <e r="RL"><p><l>seriamente<s n="adv"/></l>             <r>con<b/>serietà<s n="adv"/></r></p></e>
 <e>       <p><l>severamente<s n="adv"/></l>            <r>severamente<s n="adv"/></r></p></e>
-<e>       <p><l>en<b/>paz<s n="adv"/></l>              <r>serenamente<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>en<b/>paz<s n="adv"/></l>              <r>serenamente<s n="adv"/></r></p></e>
 <e>       <p><l>satisfactoriamente<s n="adv"/></l>     <r>con<b/>successo<s n="adv"/></r></p></e>
 <e>       <p><l>sexualmente<s n="adv"/></l>            <r>sessualmente<s n="adv"/></r></p></e>
 <e>       <p><l>si<b/>bien<s n="adv"/></l>             <r>benché<s n="adv"/></r></p></e>
@@ -16372,7 +16364,6 @@
 <e r="LR"><p><l>simplemente<s n="adv"/></l>            <r>semplicemente<s n="adv"/></r></p></e>
 <e>       <p><l>simultáneamente<s n="adv"/></l>        <r>simultaneamente<s n="adv"/></r></p></e>
 <e>       <p><l>sin<b/>derecho<b/>de<b/>apelación<s n="adv"/></l><r>senza<b/>diritto<b/>d'appello<s n="adv"/></r></p></e>
-<e>       <p><l>sin<b/>embargo<s n="adv"/></l>         <r>ciò<b/>nonostante<s n="adv"/></r></p></e>
 <e>       <p><l>sin<b/>falta<s n="adv"/></l>           <r>senza<b/>bisogno<s n="adv"/></r></p></e>
 <e>       <p><l>sin<b/>ninguna<b/>prisa<s n="adv"/></l><r>senza<b/>nessuna<b/>fretta<s n="adv"/></r></p></e>
 <e>       <p><l>sin<b/>pies<b/>ni<b/>cabeza<s n="adv"/></l><r>senza<b/>piedi<b/>né<b/>testa<s n="adv"/></r></p></e>
