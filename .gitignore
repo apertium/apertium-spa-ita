@@ -17,3 +17,9 @@
 /stamp-h1
 /ap_include.am
 /*.prob
+/*.hfst
+/*.gz
+/*.pc
+/*.zhfst
+/.DS_Store
+/test/*-output.txt

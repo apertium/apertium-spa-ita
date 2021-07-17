@@ -1,0 +1,456 @@
+[-SRcbikEnRk2#0] ^*Dáselo/*Dáselo$^.<sent>/.<sent>$
+[/-SRcbikEnRk2]
+[-_JcDMr8vxPL#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^nos<prn><enc><p1><mf><pl>/ci<prn><enc><p1><mf><pl>$ ^lo<prn><enc><p3><nt>/lo<prn><enc><p3><nt>$^.<sent>/.<sent>$
+[/-_JcDMr8vxPL]
+[-dLNrhHL3OfR#0] ^Dar<vblex><pri><p3><pl>/Dare<vblex><pri><p3><pl>$^.<sent>/.<sent>$
+[/-dLNrhHL3OfR]
+[-kkE67r7ROMY#0] ^Dar<vblex><pri><p2><sg>/Dare<vblex><pri><p2><sg>$^.<sent>/.<sent>$
+[/-kkE67r7ROMY]
+[-lgZg6JKG7dT#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^te<prn><enc><p2><mf><sg>/ti<prn><enc><p2><mf><sg>$ ^lo<prn><enc><p3><f><pl>/lo<prn><enc><p3><f><pl>$^.<sent>/.<sent>$
+[/-lgZg6JKG7dT]
+[-uPm0dAa93M9#0] ^*Dame/*Dame$^.<sent>/.<sent>$
+[/-uPm0dAa93M9]
+[0I2SblLYqWp9#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^nos<prn><enc><p1><mf><pl>/ci<prn><enc><p1><mf><pl>$ ^lo<prn><enc><p3><m><pl>/lo<prn><enc><p3><m><pl>$^.<sent>/.<sent>$
+[/0I2SblLYqWp9]
+[0ovCcR4WGWCU#0] ^Dar<vblex><pis><p1><pl>/Dare<vblex><pis><p1><pl>$^.<sent>/.<sent>$
+[/0ovCcR4WGWCU]
+[1LnUnU8ylIlK#0] ^*Dátela/*Dátela$^.<sent>/.<sent>$
+[/1LnUnU8ylIlK]
+[1QhHrhawt9rR#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^os<prn><enc><p2><mf><pl>/vi<prn><enc><p2><mf><pl>$^.<sent>/.<sent>$
+[/1QhHrhawt9rR]
+[2G0dFIEQebh6#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^me<prn><enc><p1><mf><sg>/mi<prn><enc><p1><mf><sg>$ ^lo<prn><enc><p3><f><pl>/lo<prn><enc><p3><f><pl>$^.<sent>/.<sent>$
+[/2G0dFIEQebh6]
+[2LDu2-ppg9OF#0] ^*Dádmelos/*Dádmelos$^.<sent>/.<sent>$
+[/2LDu2-ppg9OF]
+[2PbCAMyDYfoB#0] ^*Dénmelo/*Dénmelo$^.<sent>/.<sent>$
+[/2PbCAMyDYfoB]
+[2Q5S7WWaby1R#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^te<prn><enc><p2><mf><sg>/ti<prn><enc><p2><mf><sg>$ ^lo<prn><enc><p3><nt>/lo<prn><enc><p3><nt>$^.<sent>/.<sent>$
+[/2Q5S7WWaby1R]
+[2R7G3D7Dfaq5#0] ^Dar<vblex><pri><p1><sg>/Dare<vblex><pri><p1><sg>$^.<sent>/.<sent>$
+[/2R7G3D7Dfaq5]
+[3-1oYMxx945N#0] ^Dar<vblex><pp><f><sg>/Dare<vblex><pp><f><sg>$^.<sent>/.<sent>$
+[/3-1oYMxx945N]
+[3InKpeCeXc1u#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^se<prn><enc><ref><p3><mf><sp>/si<prn><enc><ref><p3><mf><sp>$ ^le<prn><enc><p3><mf><sg>/le<prn><enc><p3><f><sg>/gli<prn><enc><p3><mf><sp>$^.<sent>/.<sent>$
+[/3InKpeCeXc1u]
+[3aIhp0y-ZcsI#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^lo<prn><enc><p3><f><sg>/lo<prn><enc><p3><f><sg>$^.<sent>/.<sent>$
+[/3aIhp0y-ZcsI]
+[4EcSfadXVEOo#0] ^*Dénmela/*Dénmela$^.<sent>/.<sent>$
+[/4EcSfadXVEOo]
+[4h59eLggS5Jp#0] ^*Dátelos/*Dátelos$^.<sent>/.<sent>$
+[/4h59eLggS5Jp]
+[4u4FX4KNTvHg#0] ^*Démelos/*Démelos$^.<sent>/.<sent>$
+[/4u4FX4KNTvHg]
+[4ut-R_GW_pny#0] ^Dar<vblex><fti><p2><pl>/Dare<vblex><fti><p2><pl>$^.<sent>/.<sent>$
+[/4ut-R_GW_pny]
+[5ii8dk0VCUbD#0] ^*Dénmelos/*Dénmelos$^.<sent>/.<sent>$
+[/5ii8dk0VCUbD]
+[6A8Qczd5Vz-C#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^lo<prn><enc><p3><f><pl>/lo<prn><enc><p3><f><pl>$^.<sent>/.<sent>$
+[/6A8Qczd5Vz-C]
+[6PK9ND_ckTEw#0] ^Dar<vblex><ifi><p3><sg>/Dare<vblex><ifi><p3><sg>$^.<sent>/.<sent>$
+[/6PK9ND_ckTEw]
+[7CnwHTtMIPv_#0] ^*Dadles/*Dadles$^.<sent>/.<sent>$
+[/7CnwHTtMIPv_]
+[7rl5l1xna0j1#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^se<prn><enc><ref><p3><mf><sp>/si<prn><enc><ref><p3><mf><sp>$ ^lo<prn><enc><p3><f><sg>/lo<prn><enc><p3><f><sg>$^.<sent>/.<sent>$
+[/7rl5l1xna0j1]
+[812ki9m_dmMS#0] ^*Denlas/*Denlas$^.<sent>/.<sent>$
+[/812ki9m_dmMS]
+[89ZfVEOgM3QE#0] ^*Dénnoslas/*Dénnoslas$^.<sent>/.<sent>$
+[/89ZfVEOgM3QE]
+[8HOGLuPE_E18#0] ^*Dáoslos/*Dáoslos$^.<sent>/.<sent>$
+[/8HOGLuPE_E18]
+[8VInA-PoIYNH#0] ^*Denos/*Denos$^.<sent>/.<sent>$
+[/8VInA-PoIYNH]
+[8nLEkbxPUMjz#0] ^Dar<vblex><fti><p3><sg>/Dare<vblex><fti><p3><sg>$^.<sent>/.<sent>$
+[/8nLEkbxPUMjz]
+[8yh5SSXG_2Ud#0] ^*Démosnosla/*Démosnosla$^.<sent>/.<sent>$
+[/8yh5SSXG_2Ud]
+[9DY0H6iphxLB#0] ^*Denlos/*Denlos$^.<sent>/.<sent>$
+[/9DY0H6iphxLB]
+[9OupXCWNj_dz#0] ^*Dánoslas/*Dánoslas$^.<sent>/.<sent>$
+[/9OupXCWNj_dz]
+[9VudEAHAi4vG#0] ^*Dadle/*Dadle$^.<sent>/.<sent>$
+[/9VudEAHAi4vG]
+[A4V9TQX2tgjK#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^lo<prn><enc><p3><m><pl>/lo<prn><enc><p3><m><pl>$^.<sent>/.<sent>$
+[/A4V9TQX2tgjK]
+[AR9_QEt7H9-l#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^me<prn><enc><p1><mf><sg>/mi<prn><enc><p1><mf><sg>$ ^lo<prn><enc><p3><m><pl>/lo<prn><enc><p3><m><pl>$^.<sent>/.<sent>$
+[/AR9_QEt7H9-l]
+[AhlyWPWER3zN#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^nos<prn><enc><p1><mf><pl>/ci<prn><enc><p1><mf><pl>$ ^lo<prn><enc><p3><nt>/lo<prn><enc><p3><nt>$^.<sent>/.<sent>$
+[/AhlyWPWER3zN]
+[AzsaESMzhj4K#0] ^*Démoslo/*Démoslo$^.<sent>/.<sent>$
+[/AzsaESMzhj4K]
+[B9_QV8hqP9yR#0] ^*Dádselo/*Dádselo$^.<sent>/.<sent>$
+[/B9_QV8hqP9yR]
+[BE5jjCDmbCXo#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^me<prn><enc><p1><mf><sg>/mi<prn><enc><p1><mf><sg>$ ^lo<prn><enc><p3><f><pl>/lo<prn><enc><p3><f><pl>$^.<sent>/.<sent>$
+[/BE5jjCDmbCXo]
+[BUtnMk9ggLYa#0] ^*Démosnoslo/*Démosnoslo$^.<sent>/.<sent>$
+[/BUtnMk9ggLYa]
+[CF-imbefWtQk#0] ^*Dádmela/*Dádmela$^.<sent>/.<sent>$
+[/CF-imbefWtQk]
+[CUVJrw2HAdEa#0] ^*Dánosla/*Dánosla$^.<sent>/.<sent>$
+[/CUVJrw2HAdEa]
+[CuWkMmUFP-c6#0] ^*Démosela/*Démosela$^.<sent>/.<sent>$
+[/CuWkMmUFP-c6]
+[Da6cPtZicyy1#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^os<prn><enc><p2><mf><pl>/vi<prn><enc><p2><mf><pl>$ ^lo<prn><enc><p3><f><pl>/lo<prn><enc><p3><f><pl>$^.<sent>/.<sent>$
+[/Da6cPtZicyy1]
+[E-GhmXHPr35L#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^se<prn><enc><ref><p3><mf><sp>/si<prn><enc><ref><p3><mf><sp>$ ^le<prn><enc><p3><mf><pl>/gli<prn><enc><p3><mf><pl>$^.<sent>/.<sent>$
+[/E-GhmXHPr35L]
+[E4Rjd_EArD__#0] ^*Dénselas/*Dénselas$^.<sent>/.<sent>$
+[/E4Rjd_EArD__]
+[ELXgP2VHWytz#0] ^*Dénmelas/*Dénmelas$^.<sent>/.<sent>$
+[/ELXgP2VHWytz]
+[EVyetPpd8Z_0#0] ^*Démosles/*Démosles$^.<sent>/.<sent>$
+[/EVyetPpd8Z_0]
+[EXN5PjflxX-w#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^nos<prn><enc><p1><mf><pl>/ci<prn><enc><p1><mf><pl>$ ^lo<prn><enc><p3><m><pl>/lo<prn><enc><p3><m><pl>$^.<sent>/.<sent>$
+[/EXN5PjflxX-w]
+[EvhMPY8cYerO#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^te<prn><enc><p2><mf><sg>/ti<prn><enc><p2><mf><sg>$^.<sent>/.<sent>$
+[/EvhMPY8cYerO]
+[EzARv8RexRez#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^le<prn><enc><p3><mf><sg>/le<prn><enc><p3><f><sg>/gli<prn><enc><p3><mf><sp>$^.<sent>/.<sent>$
+[/EzARv8RexRez]
+[F6aU30b6YT9F#0] ^*Démosnos/*Démosnos$^.<sent>/.<sent>$
+[/F6aU30b6YT9F]
+[FIGq4sN-8-tP#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^os<prn><enc><p2><mf><pl>/vi<prn><enc><p2><mf><pl>$^.<sent>/.<sent>$
+[/FIGq4sN-8-tP]
+[GN07kHtraaKB#0] ^*Dénoslas/*Dénoslas$^.<sent>/.<sent>$
+[/GN07kHtraaKB]
+[GZ8BeohOhHT-#0] ^*Dalos/*Dalos$^.<sent>/.<sent>$
+[/GZ8BeohOhHT-]
+[G_d5R-iRh385#0] ^Dar<vblex><prs><p1><pl>/Dare<vblex><prs><p1><pl>$^.<sent>/.<sent>$
+[/G_d5R-iRh385]
+[Gi_2xt_jIM43#0] ^*Dáselas/*Dáselas$^.<sent>/.<sent>$
+[/Gi_2xt_jIM43]
+[GwBnC01snz1s#0] ^*Démosnoslas/*Démosnoslas$^.<sent>/.<sent>$
+[/GwBnC01snz1s]
+[H5awU5wzJh7b#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^te<prn><enc><p2><mf><sg>/ti<prn><enc><p2><mf><sg>$ ^nos<prn><enc><p1><mf><pl>/ci<prn><enc><p1><mf><pl>$^.<sent>/.<sent>$
+[/H5awU5wzJh7b]
+[HXXXkCkcsbhl#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^me<prn><enc><p1><mf><sg>/mi<prn><enc><p1><mf><sg>$ ^lo<prn><enc><p3><f><sg>/lo<prn><enc><p3><f><sg>$^.<sent>/.<sent>$
+[/HXXXkCkcsbhl]
+[HXZVU8NOv-Kt#0] ^Dar<vblex><pis><p3><sg>/Dare<vblex><pis><p3><sg>$^.<sent>/.<sent>$
+[/HXZVU8NOv-Kt]
+[Hdox7a87yFuJ#0] ^Dar<vblex><prs><p2><pl>/Dare<vblex><prs><p2><pl>$^.<sent>/.<sent>$
+[/Hdox7a87yFuJ]
+[He6CDd3VyVN5#0] ^Dar<vblex><cni><p3><pl>/Dare<vblex><cni><p3><pl>$^.<sent>/.<sent>$
+[/He6CDd3VyVN5]
+[HrHSkruKeciq#0] ^Dar<vblex><ger>/Dare<vblex><ger>$^.<sent>/.<sent>$
+[/HrHSkruKeciq]
+[IJaDwu42VqBf#0] ^*Dénnoslos/*Dénnoslos$^.<sent>/.<sent>$
+[/IJaDwu42VqBf]
+[IPcWkyFoBPSg#0] ^*Dadlos/*Dadlos$^.<sent>/.<sent>$
+[/IPcWkyFoBPSg]
+[IzYGfW91A99x#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^te<prn><enc><p2><mf><sg>/ti<prn><enc><p2><mf><sg>$ ^lo<prn><enc><p3><m><pl>/lo<prn><enc><p3><m><pl>$^.<sent>/.<sent>$
+[/IzYGfW91A99x]
+[KIx9dhOEvUum#0] ^*Dádnosla/*Dádnosla$^.<sent>/.<sent>$
+[/KIx9dhOEvUum]
+[KO_MTAp3OSTq#0] ^*Dadlas/*Dadlas$^.<sent>/.<sent>$
+[/KO_MTAp3OSTq]
+[KeoZRa66Zzph#0] ^Dar<vblex><pii><p1><pl>/Dare<vblex><pii><p1><pl>$^.<sent>/.<sent>$
+[/KeoZRa66Zzph]
+[KlWHjLEmGS5o#0] ^Dar<vblex><ifi><p2><sg>/Dare<vblex><ifi><p2><sg>$^.<sent>/.<sent>$
+[/KlWHjLEmGS5o]
+[Ks-g9MYHIJBk#0] ^*Démoslos/*Démoslos$^.<sent>/.<sent>$
+[/Ks-g9MYHIJBk]
+[LxYsrKlbG-mz#0] ^*Dádnoslas/*Dádnoslas$^.<sent>/.<sent>$
+[/LxYsrKlbG-mz]
+[M2_TVyF-bQSa#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^me<prn><enc><p1><mf><sg>/mi<prn><enc><p1><mf><sg>$^.<sent>/.<sent>$
+[/M2_TVyF-bQSa]
+[MXQrE_A92iIc#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^te<prn><enc><p2><mf><sg>/ti<prn><enc><p2><mf><sg>$ ^nos<prn><enc><p1><mf><pl>/ci<prn><enc><p1><mf><pl>$^.<sent>/.<sent>$
+[/MXQrE_A92iIc]
+[M_GB-1ob8vis#0] ^*Daos/*Daos$^.<sent>/.<sent>$
+[/M_GB-1ob8vis]
+[MaTrK5i8-n8D#0] ^*Dámela/*Dámela$^.<sent>/.<sent>$
+[/MaTrK5i8-n8D]
+[NJqijcp0C-oC#0] ^Dar<vblex><fti><p2><sg>/Dare<vblex><fti><p2><sg>$^.<sent>/.<sent>$
+[/NJqijcp0C-oC]
+[NiJvkqxma1Mk#0] ^Dar<vblex><pii><p2><pl>/Dare<vblex><pii><p2><pl>$^.<sent>/.<sent>$
+[/NiJvkqxma1Mk]
+[O01CcSGbpocO#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^lo<prn><enc><p3><f><pl>/lo<prn><enc><p3><f><pl>$^.<sent>/.<sent>$
+[/O01CcSGbpocO]
+[O95Pqj2iUwwG#0] ^*Dátelas/*Dátelas$^.<sent>/.<sent>$
+[/O95Pqj2iUwwG]
+[OiSEqgPK6lY6#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^nos<prn><enc><p1><mf><pl>/ci<prn><enc><p1><mf><pl>$ ^le<prn><enc><p3><mf><sg>/le<prn><enc><p3><f><sg>/gli<prn><enc><p3><mf><sp>$^.<sent>/.<sent>$
+[/OiSEqgPK6lY6]
+[PSqbxpY2sbT7#0] ^Dar<vblex><ifi><p1><sg>/Dare<vblex><ifi><p1><sg>$^.<sent>/.<sent>$
+[/PSqbxpY2sbT7]
+[PZBYOS2nBvN-#0] ^Dar<vblex><cni><p2><sg>/Dare<vblex><cni><p2><sg>$^.<sent>/.<sent>$
+[/PZBYOS2nBvN-]
+[Q1aQMmcBfKYe#0] ^Dar<vblex><ifi><p3><pl>/Dare<vblex><ifi><p3><pl>$^.<sent>/.<sent>$
+[/Q1aQMmcBfKYe]
+[QBeIs_RXZv_Q#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^os<prn><enc><p2><mf><pl>/vi<prn><enc><p2><mf><pl>$ ^lo<prn><enc><p3><nt>/lo<prn><enc><p3><nt>$^.<sent>/.<sent>$
+[/QBeIs_RXZv_Q]
+[QHimVM2znk9c#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^lo<prn><enc><p3><m><pl>/lo<prn><enc><p3><m><pl>$^.<sent>/.<sent>$
+[/QHimVM2znk9c]
+[QQGxI-acnyv-#0] ^*Démelo/*Démelo$^.<sent>/.<sent>$
+[/QQGxI-acnyv-]
+[QjnacgfNOAdY#0] ^*Délas/*Délas$^.<sent>/.<sent>$
+[/QjnacgfNOAdY]
+[QzL7Zaxjg5QD#0] ^*Dáosla/*Dáosla$^.<sent>/.<sent>$
+[/QzL7Zaxjg5QD]
+[R-Zq5gObV5vb#0] ^*Dénnosla/*Dénnosla$^.<sent>/.<sent>$
+[/R-Zq5gObV5vb]
+[RBszsqocTsSq#0] ^*Dénnoslo/*Dénnoslo$^.<sent>/.<sent>$
+[/RBszsqocTsSq]
+[RKEQN4IEtfke#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^nos<prn><enc><p1><mf><pl>/ci<prn><enc><p1><mf><pl>$^.<sent>/.<sent>$
+[/RKEQN4IEtfke]
+[RQ3_A6ZTpKQv#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^lo<prn><enc><p3><f><sg>/lo<prn><enc><p3><f><sg>$^.<sent>/.<sent>$
+[/RQ3_A6ZTpKQv]
+[RxBy2EbsPhvi#0] ^Dar<vblex><fti><p1><pl>/Dare<vblex><fti><p1><pl>$^.<sent>/.<sent>$
+[/RxBy2EbsPhvi]
+[S1JiAY8plNhI#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^te<prn><enc><p2><mf><sg>/ti<prn><enc><p2><mf><sg>$ ^lo<prn><enc><p3><f><sg>/lo<prn><enc><p3><f><sg>$^.<sent>/.<sent>$
+[/S1JiAY8plNhI]
+[SFXm_i9vPZ9i#0] ^*Déla/*Déla$^.<sent>/.<sent>$
+[/SFXm_i9vPZ9i]
+[SPD-EK0E3iTJ#0] ^*Dáis/*Dáis$^.<sent>/.<sent>$
+[/SPD-EK0E3iTJ]
+[Skc3-v39yUVQ#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^os<prn><enc><p2><mf><pl>/vi<prn><enc><p2><mf><pl>$ ^lo<prn><enc><p3><f><sg>/lo<prn><enc><p3><f><sg>$^.<sent>/.<sent>$
+[/Skc3-v39yUVQ]
+[TF1d3JcQ2XRO#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^se<prn><enc><ref><p3><mf><sp>/si<prn><enc><ref><p3><mf><sp>$ ^lo<prn><enc><p3><m><pl>/lo<prn><enc><p3><m><pl>$^.<sent>/.<sent>$
+[/TF1d3JcQ2XRO]
+[TGAKAIdHQK4Y#0] ^*Déle/*Déle$^.<sent>/.<sent>$
+[/TGAKAIdHQK4Y]
+[TJEFjHCmEm-I#0] ^Dar<vblex><pis><p2><sg>/Dare<vblex><pis><p2><sg>$^.<sent>/.<sent>$
+[/TJEFjHCmEm-I]
+[TWx3ngz15SXf#0] ^*Dádselos/*Dádselos$^.<sent>/.<sent>$
+[/TWx3ngz15SXf]
+[Tatj-XwZjpuj#0] ^*Dennos/*Dennos$^.<sent>/.<sent>$
+[/Tatj-XwZjpuj]
+[TbwuS7dMEhxa#0] ^*Dátelo/*Dátelo$^.<sent>/.<sent>$
+[/TbwuS7dMEhxa]
+[UFZ5zuu5DJxm#0] ^*Démela/*Démela$^.<sent>/.<sent>$
+[/UFZ5zuu5DJxm]
+[Um4NIr_e12VI#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^se<prn><enc><ref><p3><mf><sp>/si<prn><enc><ref><p3><mf><sp>$ ^le<prn><enc><p3><mf><sg>/le<prn><enc><p3><f><sg>/gli<prn><enc><p3><mf><sp>$^.<sent>/.<sent>$
+[/Um4NIr_e12VI]
+[Uxv1S08UoIlz#0] ^*Dalas/*Dalas$^.<sent>/.<sent>$
+[/Uxv1S08UoIlz]
+[V0DMKIzIEwww#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^me<prn><enc><p1><mf><sg>/mi<prn><enc><p1><mf><sg>$^.<sent>/.<sent>$
+[/V0DMKIzIEwww]
+[VFOn6XMOT60s#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^te<prn><enc><p2><mf><sg>/ti<prn><enc><p2><mf><sg>$ ^lo<prn><enc><p3><f><pl>/lo<prn><enc><p3><f><pl>$^.<sent>/.<sent>$
+[/VFOn6XMOT60s]
+[VW5b4VXqhafW#0] ^Dar<vblex><fti><p1><sg>/Dare<vblex><fti><p1><sg>$^.<sent>/.<sent>$
+[/VW5b4VXqhafW]
+[VihxvzJZGyX2#0] ^Dar<vblex><cni><p3><sg>/Dare<vblex><cni><p3><sg>$^.<sent>/.<sent>$
+[/VihxvzJZGyX2]
+[VodV-ABrlChB#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^se<prn><enc><ref><p3><mf><sp>/si<prn><enc><ref><p3><mf><sp>$ ^lo<prn><enc><p3><f><pl>/lo<prn><enc><p3><f><pl>$^.<sent>/.<sent>$
+[/VodV-ABrlChB]
+[WaIHPCkGzuMd#0] ^*Dadla/*Dadla$^.<sent>/.<sent>$
+[/WaIHPCkGzuMd]
+[WdrXo5Bfvn2w#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^le<prn><enc><p3><mf><sg>/le<prn><enc><p3><f><sg>/gli<prn><enc><p3><mf><sp>$^.<sent>/.<sent>$
+[/WdrXo5Bfvn2w]
+[XToCCza32l8f#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^os<prn><enc><p2><mf><pl>/vi<prn><enc><p2><mf><pl>$ ^lo<prn><enc><p3><nt>/lo<prn><enc><p3><nt>$^.<sent>/.<sent>$
+[/XToCCza32l8f]
+[XYdwYjIj-A2A#0] ^*Dense/*Dense$^.<sent>/.<sent>$
+[/XYdwYjIj-A2A]
+[XgsIV-NxOtrv#0] ^*Denle/*Denle$^.<sent>/.<sent>$
+[/XgsIV-NxOtrv]
+[XoWi2fTX0CkY#0] ^Dar<vblex><inf>/Dare<vblex><inf>$^.<sent>/.<sent>$
+[/XoWi2fTX0CkY]
+[Xrm0ogt_5rac#0] ^*Démosle/*Démosle$^.<sent>/.<sent>$
+[/Xrm0ogt_5rac]
+[Y0fS4tPK2iqL#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^nos<prn><enc><p1><mf><pl>/ci<prn><enc><p1><mf><pl>$ ^lo<prn><enc><p3><f><pl>/lo<prn><enc><p3><f><pl>$^.<sent>/.<sent>$
+[/Y0fS4tPK2iqL]
+[YHcmUice_T13#0] ^*Dala/*Dala$^.<sent>/.<sent>$
+[/YHcmUice_T13]
+[YRovVCUWjhk7#0] ^*Démoslas/*Démoslas$^.<sent>/.<sent>$
+[/YRovVCUWjhk7]
+[YrN0Gr4Lqnj6#0] ^*Démelas/*Démelas$^.<sent>/.<sent>$
+[/YrN0Gr4Lqnj6]
+[Z6VWpIYWnJi4#0] ^*Délo/*Délo$^.<sent>/.<sent>$
+[/Z6VWpIYWnJi4]
+[ZJ8rNT6ng30z#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^os<prn><enc><p2><mf><pl>/vi<prn><enc><p2><mf><pl>$ ^lo<prn><enc><p3><m><pl>/lo<prn><enc><p3><m><pl>$^.<sent>/.<sent>$
+[/ZJ8rNT6ng30z]
+[ZkUY4g4yfkk5#0] ^Dar<vblex><ifi><p2><pl>/Dare<vblex><ifi><p2><pl>$^.<sent>/.<sent>$
+[/ZkUY4g4yfkk5]
+[Zs_biFDAbG7U#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^le<prn><enc><p3><mf><pl>/gli<prn><enc><p3><mf><pl>$^.<sent>/.<sent>$
+[/Zs_biFDAbG7U]
+[_MYk4aShUpgX#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^se<prn><enc><ref><p3><mf><sp>/si<prn><enc><ref><p3><mf><sp>$ ^lo<prn><enc><p3><f><pl>/lo<prn><enc><p3><f><pl>$^.<sent>/.<sent>$
+[/_MYk4aShUpgX]
+[_WrsuVah1E8S#0] ^*Dádmelo/*Dádmelo$^.<sent>/.<sent>$
+[/_WrsuVah1E8S]
+[_k_NPJBgfQOC#0] ^*Denme/*Denme$^.<sent>/.<sent>$
+[/_k_NPJBgfQOC]
+[aFSNR92QjTUl#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^nos<prn><enc><p1><mf><pl>/ci<prn><enc><p1><mf><pl>$ ^lo<prn><enc><p3><f><sg>/lo<prn><enc><p3><f><sg>$^.<sent>/.<sent>$
+[/aFSNR92QjTUl]
+[aR-5ePThvaQs#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^nos<prn><enc><p1><mf><pl>/ci<prn><enc><p1><mf><pl>$ ^lo<prn><enc><p3><f><sg>/lo<prn><enc><p3><f><sg>$^.<sent>/.<sent>$
+[/aR-5ePThvaQs]
+[aVM8BacqiTCN#0] ^*Dadnos/*Dadnos$^.<sent>/.<sent>$
+[/aVM8BacqiTCN]
+[ab9wRnko0NjM#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^nos<prn><enc><p1><mf><pl>/ci<prn><enc><p1><mf><pl>$ ^le<prn><enc><p3><mf><pl>/gli<prn><enc><p3><mf><pl>$^.<sent>/.<sent>$
+[/ab9wRnko0NjM]
+[afaQtiw6xAyB#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^me<prn><enc><p1><mf><sg>/mi<prn><enc><p1><mf><sg>$ ^lo<prn><enc><p3><m><pl>/lo<prn><enc><p3><m><pl>$^.<sent>/.<sent>$
+[/afaQtiw6xAyB]
+[aiQ2ZEV4UebQ#0] ^Dar<vblex><cni><p1><pl>/Dare<vblex><cni><p1><pl>$^.<sent>/.<sent>$
+[/aiQ2ZEV4UebQ]
+[bAifUJW2vGBq#0] ^*Dadme/*Dadme$^.<sent>/.<sent>$
+[/bAifUJW2vGBq]
+[bN8hjWniGmax#0] ^Dado<n><m><sg>/Dado<n><m><sg>$^.<sent>/.<sent>$
+[/bN8hjWniGmax]
+[ble7ix8A8tFC#0] ^*Dádsela/*Dádsela$^.<sent>/.<sent>$
+[/ble7ix8A8tFC]
+[bsmWTOUhcPZf#0] ^*Dad/*Dad$^.<sent>/.<sent>$
+[/bsmWTOUhcPZf]
+[c1l6TnpwQQQO#0] ^*Dalo/*Dalo$^.<sent>/.<sent>$
+[/c1l6TnpwQQQO]
+[cgbWa3FDGwaN#0] ^*Dadlo/*Dadlo$^.<sent>/.<sent>$
+[/cgbWa3FDGwaN]
+[ePs5CZhyDw6q#0] ^*Dénsela/*Dénsela$^.<sent>/.<sent>$
+[/ePs5CZhyDw6q]
+[eSLrzxjFfbu1#0] ^Dar<vblex><pis><p3><pl>/Dare<vblex><pis><p3><pl>$^.<sent>/.<sent>$
+[/eSLrzxjFfbu1]
+[eYMM5q3qkG51#0] ^*Déme/*Déme$^.<sent>/.<sent>$
+[/eYMM5q3qkG51]
+[f1ZfbefQnnm8#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^me<prn><enc><p1><mf><sg>/mi<prn><enc><p1><mf><sg>$ ^lo<prn><enc><p3><f><sg>/lo<prn><enc><p3><f><sg>$^.<sent>/.<sent>$
+[/f1ZfbefQnnm8]
+[fnaLCaE6lPb1#0] ^*Déselo/*Déselo$^.<sent>/.<sent>$
+[/fnaLCaE6lPb1]
+[fok5bcoOV0rM#0] ^*Dáoslas/*Dáoslas$^.<sent>/.<sent>$
+[/fok5bcoOV0rM]
+[g54snmLT4rvw#0] ^Dar<vblex><pri><p3><sg>/Dare<vblex><pri><p3><sg>$^.<sent>/.<sent>$
+[/g54snmLT4rvw]
+[gCK__ZyjM3Da#0] ^Dar<vblex><pii><p3><pl>/Dare<vblex><pii><p3><pl>$^.<sent>/.<sent>$
+[/gCK__ZyjM3Da]
+[gh0FArtjkCgH#0] ^*Dénos/*Dénos$^.<sent>/.<sent>$
+[/gh0FArtjkCgH]
+[gkSVZ2RpBId4#0] ^*Dáteme/*Dáteme$^.<sent>/.<sent>$
+[/gkSVZ2RpBId4]
+[hYhnbO3HUSBv#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^lo<prn><enc><p3><nt>/lo<prn><enc><p3><nt>$^.<sent>/.<sent>$
+[/hYhnbO3HUSBv]
+[i0dCoHeUvG1D#0] ^*Dénoslos/*Dénoslos$^.<sent>/.<sent>$
+[/i0dCoHeUvG1D]
+[iKfNFAhwRtiI#0] ^Dar<vblex><pis><p2><pl>/Dare<vblex><pis><p2><pl>$^.<sent>/.<sent>$
+[/iKfNFAhwRtiI]
+[iNvStfYGd4vJ#0] ^*Démosnoslos/*Démosnoslos$^.<sent>/.<sent>$
+[/iNvStfYGd4vJ]
+[itUDmvUKI0yW#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^te<prn><enc><p2><mf><sg>/ti<prn><enc><p2><mf><sg>$^.<sent>/.<sent>$
+[/itUDmvUKI0yW]
+[ivs9en-PJ4d8#0] ^Dar<vblex><pii><p2><sg>/Dare<vblex><pii><p2><sg>$^.<sent>/.<sent>$
+[/ivs9en-PJ4d8]
+[jR89vH-gXCf5#0] ^Dar<vblex><pis><p3><pl>/Dare<vblex><pis><p3><pl>$^.<sent>/.<sent>$
+[/jR89vH-gXCf5]
+[kirHfzNFPCVw#0] ^*Dáselos/*Dáselos$^.<sent>/.<sent>$
+[/kirHfzNFPCVw]
+[kviSneFQr2zY#0] ^*Dásela/*Dásela$^.<sent>/.<sent>$
+[/kviSneFQr2zY]
+[l5aFGMAPRoef#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^os<prn><enc><p2><mf><pl>/vi<prn><enc><p2><mf><pl>$ ^lo<prn><enc><p3><m><pl>/lo<prn><enc><p3><m><pl>$^.<sent>/.<sent>$
+[/l5aFGMAPRoef]
+[li0GwDQwKE-K#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^os<prn><enc><p2><mf><pl>/vi<prn><enc><p2><mf><pl>$ ^lo<prn><enc><p3><f><sg>/lo<prn><enc><p3><f><sg>$^.<sent>/.<sent>$
+[/li0GwDQwKE-K]
+[lvNQLhRiq8Yv#0] ^*Denla/*Denla$^.<sent>/.<sent>$
+[/lvNQLhRiq8Yv]
+[m8CgbKiS0bp_#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^se<prn><enc><ref><p3><mf><sp>/si<prn><enc><ref><p3><mf><sp>$ ^le<prn><enc><p3><mf><pl>/gli<prn><enc><p3><mf><pl>$^.<sent>/.<sent>$
+[/m8CgbKiS0bp_]
+[m9iNVl6eY_61#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^nos<prn><enc><p1><mf><pl>/ci<prn><enc><p1><mf><pl>$ ^lo<prn><enc><p3><f><pl>/lo<prn><enc><p3><f><pl>$^.<sent>/.<sent>$
+[/m9iNVl6eY_61]
+[myNXaFrKGxwI#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^me<prn><enc><p1><mf><sg>/mi<prn><enc><p1><mf><sg>$ ^lo<prn><enc><p3><nt>/lo<prn><enc><p3><nt>$^.<sent>/.<sent>$
+[/myNXaFrKGxwI]
+[n530aYCqO1D6#0] ^*Démoselos/*Démoselos$^.<sent>/.<sent>$
+[/n530aYCqO1D6]
+[nAYBrF4sedXS#0] ^*Dale/*Dale$^.<sent>/.<sent>$
+[/nAYBrF4sedXS]
+[nHDntuy5t6s_#0] ^*Dales/*Dales$^.<sent>/.<sent>$
+[/nHDntuy5t6s_]
+[nOjp3P9sd9om#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^se<prn><enc><ref><p3><mf><sp>/si<prn><enc><ref><p3><mf><sp>$^.<sent>/.<sent>$
+[/nOjp3P9sd9om]
+[nSb3WN5J1QtO#0] ^*Déselas/*Déselas$^.<sent>/.<sent>$
+[/nSb3WN5J1QtO]
+[nV53qaa6xbP8#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^te<prn><enc><p2><mf><sg>/ti<prn><enc><p2><mf><sg>$ ^lo<prn><enc><p3><f><sg>/lo<prn><enc><p3><f><sg>$^.<sent>/.<sent>$
+[/nV53qaa6xbP8]
+[nahFzK5k8rv4#0] ^*Dádmelas/*Dádmelas$^.<sent>/.<sent>$
+[/nahFzK5k8rv4]
+[nkw4IQ5SxzWU#0] ^*Démoselas/*Démoselas$^.<sent>/.<sent>$
+[/nkw4IQ5SxzWU]
+[noEetVQ__BQZ#0] ^*Dánoslos/*Dánoslos$^.<sent>/.<sent>$
+[/noEetVQ__BQZ]
+[nro45m820xXM#0] ^*Dáoslo/*Dáoslo$^.<sent>/.<sent>$
+[/nro45m820xXM]
+[ntlZHeHC-oC7#0] ^*Dánoslo/*Dánoslo$^.<sent>/.<sent>$
+[/ntlZHeHC-oC7]
+[nuauHQaa8Kw3#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^os<prn><enc><p2><mf><pl>/vi<prn><enc><p2><mf><pl>$ ^lo<prn><enc><p3><f><pl>/lo<prn><enc><p3><f><pl>$^.<sent>/.<sent>$
+[/nuauHQaa8Kw3]
+[oHxsEKJvmrr2#0] ^*Dámelos/*Dámelos$^.<sent>/.<sent>$
+[/oHxsEKJvmrr2]
+[oRMq-1BcmWbw#0] ^*Déselos/*Déselos$^.<sent>/.<sent>$
+[/oRMq-1BcmWbw]
+[oXchHJ1u_VaK#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^te<prn><enc><p2><mf><sg>/ti<prn><enc><p2><mf><sg>$ ^me<prn><enc><p1><mf><sg>/mi<prn><enc><p1><mf><sg>$^.<sent>/.<sent>$
+[/oXchHJ1u_VaK]
+[oeNbfgYnKEPo#0] ^*Démosla/*Démosla$^.<sent>/.<sent>$
+[/oeNbfgYnKEPo]
+[og_TJubJEU_o#0] ^Datar<vblex><prs><p3><sg>/Datare<vblex><prs><p3><sg>$^.<sent>/.<sent>$
+[/og_TJubJEU_o]
+[ohATZIMEvFih#0] ^*Démoselo/*Démoselo$^.<sent>/.<sent>$
+[/ohATZIMEvFih]
+[pOzpCCl35D-S#0] ^*Dámelo/*Dámelo$^.<sent>/.<sent>$
+[/pOzpCCl35D-S]
+[pP9qFCYJEYAy#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^te<prn><enc><p2><mf><sg>/ti<prn><enc><p2><mf><sg>$ ^lo<prn><enc><p3><m><pl>/lo<prn><enc><p3><m><pl>$^.<sent>/.<sent>$
+[/pP9qFCYJEYAy]
+[prZ_IB3RMYsr#0] ^Dar<vblex><pri><p1><pl>/Dare<vblex><pri><p1><pl>$^.<sent>/.<sent>$
+[/prZ_IB3RMYsr]
+[qADjOgBoJxi8#0] ^*Dátenos/*Dátenos$^.<sent>/.<sent>$
+[/qADjOgBoJxi8]
+[qWqfPhpj2sls#0] ^Dar<vblex><cni><p2><pl>/Dare<vblex><cni><p2><pl>$^.<sent>/.<sent>$
+[/qWqfPhpj2sls]
+[qkP0bUKiozJP#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^se<prn><enc><ref><p3><mf><sp>/si<prn><enc><ref><p3><mf><sp>$ ^lo<prn><enc><p3><m><pl>/lo<prn><enc><p3><m><pl>$^.<sent>/.<sent>$
+[/qkP0bUKiozJP]
+[rNgyJY47HAIl#0] ^Dar<vblex><pp><f><pl>/Dare<vblex><pp><f><pl>$^.<sent>/.<sent>$
+[/rNgyJY47HAIl]
+[sB_JeDVHSFrm#0] ^*Denles/*Denles$^.<sent>/.<sent>$
+[/sB_JeDVHSFrm]
+[sBdSFLic9QrF#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^lo<prn><enc><p3><nt>/lo<prn><enc><p3><nt>$^.<sent>/.<sent>$
+[/sBdSFLic9QrF]
+[sWlvHBH9qQ9k#0] ^Dar<vblex><pis><p2><sg>/Dare<vblex><pis><p2><sg>$^.<sent>/.<sent>$
+[/sWlvHBH9qQ9k]
+[sZsmgxhx90nh#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^se<prn><enc><ref><p3><mf><sp>/si<prn><enc><ref><p3><mf><sp>$ ^lo<prn><enc><p3><nt>/lo<prn><enc><p3><nt>$^.<sent>/.<sent>$
+[/sZsmgxhx90nh]
+[scAVCgjZS6Nz#0] ^Dar<vblex><pis><p3><sg>/Dare<vblex><pis><p3><sg>$^.<sent>/.<sent>$
+[/scAVCgjZS6Nz]
+[sjFwLbwVGE_Z#0] ^Dar<vblex><pis><p1><pl>/Dare<vblex><pis><p1><pl>$^.<sent>/.<sent>$
+[/sjFwLbwVGE_Z]
+[tAt87fZ9YnKB#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^se<prn><enc><ref><p3><mf><sp>/si<prn><enc><ref><p3><mf><sp>$ ^lo<prn><enc><p3><nt>/lo<prn><enc><p3><nt>$^.<sent>/.<sent>$
+[/tAt87fZ9YnKB]
+[tOeyMCxCdgF7#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^me<prn><enc><p1><mf><sg>/mi<prn><enc><p1><mf><sg>$ ^lo<prn><enc><p3><nt>/lo<prn><enc><p3><nt>$^.<sent>/.<sent>$
+[/tOeyMCxCdgF7]
+[u3pCCJLl19rJ#0] ^*Délos/*Délos$^.<sent>/.<sent>$
+[/u3pCCJLl19rJ]
+[u55QWzpYRybF#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^se<prn><enc><ref><p3><mf><sp>/si<prn><enc><ref><p3><mf><sp>$^.<sent>/.<sent>$
+[/u55QWzpYRybF]
+[uaVokI_uwEUW#0] ^*Dénosla/*Dénosla$^.<sent>/.<sent>$
+[/uaVokI_uwEUW]
+[uaWUAU_P81E1#0] ^*Déles/*Déles$^.<sent>/.<sent>$
+[/uaWUAU_P81E1]
+[vCBZVhMjj_vi#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^nos<prn><enc><p1><mf><pl>/ci<prn><enc><p1><mf><pl>$^.<sent>/.<sent>$
+[/vCBZVhMjj_vi]
+[vm9e1ZYcQkEo#0] ^Dar<vblex><prs><p3><sg>/Dare<vblex><prs><p3><sg>$^.<sent>/.<sent>$
+[/vm9e1ZYcQkEo]
+[wEZSSKE1jvOO#0] ^*Dénoslo/*Dénoslo$^.<sent>/.<sent>$
+[/wEZSSKE1jvOO]
+[wM3bqXjaGyF3#0] ^Dar<vblex><pis><p2><pl>/Dare<vblex><pis><p2><pl>$^.<sent>/.<sent>$
+[/wM3bqXjaGyF3]
+[wZTsHaWaeWF0#0] ^*Dádselas/*Dádselas$^.<sent>/.<sent>$
+[/wZTsHaWaeWF0]
+[wetrKfsLNVOi#0] ^*Dénselo/*Dénselo$^.<sent>/.<sent>$
+[/wetrKfsLNVOi]
+[wr4V2_RoIxCx#0] ^Dado<n><m><pl>/Dado<n><m><pl>$^.<sent>/.<sent>$
+[/wr4V2_RoIxCx]
+[x5eXUoC2ZLE3#0] ^*Denlo/*Denlo$^.<sent>/.<sent>$
+[/x5eXUoC2ZLE3]
+[xD-3ahC2qIX9#0] ^*Danos/*Danos$^.<sent>/.<sent>$
+[/xD-3ahC2qIX9]
+[xJe0GVlb8iZd#0] ^*Dádnoslo/*Dádnoslo$^.<sent>/.<sent>$
+[/xJe0GVlb8iZd]
+[xT9bcg_iU2kc#0] ^Dar<vblex><ifi><p1><pl>/Dare<vblex><ifi><p1><pl>$^.<sent>/.<sent>$
+[/xT9bcg_iU2kc]
+[xfre-Kxr6o97#0] ^*Dámelas/*Dámelas$^.<sent>/.<sent>$
+[/xfre-Kxr6o97]
+[y5iMrvZwODVV#0] ^Dar<vblex><pii><p3><sg>/Dare<vblex><pii><p3><sg>$^.<sent>/.<sent>$
+[/y5iMrvZwODVV]
+[yLWF4AZMo4jt#0] ^Dar<vblex><prs><p3><pl>/Dare<vblex><prs><p3><pl>$^.<sent>/.<sent>$
+[/yLWF4AZMo4jt]
+[ybucGnyzO9Xz#0] ^*Dádnoslos/*Dádnoslos$^.<sent>/.<sent>$
+[/ybucGnyzO9Xz]
+[ybxx9GsWTnou#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^le<prn><enc><p3><mf><pl>/gli<prn><enc><p3><mf><pl>$^.<sent>/.<sent>$
+[/ybxx9GsWTnou]
+[yrpAp4i42ABf#0] ^Dar<vblex><inf>/Dare<vblex><inf>$ ^te<prn><enc><p2><mf><sg>/ti<prn><enc><p2><mf><sg>$ ^lo<prn><enc><p3><nt>/lo<prn><enc><p3><nt>$^.<sent>/.<sent>$
+[/yrpAp4i42ABf]
+[zCXsjYdl1PX0#0] ^Dar<vblex><ger>/Dare<vblex><ger>$ ^se<prn><enc><ref><p3><mf><sp>/si<prn><enc><ref><p3><mf><sp>$ ^lo<prn><enc><p3><f><sg>/lo<prn><enc><p3><f><sg>$^.<sent>/.<sent>$
+[/zCXsjYdl1PX0]
+[zYA_AdEKKJOs#0] ^*Désela/*Désela$^.<sent>/.<sent>$
+[/zYA_AdEKKJOs]
+[zlEzFDEhW4wl#0] ^Dar<vblex><fti><p3><pl>/Dare<vblex><fti><p3><pl>$^.<sent>/.<sent>$
+[/zlEzFDEhW4wl]

@@ -206,10 +206,4 @@ clean-local:
 ###############################################################################
 
 test: all
-	echo "casa" | apertium -d . spa-ita | tee .test-mt
-	@echo "casa" > .test-ref
-	@diff .test-ref .test-mt
-	echo "casa" | apertium -d . ita-spa | tee .test-mt
-	@echo "casa" > .test-ref
-	@diff .test-ref .test-mt
-	@rm .test-ref .test-mt
+	apertium-regtest test

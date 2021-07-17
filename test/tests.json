@@ -1,0 +1,14 @@
+{
+    "ita-spa": {
+        "input": "ita-spa-input.txt",
+        "mode": "ita-spa"
+    },
+    "spa-ita": {
+        "input": "spa-ita-input.txt",
+        "mode": "spa-ita"
+    },
+    "spa-ita-pending": {
+        "input": "spa-ita-pending-input.txt",
+        "mode": "spa-ita"
+    }
+}

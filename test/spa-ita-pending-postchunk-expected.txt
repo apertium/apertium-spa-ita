@@ -1,0 +1,456 @@
+[-SRcbikEnRk2#0] ^*Dáselo$^.<sent>$
+[/-SRcbikEnRk2]
+[-_JcDMr8vxPL#0] ^Dare<vblex><ger>+ci<prn><enc><p1><mf><pl>+lo<prn><enc><p3><nt>$^.<sent>$
+[/-_JcDMr8vxPL]
+[-dLNrhHL3OfR#0] ^Dare<vblex><pri><p3><pl>$^.<sent>$
+[/-dLNrhHL3OfR]
+[-kkE67r7ROMY#0] ^Dare<vblex><pri><p2><sg>$^.<sent>$
+[/-kkE67r7ROMY]
+[-lgZg6JKG7dT#0] ^Dare<vblex><ger>+ti<prn><enc><p2><mf><sg>+lo<prn><enc><p3><f><pl>$^.<sent>$
+[/-lgZg6JKG7dT]
+[-uPm0dAa93M9#0] ^*Dame$^.<sent>$
+[/-uPm0dAa93M9]
+[0I2SblLYqWp9#0] ^Dare<vblex><ger>+ci<prn><enc><p1><mf><pl>+lo<prn><enc><p3><m><pl>$^.<sent>$
+[/0I2SblLYqWp9]
+[0ovCcR4WGWCU#0] ^Dare<vblex><pis><p1><pl>$^.<sent>$
+[/0ovCcR4WGWCU]
+[1LnUnU8ylIlK#0] ^*Dátela$^.<sent>$
+[/1LnUnU8ylIlK]
+[1QhHrhawt9rR#0] ^Dare<vblex><ger>+vi<prn><enc><p2><mf><pl>$^.<sent>$
+[/1QhHrhawt9rR]
+[2G0dFIEQebh6#0] ^Dare<vblex><inf>+mi<prn><enc><p1><mf><sg>+lo<prn><enc><p3><f><pl>$^.<sent>$
+[/2G0dFIEQebh6]
+[2LDu2-ppg9OF#0] ^*Dádmelos$^.<sent>$
+[/2LDu2-ppg9OF]
+[2PbCAMyDYfoB#0] ^*Dénmelo$^.<sent>$
+[/2PbCAMyDYfoB]
+[2Q5S7WWaby1R#0] ^Dare<vblex><ger>+ti<prn><enc><p2><mf><sg>+lo<prn><enc><p3><nt>$^.<sent>$
+[/2Q5S7WWaby1R]
+[2R7G3D7Dfaq5#0] ^Dare<vblex><pri><p1><sg>$^.<sent>$
+[/2R7G3D7Dfaq5]
+[3-1oYMxx945N#0] ^Dare<vblex><pp><f><sg>$^.<sent>$
+[/3-1oYMxx945N]
+[3InKpeCeXc1u#0] ^Dare<vblex><inf>+si<prn><enc><ref><p3><mf><sp>+le<prn><enc><p3><f><sg>$^.<sent>$
+[/3InKpeCeXc1u]
+[3aIhp0y-ZcsI#0] ^Dare<vblex><inf>+lo<prn><enc><p3><f><sg>$^.<sent>$
+[/3aIhp0y-ZcsI]
+[4EcSfadXVEOo#0] ^*Dénmela$^.<sent>$
+[/4EcSfadXVEOo]
+[4h59eLggS5Jp#0] ^*Dátelos$^.<sent>$
+[/4h59eLggS5Jp]
+[4u4FX4KNTvHg#0] ^*Démelos$^.<sent>$
+[/4u4FX4KNTvHg]
+[4ut-R_GW_pny#0] ^Dare<vblex><fti><p2><pl>$^.<sent>$
+[/4ut-R_GW_pny]
+[5ii8dk0VCUbD#0] ^*Dénmelos$^.<sent>$
+[/5ii8dk0VCUbD]
+[6A8Qczd5Vz-C#0] ^Dare<vblex><inf>+lo<prn><enc><p3><f><pl>$^.<sent>$
+[/6A8Qczd5Vz-C]
+[6PK9ND_ckTEw#0] ^Avere<vbhaver><pri><p3><sg>$ ^dare<vblex><pp><m><sg>$^.<sent>$
+[/6PK9ND_ckTEw]
+[7CnwHTtMIPv_#0] ^*Dadles$^.<sent>$
+[/7CnwHTtMIPv_]
+[7rl5l1xna0j1#0] ^Dare<vblex><inf>+si<prn><enc><ref><p3><mf><sp>+lo<prn><enc><p3><f><sg>$^.<sent>$
+[/7rl5l1xna0j1]
+[812ki9m_dmMS#0] ^*Denlas$^.<sent>$
+[/812ki9m_dmMS]
+[89ZfVEOgM3QE#0] ^*Dénnoslas$^.<sent>$
+[/89ZfVEOgM3QE]
+[8HOGLuPE_E18#0] ^*Dáoslos$^.<sent>$
+[/8HOGLuPE_E18]
+[8VInA-PoIYNH#0] ^*Denos$^.<sent>$
+[/8VInA-PoIYNH]
+[8nLEkbxPUMjz#0] ^Dare<vblex><fti><p3><sg>$^.<sent>$
+[/8nLEkbxPUMjz]
+[8yh5SSXG_2Ud#0] ^*Démosnosla$^.<sent>$
+[/8yh5SSXG_2Ud]
+[9DY0H6iphxLB#0] ^*Denlos$^.<sent>$
+[/9DY0H6iphxLB]
+[9OupXCWNj_dz#0] ^*Dánoslas$^.<sent>$
+[/9OupXCWNj_dz]
+[9VudEAHAi4vG#0] ^*Dadle$^.<sent>$
+[/9VudEAHAi4vG]
+[A4V9TQX2tgjK#0] ^Dare<vblex><inf>+lo<prn><enc><p3><m><pl>$^.<sent>$
+[/A4V9TQX2tgjK]
+[AR9_QEt7H9-l#0] ^Dare<vblex><inf>+mi<prn><enc><p1><mf><sg>+lo<prn><enc><p3><m><pl>$^.<sent>$
+[/AR9_QEt7H9-l]
+[AhlyWPWER3zN#0] ^Dare<vblex><inf>+ci<prn><enc><p1><mf><pl>+lo<prn><enc><p3><nt>$^.<sent>$
+[/AhlyWPWER3zN]
+[AzsaESMzhj4K#0] ^*Démoslo$^.<sent>$
+[/AzsaESMzhj4K]
+[B9_QV8hqP9yR#0] ^*Dádselo$^.<sent>$
+[/B9_QV8hqP9yR]
+[BE5jjCDmbCXo#0] ^Dare<vblex><ger>+mi<prn><enc><p1><mf><sg>+lo<prn><enc><p3><f><pl>$^.<sent>$
+[/BE5jjCDmbCXo]
+[BUtnMk9ggLYa#0] ^*Démosnoslo$^.<sent>$
+[/BUtnMk9ggLYa]
+[CF-imbefWtQk#0] ^*Dádmela$^.<sent>$
+[/CF-imbefWtQk]
+[CUVJrw2HAdEa#0] ^*Dánosla$^.<sent>$
+[/CUVJrw2HAdEa]
+[CuWkMmUFP-c6#0] ^*Démosela$^.<sent>$
+[/CuWkMmUFP-c6]
+[Da6cPtZicyy1#0] ^Dare<vblex><ger>+vi<prn><enc><p2><mf><pl>+lo<prn><enc><p3><f><pl>$^.<sent>$
+[/Da6cPtZicyy1]
+[E-GhmXHPr35L#0] ^Dare<vblex><inf>+si<prn><enc><ref><p3><mf><sp>+gli<prn><enc><p3><mf><pl>$^.<sent>$
+[/E-GhmXHPr35L]
+[E4Rjd_EArD__#0] ^*Dénselas$^.<sent>$
+[/E4Rjd_EArD__]
+[ELXgP2VHWytz#0] ^*Dénmelas$^.<sent>$
+[/ELXgP2VHWytz]
+[EVyetPpd8Z_0#0] ^*Démosles$^.<sent>$
+[/EVyetPpd8Z_0]
+[EXN5PjflxX-w#0] ^Dare<vblex><inf>+ci<prn><enc><p1><mf><pl>+lo<prn><enc><p3><m><pl>$^.<sent>$
+[/EXN5PjflxX-w]
+[EvhMPY8cYerO#0] ^Dare<vblex><ger>+ti<prn><enc><p2><mf><sg>$^.<sent>$
+[/EvhMPY8cYerO]
+[EzARv8RexRez#0] ^Dare<vblex><ger>+le<prn><enc><p3><f><sg>$^.<sent>$
+[/EzARv8RexRez]
+[F6aU30b6YT9F#0] ^*Démosnos$^.<sent>$
+[/F6aU30b6YT9F]
+[FIGq4sN-8-tP#0] ^Dare<vblex><inf>+vi<prn><enc><p2><mf><pl>$^.<sent>$
+[/FIGq4sN-8-tP]
+[GN07kHtraaKB#0] ^*Dénoslas$^.<sent>$
+[/GN07kHtraaKB]
+[GZ8BeohOhHT-#0] ^*Dalos$^.<sent>$
+[/GZ8BeohOhHT-]
+[G_d5R-iRh385#0] ^Dare<vblex><prs><p1><pl>$^.<sent>$
+[/G_d5R-iRh385]
+[Gi_2xt_jIM43#0] ^*Dáselas$^.<sent>$
+[/Gi_2xt_jIM43]
+[GwBnC01snz1s#0] ^*Démosnoslas$^.<sent>$
+[/GwBnC01snz1s]
+[H5awU5wzJh7b#0] ^Dare<vblex><inf>+ti<prn><enc><p2><mf><sg>+ci<prn><enc><p1><mf><pl>$^.<sent>$
+[/H5awU5wzJh7b]
+[HXXXkCkcsbhl#0] ^Dare<vblex><inf>+mi<prn><enc><p1><mf><sg>+lo<prn><enc><p3><f><sg>$^.<sent>$
+[/HXXXkCkcsbhl]
+[HXZVU8NOv-Kt#0] ^Dare<vblex><pis><p3><sg>$^.<sent>$
+[/HXZVU8NOv-Kt]
+[Hdox7a87yFuJ#0] ^Dare<vblex><prs><p2><pl>$^.<sent>$
+[/Hdox7a87yFuJ]
+[He6CDd3VyVN5#0] ^Dare<vblex><cni><p3><pl>$^.<sent>$
+[/He6CDd3VyVN5]
+[HrHSkruKeciq#0] ^Dare<vblex><ger>$^.<sent>$
+[/HrHSkruKeciq]
+[IJaDwu42VqBf#0] ^*Dénnoslos$^.<sent>$
+[/IJaDwu42VqBf]
+[IPcWkyFoBPSg#0] ^*Dadlos$^.<sent>$
+[/IPcWkyFoBPSg]
+[IzYGfW91A99x#0] ^Dare<vblex><ger>+ti<prn><enc><p2><mf><sg>+lo<prn><enc><p3><m><pl>$^.<sent>$
+[/IzYGfW91A99x]
+[KIx9dhOEvUum#0] ^*Dádnosla$^.<sent>$
+[/KIx9dhOEvUum]
+[KO_MTAp3OSTq#0] ^*Dadlas$^.<sent>$
+[/KO_MTAp3OSTq]
+[KeoZRa66Zzph#0] ^Dare<vblex><pii><p1><pl>$^.<sent>$
+[/KeoZRa66Zzph]
+[KlWHjLEmGS5o#0] ^Avere<vbhaver><pri><p2><sg>$ ^dare<vblex><pp><m><sg>$^.<sent>$
+[/KlWHjLEmGS5o]
+[Ks-g9MYHIJBk#0] ^*Démoslos$^.<sent>$
+[/Ks-g9MYHIJBk]
+[LxYsrKlbG-mz#0] ^*Dádnoslas$^.<sent>$
+[/LxYsrKlbG-mz]
+[M2_TVyF-bQSa#0] ^Dare<vblex><inf>+mi<prn><enc><p1><mf><sg>$^.<sent>$
+[/M2_TVyF-bQSa]
+[MXQrE_A92iIc#0] ^Dare<vblex><ger>+ti<prn><enc><p2><mf><sg>+ci<prn><enc><p1><mf><pl>$^.<sent>$
+[/MXQrE_A92iIc]
+[M_GB-1ob8vis#0] ^*Daos$^.<sent>$
+[/M_GB-1ob8vis]
+[MaTrK5i8-n8D#0] ^*Dámela$^.<sent>$
+[/MaTrK5i8-n8D]
+[NJqijcp0C-oC#0] ^Dare<vblex><fti><p2><sg>$^.<sent>$
+[/NJqijcp0C-oC]
+[NiJvkqxma1Mk#0] ^Dare<vblex><pii><p2><pl>$^.<sent>$
+[/NiJvkqxma1Mk]
+[O01CcSGbpocO#0] ^Dare<vblex><ger>+lo<prn><enc><p3><f><pl>$^.<sent>$
+[/O01CcSGbpocO]
+[O95Pqj2iUwwG#0] ^*Dátelas$^.<sent>$
+[/O95Pqj2iUwwG]
+[OiSEqgPK6lY6#0] ^Dare<vblex><inf>+ci<prn><enc><p1><mf><pl>+le<prn><enc><p3><f><sg>$^.<sent>$
+[/OiSEqgPK6lY6]
+[PSqbxpY2sbT7#0] ^Avere<vbhaver><pri><p1><sg>$ ^dare<vblex><pp><m><sg>$^.<sent>$
+[/PSqbxpY2sbT7]
+[PZBYOS2nBvN-#0] ^Dare<vblex><cni><p2><sg>$^.<sent>$
+[/PZBYOS2nBvN-]
+[Q1aQMmcBfKYe#0] ^Avere<vbhaver><pri><p3><pl>$ ^dare<vblex><pp><m><sg>$^.<sent>$
+[/Q1aQMmcBfKYe]
+[QBeIs_RXZv_Q#0] ^Dare<vblex><inf>+vi<prn><enc><p2><mf><pl>+lo<prn><enc><p3><nt>$^.<sent>$
+[/QBeIs_RXZv_Q]
+[QHimVM2znk9c#0] ^Dare<vblex><ger>+lo<prn><enc><p3><m><pl>$^.<sent>$
+[/QHimVM2znk9c]
+[QQGxI-acnyv-#0] ^*Démelo$^.<sent>$
+[/QQGxI-acnyv-]
+[QjnacgfNOAdY#0] ^*Délas$^.<sent>$
+[/QjnacgfNOAdY]
+[QzL7Zaxjg5QD#0] ^*Dáosla$^.<sent>$
+[/QzL7Zaxjg5QD]
+[R-Zq5gObV5vb#0] ^*Dénnosla$^.<sent>$
+[/R-Zq5gObV5vb]
+[RBszsqocTsSq#0] ^*Dénnoslo$^.<sent>$
+[/RBszsqocTsSq]
+[RKEQN4IEtfke#0] ^Dare<vblex><ger>+ci<prn><enc><p1><mf><pl>$^.<sent>$
+[/RKEQN4IEtfke]
+[RQ3_A6ZTpKQv#0] ^Dare<vblex><ger>+lo<prn><enc><p3><f><sg>$^.<sent>$
+[/RQ3_A6ZTpKQv]
+[RxBy2EbsPhvi#0] ^Dare<vblex><fti><p1><pl>$^.<sent>$
+[/RxBy2EbsPhvi]
+[S1JiAY8plNhI#0] ^Dare<vblex><ger>+ti<prn><enc><p2><mf><sg>+lo<prn><enc><p3><f><sg>$^.<sent>$
+[/S1JiAY8plNhI]
+[SFXm_i9vPZ9i#0] ^*Déla$^.<sent>$
+[/SFXm_i9vPZ9i]
+[SPD-EK0E3iTJ#0] ^*Dáis$^.<sent>$
+[/SPD-EK0E3iTJ]
+[Skc3-v39yUVQ#0] ^Dare<vblex><inf>+vi<prn><enc><p2><mf><pl>+lo<prn><enc><p3><f><sg>$^.<sent>$
+[/Skc3-v39yUVQ]
+[TF1d3JcQ2XRO#0] ^Dare<vblex><ger>+si<prn><enc><ref><p3><mf><sp>+lo<prn><enc><p3><m><pl>$^.<sent>$
+[/TF1d3JcQ2XRO]
+[TGAKAIdHQK4Y#0] ^*Déle$^.<sent>$
+[/TGAKAIdHQK4Y]
+[TJEFjHCmEm-I#0] ^Dare<vblex><pis><p2><sg>$^.<sent>$
+[/TJEFjHCmEm-I]
+[TWx3ngz15SXf#0] ^*Dádselos$^.<sent>$
+[/TWx3ngz15SXf]
+[Tatj-XwZjpuj#0] ^*Dennos$^.<sent>$
+[/Tatj-XwZjpuj]
+[TbwuS7dMEhxa#0] ^*Dátelo$^.<sent>$
+[/TbwuS7dMEhxa]
+[UFZ5zuu5DJxm#0] ^*Démela$^.<sent>$
+[/UFZ5zuu5DJxm]
+[Um4NIr_e12VI#0] ^Dare<vblex><ger>+si<prn><enc><ref><p3><mf><sp>+le<prn><enc><p3><f><sg>$^.<sent>$
+[/Um4NIr_e12VI]
+[Uxv1S08UoIlz#0] ^*Dalas$^.<sent>$
+[/Uxv1S08UoIlz]
+[V0DMKIzIEwww#0] ^Dare<vblex><ger>+mi<prn><enc><p1><mf><sg>$^.<sent>$
+[/V0DMKIzIEwww]
+[VFOn6XMOT60s#0] ^Dare<vblex><inf>+ti<prn><enc><p2><mf><sg>+lo<prn><enc><p3><f><pl>$^.<sent>$
+[/VFOn6XMOT60s]
+[VW5b4VXqhafW#0] ^Dare<vblex><fti><p1><sg>$^.<sent>$
+[/VW5b4VXqhafW]
+[VihxvzJZGyX2#0] ^Dare<vblex><cni><p3><sg>$^.<sent>$
+[/VihxvzJZGyX2]
+[VodV-ABrlChB#0] ^Dare<vblex><ger>+si<prn><enc><ref><p3><mf><sp>+lo<prn><enc><p3><f><pl>$^.<sent>$
+[/VodV-ABrlChB]
+[WaIHPCkGzuMd#0] ^*Dadla$^.<sent>$
+[/WaIHPCkGzuMd]
+[WdrXo5Bfvn2w#0] ^Dare<vblex><inf>+le<prn><enc><p3><f><sg>$^.<sent>$
+[/WdrXo5Bfvn2w]
+[XToCCza32l8f#0] ^Dare<vblex><ger>+vi<prn><enc><p2><mf><pl>+lo<prn><enc><p3><nt>$^.<sent>$
+[/XToCCza32l8f]
+[XYdwYjIj-A2A#0] ^*Dense$^.<sent>$
+[/XYdwYjIj-A2A]
+[XgsIV-NxOtrv#0] ^*Denle$^.<sent>$
+[/XgsIV-NxOtrv]
+[XoWi2fTX0CkY#0] ^Dare<vblex><inf>$^.<sent>$
+[/XoWi2fTX0CkY]
+[Xrm0ogt_5rac#0] ^*Démosle$^.<sent>$
+[/Xrm0ogt_5rac]
+[Y0fS4tPK2iqL#0] ^Dare<vblex><ger>+ci<prn><enc><p1><mf><pl>+lo<prn><enc><p3><f><pl>$^.<sent>$
+[/Y0fS4tPK2iqL]
+[YHcmUice_T13#0] ^*Dala$^.<sent>$
+[/YHcmUice_T13]
+[YRovVCUWjhk7#0] ^*Démoslas$^.<sent>$
+[/YRovVCUWjhk7]
+[YrN0Gr4Lqnj6#0] ^*Démelas$^.<sent>$
+[/YrN0Gr4Lqnj6]
+[Z6VWpIYWnJi4#0] ^*Délo$^.<sent>$
+[/Z6VWpIYWnJi4]
+[ZJ8rNT6ng30z#0] ^Dare<vblex><ger>+vi<prn><enc><p2><mf><pl>+lo<prn><enc><p3><m><pl>$^.<sent>$
+[/ZJ8rNT6ng30z]
+[ZkUY4g4yfkk5#0] ^Avere<vbhaver><pri><p2><pl>$ ^dare<vblex><pp><m><sg>$^.<sent>$
+[/ZkUY4g4yfkk5]
+[Zs_biFDAbG7U#0] ^Dare<vblex><ger>+gli<prn><enc><p3><mf><pl>$^.<sent>$
+[/Zs_biFDAbG7U]
+[_MYk4aShUpgX#0] ^Dare<vblex><inf>+si<prn><enc><ref><p3><mf><sp>+lo<prn><enc><p3><f><pl>$^.<sent>$
+[/_MYk4aShUpgX]
+[_WrsuVah1E8S#0] ^*Dádmelo$^.<sent>$
+[/_WrsuVah1E8S]
+[_k_NPJBgfQOC#0] ^*Denme$^.<sent>$
+[/_k_NPJBgfQOC]
+[aFSNR92QjTUl#0] ^Dare<vblex><ger>+ci<prn><enc><p1><mf><pl>+lo<prn><enc><p3><f><sg>$^.<sent>$
+[/aFSNR92QjTUl]
+[aR-5ePThvaQs#0] ^Dare<vblex><inf>+ci<prn><enc><p1><mf><pl>+lo<prn><enc><p3><f><sg>$^.<sent>$
+[/aR-5ePThvaQs]
+[aVM8BacqiTCN#0] ^*Dadnos$^.<sent>$
+[/aVM8BacqiTCN]
+[ab9wRnko0NjM#0] ^Dare<vblex><inf>+ci<prn><enc><p1><mf><pl>+gli<prn><enc><p3><mf><pl>$^.<sent>$
+[/ab9wRnko0NjM]
+[afaQtiw6xAyB#0] ^Dare<vblex><ger>+mi<prn><enc><p1><mf><sg>+lo<prn><enc><p3><m><pl>$^.<sent>$
+[/afaQtiw6xAyB]
+[aiQ2ZEV4UebQ#0] ^Dare<vblex><cni><p1><pl>$^.<sent>$
+[/aiQ2ZEV4UebQ]
+[bAifUJW2vGBq#0] ^*Dadme$^.<sent>$
+[/bAifUJW2vGBq]
+[bN8hjWniGmax#0] ^Dado<n><m><sg>$^.<sent>$
+[/bN8hjWniGmax]
+[ble7ix8A8tFC#0] ^*Dádsela$^.<sent>$
+[/ble7ix8A8tFC]
+[bsmWTOUhcPZf#0] ^*Dad$^.<sent>$
+[/bsmWTOUhcPZf]
+[c1l6TnpwQQQO#0] ^*Dalo$^.<sent>$
+[/c1l6TnpwQQQO]
+[cgbWa3FDGwaN#0] ^*Dadlo$^.<sent>$
+[/cgbWa3FDGwaN]
+[ePs5CZhyDw6q#0] ^*Dénsela$^.<sent>$
+[/ePs5CZhyDw6q]
+[eSLrzxjFfbu1#0] ^Dare<vblex><pis><p3><pl>$^.<sent>$
+[/eSLrzxjFfbu1]
+[eYMM5q3qkG51#0] ^*Déme$^.<sent>$
+[/eYMM5q3qkG51]
+[f1ZfbefQnnm8#0] ^Dare<vblex><ger>+mi<prn><enc><p1><mf><sg>+lo<prn><enc><p3><f><sg>$^.<sent>$
+[/f1ZfbefQnnm8]
+[fnaLCaE6lPb1#0] ^*Déselo$^.<sent>$
+[/fnaLCaE6lPb1]
+[fok5bcoOV0rM#0] ^*Dáoslas$^.<sent>$
+[/fok5bcoOV0rM]
+[g54snmLT4rvw#0] ^Dare<vblex><pri><p3><sg>$^.<sent>$
+[/g54snmLT4rvw]
+[gCK__ZyjM3Da#0] ^Dare<vblex><pii><p3><pl>$^.<sent>$
+[/gCK__ZyjM3Da]
+[gh0FArtjkCgH#0] ^*Dénos$^.<sent>$
+[/gh0FArtjkCgH]
+[gkSVZ2RpBId4#0] ^*Dáteme$^.<sent>$
+[/gkSVZ2RpBId4]
+[hYhnbO3HUSBv#0] ^Dare<vblex><ger>+lo<prn><enc><p3><nt>$^.<sent>$
+[/hYhnbO3HUSBv]
+[i0dCoHeUvG1D#0] ^*Dénoslos$^.<sent>$
+[/i0dCoHeUvG1D]
+[iKfNFAhwRtiI#0] ^Dare<vblex><pis><p2><pl>$^.<sent>$
+[/iKfNFAhwRtiI]
+[iNvStfYGd4vJ#0] ^*Démosnoslos$^.<sent>$
+[/iNvStfYGd4vJ]
+[itUDmvUKI0yW#0] ^Dare<vblex><inf>+ti<prn><enc><p2><mf><sg>$^.<sent>$
+[/itUDmvUKI0yW]
+[ivs9en-PJ4d8#0] ^Dare<vblex><pii><p2><sg>$^.<sent>$
+[/ivs9en-PJ4d8]
+[jR89vH-gXCf5#0] ^Dare<vblex><pis><p3><pl>$^.<sent>$
+[/jR89vH-gXCf5]
+[kirHfzNFPCVw#0] ^*Dáselos$^.<sent>$
+[/kirHfzNFPCVw]
+[kviSneFQr2zY#0] ^*Dásela$^.<sent>$
+[/kviSneFQr2zY]
+[l5aFGMAPRoef#0] ^Dare<vblex><inf>+vi<prn><enc><p2><mf><pl>+lo<prn><enc><p3><m><pl>$^.<sent>$
+[/l5aFGMAPRoef]
+[li0GwDQwKE-K#0] ^Dare<vblex><ger>+vi<prn><enc><p2><mf><pl>+lo<prn><enc><p3><f><sg>$^.<sent>$
+[/li0GwDQwKE-K]
+[lvNQLhRiq8Yv#0] ^*Denla$^.<sent>$
+[/lvNQLhRiq8Yv]
+[m8CgbKiS0bp_#0] ^Dare<vblex><ger>+si<prn><enc><ref><p3><mf><sp>+gli<prn><enc><p3><mf><pl>$^.<sent>$
+[/m8CgbKiS0bp_]
+[m9iNVl6eY_61#0] ^Dare<vblex><inf>+ci<prn><enc><p1><mf><pl>+lo<prn><enc><p3><f><pl>$^.<sent>$
+[/m9iNVl6eY_61]
+[myNXaFrKGxwI#0] ^Dare<vblex><ger>+mi<prn><enc><p1><mf><sg>+lo<prn><enc><p3><nt>$^.<sent>$
+[/myNXaFrKGxwI]
+[n530aYCqO1D6#0] ^*Démoselos$^.<sent>$
+[/n530aYCqO1D6]
+[nAYBrF4sedXS#0] ^*Dale$^.<sent>$
+[/nAYBrF4sedXS]
+[nHDntuy5t6s_#0] ^*Dales$^.<sent>$
+[/nHDntuy5t6s_]
+[nOjp3P9sd9om#0] ^Dare<vblex><inf>+si<prn><enc><ref><p3><mf><sp>$^.<sent>$
+[/nOjp3P9sd9om]
+[nSb3WN5J1QtO#0] ^*Déselas$^.<sent>$
+[/nSb3WN5J1QtO]
+[nV53qaa6xbP8#0] ^Dare<vblex><inf>+ti<prn><enc><p2><mf><sg>+lo<prn><enc><p3><f><sg>$^.<sent>$
+[/nV53qaa6xbP8]
+[nahFzK5k8rv4#0] ^*Dádmelas$^.<sent>$
+[/nahFzK5k8rv4]
+[nkw4IQ5SxzWU#0] ^*Démoselas$^.<sent>$
+[/nkw4IQ5SxzWU]
+[noEetVQ__BQZ#0] ^*Dánoslos$^.<sent>$
+[/noEetVQ__BQZ]
+[nro45m820xXM#0] ^*Dáoslo$^.<sent>$
+[/nro45m820xXM]
+[ntlZHeHC-oC7#0] ^*Dánoslo$^.<sent>$
+[/ntlZHeHC-oC7]
+[nuauHQaa8Kw3#0] ^Dare<vblex><inf>+vi<prn><enc><p2><mf><pl>+lo<prn><enc><p3><f><pl>$^.<sent>$
+[/nuauHQaa8Kw3]
+[oHxsEKJvmrr2#0] ^*Dámelos$^.<sent>$
+[/oHxsEKJvmrr2]
+[oRMq-1BcmWbw#0] ^*Déselos$^.<sent>$
+[/oRMq-1BcmWbw]
+[oXchHJ1u_VaK#0] ^Dare<vblex><inf>+ti<prn><enc><p2><mf><sg>+mi<prn><enc><p1><mf><sg>$^.<sent>$
+[/oXchHJ1u_VaK]
+[oeNbfgYnKEPo#0] ^*Démosla$^.<sent>$
+[/oeNbfgYnKEPo]
+[og_TJubJEU_o#0] ^Datare<vblex><prs><p3><sg>$^.<sent>$
+[/og_TJubJEU_o]
+[ohATZIMEvFih#0] ^*Démoselo$^.<sent>$
+[/ohATZIMEvFih]
+[pOzpCCl35D-S#0] ^*Dámelo$^.<sent>$
+[/pOzpCCl35D-S]
+[pP9qFCYJEYAy#0] ^Dare<vblex><inf>+ti<prn><enc><p2><mf><sg>+lo<prn><enc><p3><m><pl>$^.<sent>$
+[/pP9qFCYJEYAy]
+[prZ_IB3RMYsr#0] ^Dare<vblex><pri><p1><pl>$^.<sent>$
+[/prZ_IB3RMYsr]
+[qADjOgBoJxi8#0] ^*Dátenos$^.<sent>$
+[/qADjOgBoJxi8]
+[qWqfPhpj2sls#0] ^Dare<vblex><cni><p2><pl>$^.<sent>$
+[/qWqfPhpj2sls]
+[qkP0bUKiozJP#0] ^Dare<vblex><inf>+si<prn><enc><ref><p3><mf><sp>+lo<prn><enc><p3><m><pl>$^.<sent>$
+[/qkP0bUKiozJP]
+[rNgyJY47HAIl#0] ^Dare<vblex><pp><f><pl>$^.<sent>$
+[/rNgyJY47HAIl]
+[sB_JeDVHSFrm#0] ^*Denles$^.<sent>$
+[/sB_JeDVHSFrm]
+[sBdSFLic9QrF#0] ^Dare<vblex><inf>+lo<prn><enc><p3><nt>$^.<sent>$
+[/sBdSFLic9QrF]
+[sWlvHBH9qQ9k#0] ^Dare<vblex><pis><p2><sg>$^.<sent>$
+[/sWlvHBH9qQ9k]
+[sZsmgxhx90nh#0] ^Dare<vblex><ger>+si<prn><enc><ref><p3><mf><sp>+lo<prn><enc><p3><nt>$^.<sent>$
+[/sZsmgxhx90nh]
+[scAVCgjZS6Nz#0] ^Dare<vblex><pis><p3><sg>$^.<sent>$
+[/scAVCgjZS6Nz]
+[sjFwLbwVGE_Z#0] ^Dare<vblex><pis><p1><pl>$^.<sent>$
+[/sjFwLbwVGE_Z]
+[tAt87fZ9YnKB#0] ^Dare<vblex><inf>+si<prn><enc><ref><p3><mf><sp>+lo<prn><enc><p3><nt>$^.<sent>$
+[/tAt87fZ9YnKB]
+[tOeyMCxCdgF7#0] ^Dare<vblex><inf>+mi<prn><enc><p1><mf><sg>+lo<prn><enc><p3><nt>$^.<sent>$
+[/tOeyMCxCdgF7]
+[u3pCCJLl19rJ#0] ^*Délos$^.<sent>$
+[/u3pCCJLl19rJ]
+[u55QWzpYRybF#0] ^Dare<vblex><ger>+si<prn><enc><ref><p3><mf><sp>$^.<sent>$
+[/u55QWzpYRybF]
+[uaVokI_uwEUW#0] ^*Dénosla$^.<sent>$
+[/uaVokI_uwEUW]
+[uaWUAU_P81E1#0] ^*Déles$^.<sent>$
+[/uaWUAU_P81E1]
+[vCBZVhMjj_vi#0] ^Dare<vblex><inf>+ci<prn><enc><p1><mf><pl>$^.<sent>$
+[/vCBZVhMjj_vi]
+[vm9e1ZYcQkEo#0] ^Dare<vblex><prs><p3><sg>$^.<sent>$
+[/vm9e1ZYcQkEo]
+[wEZSSKE1jvOO#0] ^*Dénoslo$^.<sent>$
+[/wEZSSKE1jvOO]
+[wM3bqXjaGyF3#0] ^Dare<vblex><pis><p2><pl>$^.<sent>$
+[/wM3bqXjaGyF3]
+[wZTsHaWaeWF0#0] ^*Dádselas$^.<sent>$
+[/wZTsHaWaeWF0]
+[wetrKfsLNVOi#0] ^*Dénselo$^.<sent>$
+[/wetrKfsLNVOi]
+[wr4V2_RoIxCx#0] ^Dado<n><m><pl>$^.<sent>$
+[/wr4V2_RoIxCx]
+[x5eXUoC2ZLE3#0] ^*Denlo$^.<sent>$
+[/x5eXUoC2ZLE3]
+[xD-3ahC2qIX9#0] ^*Danos$^.<sent>$
+[/xD-3ahC2qIX9]
+[xJe0GVlb8iZd#0] ^*Dádnoslo$^.<sent>$
+[/xJe0GVlb8iZd]
+[xT9bcg_iU2kc#0] ^Avere<vbhaver><pri><p1><pl>$ ^dare<vblex><pp><m><sg>$^.<sent>$
+[/xT9bcg_iU2kc]
+[xfre-Kxr6o97#0] ^*Dámelas$^.<sent>$
+[/xfre-Kxr6o97]
+[y5iMrvZwODVV#0] ^Dare<vblex><pii><p3><sg>$^.<sent>$
+[/y5iMrvZwODVV]
+[yLWF4AZMo4jt#0] ^Dare<vblex><prs><p3><pl>$^.<sent>$
+[/yLWF4AZMo4jt]
+[ybucGnyzO9Xz#0] ^*Dádnoslos$^.<sent>$
+[/ybucGnyzO9Xz]
+[ybxx9GsWTnou#0] ^Dare<vblex><inf>+gli<prn><enc><p3><mf><pl>$^.<sent>$
+[/ybxx9GsWTnou]
+[yrpAp4i42ABf#0] ^Dare<vblex><inf>+ti<prn><enc><p2><mf><sg>+lo<prn><enc><p3><nt>$^.<sent>$
+[/yrpAp4i42ABf]
+[zCXsjYdl1PX0#0] ^Dare<vblex><ger>+si<prn><enc><ref><p3><mf><sp>+lo<prn><enc><p3><f><sg>$^.<sent>$
+[/zCXsjYdl1PX0]
+[zYA_AdEKKJOs#0] ^*Désela$^.<sent>$
+[/zYA_AdEKKJOs]
+[zlEzFDEhW4wl#0] ^Dare<vblex><fti><p3><pl>$^.<sent>$
+[/zlEzFDEhW4wl]
