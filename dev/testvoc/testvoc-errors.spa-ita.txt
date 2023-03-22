@@ -1,0 +1,1097 @@
+[amplio<adj><sup><f><pl>] #ampio<adj><sup><f><pl> .
+[amplio<adj><sup><f><sg>] #ampio<adj><sup><f><sg> .
+[amplio<adj><sup><m><pl>] #ampio<adj><sup><m><pl> .
+[amplio<adj><sup><m><sg>] #ampio<adj><sup><m><sg> .
+[acostumbrado<adj><sup><f><pl>] #abituato<adj><sup><f><pl> .
+[acostumbrado<adj><sup><f><sg>] #abituato<adj><sup><f><sg> .
+[acostumbrado<adj><sup><m><pl>] #abituato<adj><sup><m><pl> .
+[acostumbrado<adj><sup><m><sg>] #abituato<adj><sup><m><sg> .
+[diverso<adj><sup><f><pl>] #vario<adj><sup><f><pl> .
+[diverso<adj><sup><f><sg>] #vario<adj><sup><f><sg> .
+[diverso<adj><sup><m><pl>] #vario<adj><sup><m><pl> .
+[diverso<adj><sup><m><sg>] #vario<adj><sup><m><sg> .
+[débil<adj><sup><f><pl>] #debole<adj><sup><f><pl> .
+[débil<adj><sup><f><sg>] #debole<adj><sup><f><sg> .
+[débil<adj><sup><m><pl>] #debole<adj><sup><m><pl> .
+[débil<adj><sup><m><sg>] #debole<adj><sup><m><sg> .
+[peculiar<adj><sup><f><pl>] #peculiare<adj><sup><f><pl> .
+[peculiar<adj><sup><f><sg>] #peculiare<adj><sup><f><sg> .
+[peculiar<adj><sup><m><pl>] #peculiare<adj><sup><m><pl> .
+[peculiar<adj><sup><m><sg>] #peculiare<adj><sup><m><sg> .
+[ultra<n><mf><pl>] #ultra<n><mf><sp> .
+[ultra<n><mf><sg>] #ultra<n><mf><sp> .
+[DC<n><acr><mf><sp>] #DC<n><acr><mf><sp> .
+[DVD<n><acr><m><sp>] #DVD<n><acr><m><sp> .
+[GPS<n><acr><m><sp>] #GPS<n><acr><m><sp> .
+[IRPF<n><acr><m><sp>] #IRPEF<n><acr><m><sp> .
+[LED<n><acr><m><sp>] #LED<n><acr><m><sp> .
+[Mb<n><m><sp>] #Mb<n><m><sp> .
+[IRA<n><acr><m><sg>] #IRA<n><acr><m><sg> .
+[beta<n><f><pl>] #beta<n><f><pl> .
+[central<n><f><pl>] #centrale<n><mf><pl> .
+[central<n><f><sg>] #centrale<n><mf><sg> .
+[conjuntivitis<n><f><sp>] #congiuntivite<n><f><sp> .
+[consumista<n><mf><pl>] #consumista<n><mf><pl> .
+[consumista<n><mf><sg>] #consumista<n><mf><sg> .
+[cortafuego<n><m><pl>] #firewall<n><m><pl> .
+[cortafuego<n><m><sg>] #firewall<n><m><sg> .
+[cosmético<n><f><pl>] #cosmetico<n><f><pl> .
+[cosmético<n><f><sg>] #cosmetico<n><f><sg> .
+[cricket<n><m><sp>] #cricket<n><m><sp> .
+[cárcel<n><f><pl>] #carcere<n><mf><pl> .
+[cárcel<n><f><sg>] #carcere<n><mf><sg> .
+[cónsul<n><mf><pl>] #console<n><f><pl> .
+[dramaturgo<n><f><pl>] #drammaturgo<n><f><pl> .
+[dramaturgo<n><f><sg>] #drammaturgo<n><f><sg> .
+[eje<n><m><pl>] #asse<n><f><pl> .
+[eje<n><m><sg>] #asse<n><f><sg> .
+[encefalitis<n><f><sp>] #encefalite<n><f><sp> .
+[equimosis<n><f><sp>] #contusione<n><f><sp> .
+[escolar<n><mf><pl>] #scolare<n><f><pl> .
+[escolar<n><mf><sg>] #scolare<n><f><sg> .
+[excelente<n><mf><pl>] #eccellente<n><mf><pl> .
+[excelente<n><mf><sg>] #eccellente<n><mf><sg> .
+[faraón<n><f><pl>] #faraone<n><f><pl> .
+[faraón<n><f><sg>] #faraone<n><f><sg> .
+[gay<n><m><pl>] #gay<n><m><sp> .
+[gay<n><m><sg>] #gay<n><m><sp> .
+[heroína<n><f><pl>] #eroina<n><f><pl> .
+[heroína<n><f><sg>] #eroina<n><f><sg> .
+[harem<n><m><pl>] #harem<n><m><pl> .
+[harem<n><m><sg>] #harem<n><m><sg> .
+[hockey<n><m><sp>] #hockey<n><m><sp> .
+[idiota<n><mf><pl>] #idiota<n><mf><pl> .
+[idiota<n><mf><sg>] #idiota<n><mf><sg> .
+[imagen<n><f><pl>] #immagine<n><mf><pl> .
+[imagen<n><f><sg>] #immagine<n><mf><sg> .
+[interfaz<n><m><pl>] #interfaccia<n><m><pl> .
+[interfaz<n><m><sg>] #interfaccia<n><m><sg> .
+[kimono<n><m><pl>] #kimono<n><m><pl> .
+[kimono<n><m><sg>] #kimono<n><m><sg> .
+[kimono<n><m><pl>] #kimono<n><m><pl> .
+[kimono<n><m><sg>] #kimono<n><m><sg> .
+[levita<n><m><pl>] #levita<n><m><pl> .
+[levita<n><m><sg>] #levita<n><m><sg> .
+[levita<n><f><pl>] #levita<n><f><pl> .
+[levita<n><f><sg>] #levita<n><f><sg> .
+[manga<n><m><pl>] #manica<n><m><pl> .
+[manga<n><m><sg>] #manica<n><m><sg> .
+[mar<n><f><pl>] #mare<n><f><pl> .
+[mar<n><f><sg>] #mare<n><f><sg> .
+[miembro<n><mf><pl>] #membro<n><mf><pl> .
+[miembro<n><mf><sg>] #membro<n><mf><sg> .
+[min.<n><acr><m><sp>] #min.<n><acr><m><sp> .
+[min.<n><acr><f><sp>] #min.<n><acr><f><sp> .
+[mínimo<n><f><pl>] #minimo<n><f><pl> .
+[mínimo<n><f><sg>] #minimo<n><f><sg> .
+[pariente<n><f><pl>] #parente<n><f><pl> .
+[pariente<n><f><sg>] #parente<n><f><sg> .
+[pariente<n><m><pl>] #parente<n><m><pl> .
+[pariente<n><m><sg>] #parente<n><m><sg> .
+[parte<n><m><pl>] #parte<n><m><pl> .
+[parte<n><m><sg>] #parte<n><m><sg> .
+[plancha<n><f><pl>] #asse<n><f><pl> .
+[plancha<n><f><sg>] #asse<n><f><sg> .
+[profeta<n><mf><pl>] #profeta<n><mf><pl> .
+[profeta<n><mf><sg>] #profeta<n><mf><sg> .
+[promedio<n><m><pl>] #media<n><f><sp> .
+[promedio<n><m><sg>] #media<n><f><sp> .
+[punk<n><mf><pl>] #punk<n><mf><pl> .
+[punk<n><mf><sg>] #punk<n><mf><sg> .
+[rap<n><m><pl>] #rap<n><m><pl> .
+[rap<n><m><sg>] #rap<n><m><sg> .
+[rock<n><m><sg>] #rock<n><m><sg> .
+[rosa<n><m><pl>] #rosa<n><m><pl> .
+[rosa<n><m><sg>] #rosa<n><m><sg> .
+[single<n><m><pl>] #single<n><m><pl> .
+[single<n><m><sg>] #single<n><m><sg> .
+[soprano<n><mf><pl>] #soprano<n><mf><pl> .
+[soprano<n><mf><sg>] #soprano<n><mf><sg> .
+[traficante<n><mf><pl>] #trafficante<n><m><pl> .
+[traficante<n><mf><sg>] #trafficante<n><m><sg> .
+[vicario<n><f><pl>] #parroco<n><f><pl> .
+[vicario<n><f><sg>] #parroco<n><f><sg> .
+[vigilante<n><mf><pl>] #sorvegliante<n><m><pl> .
+[vigilante<n><mf><sg>] #sorvegliante<n><m><sg> .
+[vocal<n><mf><pl>] #vocale<n><mf><pl> .
+[vocal<n><mf><sg>] #vocale<n><mf><sg> .
+[vodka<n><m><pl>] #vodka<n><f><pl> .
+[vodka<n><m><sg>] #vodka<n><f><sg> .
+[Everest<np><loc>] #Everest<np><loc> .
+[Albert Glynn<np><ant>] #Albert Glynn<np><ant> .
+[Amazonas<np><loc>] #Amazonas<np><loc> .
+[Amazonas<np><loc>] #Amazzonia<np><loc> .
+[Amatrice<np><loc>] #Amatrice<np><loc><f><sg> .
+[Aquila<np><loc>] #Aquila<np><loc><f><sg> .
+[Beach<np><ant>] #Beach<np><ant> .
+[House<np><ant>] #House<np><ant> .
+[Ámsterdam<np><loc>] #America<np><loc><f><sg> .
+[Ámsterdam<np><loc>] #America<np><loc><f><sg> .
+[Connecticut<np><loc>] #Connecticut<np><loc><m><sg> .
+[Corán<np><loc>] #Corano<np><loc><m><sg> .
+[Dacia<np><loc>] #Dacia<np><loc><f><sg> .
+[Dallas<np><loc>] #Dallas<np><loc><m><pl> .
+[Houston<np><loc>] #Houston<np><loc><m><sg> .
+[Indiana<np><loc>] #Indiana<np><loc><f><sg> .
+[Irlanda del Norte<np><loc>] #Irlanda del Nord<np><loc><f><sg> .
+[Isla Norte<np><loc>] #Isola del Nord<np><loc><f><sg> .
+[Isla de Pascua<np><loc>] #Isola di Pasqua<np><loc><f><sg>< del Nordnp><loc> .
+[Islas Aleutianas<np><loc>] #Isole Aleutine<np><loc><f><pl> .
+[Islas Malvinas<np><loc>] #Isole Falkland<np><loc><f><pl> .
+[Islas Jónicas<np><loc>] #Isole Ionie<np><loc><f><pl> .
+[Islas Marquesas<np><loc>] #Isole Marchesi<np><loc><f><pl> .
+[Islas Marianas<np><loc>] #Isole Marianne<np><loc><f><pl> .
+[Islas Vírgenes Británicas<np><loc>] #Isole Vergini britanniche<np><loc> .
+[Islas del Canal<np><loc>] #Isole del Canale<np><loc><f><pl> .
+[Islas de Nueva Siberia<np><loc>] #Isole della Nuova Siberia<np><loc><f><pl> .
+[Lacio<np><loc>] #Lazio<np><loc><m><sg> .
+[Palau<np><loc>] #Palau<np><loc><m><sg> .
+[Schengen<np><loc>] #Schengen<np><loc><m><sg> .
+[Terra<np><loc>] #Terra<np><loc><f><sg> .
+[Titanic<np><loc>] #Titanic<np><loc><f><sg> .
+[Vancouver<np><loc>] #Vancouver<np><loc><m><sg> .
+[Villarreal<np><loc>] #Villarreal<np><loc><m><sg> .
+[Podemos<np><al>] #Podemos<np><al><m><sg> .
+[Abu<np><ant>] #Abu<np><ant> .
+[Afganistán<np><loc>] #Afganistan<np><loc><m><sg>< > .
+[Agnes<np><ant>] #Agnes<np><ant> .
+[Alabama<np><loc>] #Alabama<np><loc><f><sg> .
+[Alaska<np><loc>] #Alaska<np><loc><f><sg> .
+[Albacete<np><loc>] #Albacete<np><loc><m><sg> .
+[Albania<np><loc>] #Albania<np><loc><f><sg> .
+[Albatera<np><loc>] #Albatera<np><loc><m><sg> .
+[Alcalá<np><loc>] #Alcalá<np><loc><m><sg> .
+[Alcañiz<np><loc>] #Alcañiz<np><loc><m><sg> .
+[Alcoi<np><loc>] #Alcoi<np><loc><m><sg> .
+[Alcoy<np><loc>] #Alcoy<np><loc><m><sg> .
+[Alcàsser<np><loc>] #Alcàsser<np><loc><m><sg> .
+[Aldaia<np><loc>] #Aldaia<np><loc><m><sg> .
+[Alejandría<np><loc>] #Alessandria<np><loc><f><sg> .
+[Alemania<np><loc>] #Germania<np><loc><f><sg> .
+[Alicante<np><loc>] #Alicante<np><loc><f><sg> .
+[Almansa<np><loc>] #Almansa<np><loc><m><sg> .
+[Almería<np><loc>] #Almería<np><loc><m><sg> .
+[Altea<np><loc>] #Altea<np><loc><m><sg> .
+[Alzheimer<np><ant>] #Alzheimer<np><ant> .
+[América<np><loc>] #Amsterdam<np><loc><m><sg> .
+[Andalucía<np><loc>] #Andalusia<np><loc><f><sg> .
+[Andorra<np><loc>] #Andorra<np><loc><f><sg> .
+[Anoia<np><loc>] #Anoia<np><loc><m><sg> .
+[Antártida<np><loc>] #Antartide<np><loc><f><sg> .
+[Arabia<np><loc>] #Arabia<np><loc><m><sg> .
+[Aragón<np><loc>] #Aragona<np><loc><f><sg> .
+[Argelia<np><loc>] #Algeria<np><loc><f><sg> .
+[Arizona<np><loc>] #Arizona<np><loc><f><sg> .
+[Asia<np><loc>] #Asia<np><loc><f><sg> .
+[Asperger<np><ant>] #Asperger<np><ant> .
+[Asturias<np><loc>] #Asturie<np><loc><m><sg> .
+[Atenas<np><loc>] #Atene<np><loc><m><sg> .
+[Athletic<np><al>] #Athletic<np><al> .
+[Atlanta<np><loc>] #Atlanta<np><loc><f><sg> .
+[Australia<np><loc>] #Australia<np><loc><f><sg> .
+[Austria<np><loc>] #Austria<np><loc><f><sg> .
+[Avilés<np><loc>] #Avilés<np><loc><m><sg> .
+[Badajoz<np><loc>] #Badajoz<np><loc><m><sg> .
+[Badalona<np><loc>] #Badalona<np><loc><m><sg> .
+[Bagdad<np><loc>] #Baghdad<np><loc><m><sg> .
+[Bages<np><loc>] #Bages<np><loc><m><sg> .
+[Bahamas<np><loc>] #Bahamas<np><loc> .
+[Bailén<np><loc>] #Bailén<np><loc><m><sg> .
+[Baleares<np><loc>] #Baleari<np><loc><f><pl> .
+[Bali<np><loc>] #Bali<np><loc> .
+[Baltimore<np><loc>] #Baltimora<np><loc> .
+[Bangkok<np><loc>] #Bangkok<np><loc><m><sg> .
+[Bangladesh<np><loc>] #Bangladesh<np><loc><m><sg> .
+[Barcelona<np><loc>] #Barcellona<np><loc><f><sg> .
+[Barcelonès<np><loc>] #Barcelonès<np><loc><m><sg> .
+[Barça<np><al>] #Barça<np><al><m><sg> .
+[Basora<np><loc>] #Bàssora<np><loc><m><sg> .
+[Bayona<np><loc>] #Bayonne<np><loc><m><sg> .
+[Beirut<np><loc>] #Beirut<np><loc><m><sg> .
+[Belmonte<np><loc>] #Belmonte<np><loc><m><sg> .
+[Benedicto I<np><ant>] #BENEDETTO I<np><ant> .
+[Benedicto II<np><ant>] #BENEDETTO II<np><ant> .
+[Benedicto III<np><ant>] #BENEDETTO III<np><ant> .
+[Benedicto IV<np><ant>] #BENEDETTO IV<np><ant> .
+[Benedicto V<np><ant>] #BENEDETTO V<np><ant> .
+[Benedicto VI<np><ant>] #BENEDETTO VI<np><ant> .
+[Benedicto VII<np><ant>] #BENEDETTO VII<np><ant> .
+[Benedicto VIII<np><ant>] #BENEDETTO VIII<np><ant> .
+[Benedicto IX<np><ant>] #BENEDETTO IX<np><ant> .
+[Benedicto X<np><ant>] #BENEDETTO X<np><ant> .
+[Benedicto XI<np><ant>] #BENEDETTO XI<np><ant> .
+[Benedicto XII<np><ant>] #BENEDETTO XII<np><ant> .
+[Benedicto XIII<np><ant>] #BENEDETTO XIII<np><ant> .
+[Benedicto XIV<np><ant>] #BENEDETTO XIV<np><ant> .
+[Benedicto XV<np><ant>] #BENEDETTO XV<np><ant> .
+[Benedicto XVI<np><ant>] #BENEDETTO XVI<np><ant> .
+[Benidorm<np><loc>] #Benidorm<np><loc><m><sg> .
+[Berlín<np><loc>] #Berlino<np><loc><m><sg> .
+[Berna<np><loc>] #Berna<np><loc><f><sg> .
+[Bernabéu<np><loc>] #Bernabéu<np><loc><m><sg> .
+[Besòs<np><loc>] #Besòs<np><loc><m><sg> .
+[Betis<np><al>] #Betis<np><al> .
+[Bin<np><ant>] #Bin<np><ant> .
+[Bolivia<np><loc>] #Bolivia<np><loc><f><sg> .
+[Bolonia<np><loc>] #Bologna<np><loc><f><sg> .
+[Bombay<np><loc>] #Bombay<np><loc><m><sg> .
+[Bosnia<np><loc>] #Bosnia<np><loc><f><sg> .
+[Boston<np><loc>] #Boston<np><loc><m><sg> .
+[Brad<np><ant>] #Brad<np><ant> .
+[Braganza<np><loc>] #Bragança<np><loc><m><sg> .
+[Brasil<np><loc>] #Brasile<np><loc><m><sg> .
+[Bratislava<np><loc>] #Bratislava<np><loc><f><sg> .
+[Bretaña<np><loc>] #Bretagna<np><loc><f><sg> .
+[Bruselas<np><loc>] #Bruxelles<np><loc><m><sg> .
+[Bucarest<np><loc>] #Bucarest<np><loc><m><sg> .
+[Bulgaria<np><loc>] #Bulgaria<np><loc><f><sg> .
+[Burgos<np><loc>] #Burgos<np><loc><m><sg> .
+[Burjassot<np><loc>] #Burjassot<np><loc><m><sg> .
+[Bután<np><loc>] #Bhutan<np><loc><m><sg> .
+[Bélgica<np><loc>] #Belgio<np><loc><m><sg> .
+[Bétera<np><loc>] #Bétera<np><loc><m><sg> .
+[Cabrera<np><loc>] #Cabrera<np><loc><m><sg> .
+[Cadaqués<np><loc>] #Cadaqués<np><loc><m><sg> .
+[Calafell<np><loc>] #Calafell<np><loc><m><sg> .
+[Calatayud<np><loc>] #Calatayud<np><loc><m><sg> .
+[California<np><loc>] #California<np><loc><f><sg> .
+[Calonge<np><loc>] #Calonge<np><loc><m><sg> .
+[Calpe<np><loc>] #Calpe<np><loc><m><sg> .
+[Camboya<np><loc>] #Cambogia<np><loc><f><sg> .
+[Cambridge<np><loc>] #Cambridge<np><loc><m><sg> .
+[Cameron<np><ant>] #Cameron<np><ant> .
+[Camerún<np><loc>] #Camerun<np><loc><m><sg> .
+[Canadá<np><loc>] #Canada<np><loc><m><sg> .
+[Canals<np><loc>] #Canals<np><loc><m><sg> .
+[Canarias<np><loc>] #Canarie<np><loc><m><sg> .
+[Canfranc<np><loc>] #Canfranc<np><loc><m><sg> .
+[Cantabria<np><loc>] #Cantabria<np><loc><m><sg> .
+[Caracas<np><loc>] #Caracas<np><loc><m><sg> .
+[Casinos<np><loc>] #Casinos<np><loc><m><sg> .
+[Caspe<np><loc>] #Caspe<np><loc><m><sg> .
+[Castell<np><loc>] #Castell<np><loc><m><sg> .
+[Castelldefels<np><loc>] #Castelldefels<np><loc><m><sg> .
+[Castelló<np><loc>] #Castelló<np><loc><m><sg> .
+[Castilla<np><loc>] #Castiglia<np><loc><f><sg> .
+[Cataluña<np><loc>] #Catalogna<np><loc><f><sg> .
+[Cazorla<np><loc>] #Cazorla<np><loc><m><sg> .
+[Cerdeña<np><loc>] #Sardegna<np><loc><f><sg> .
+[Cervera<np><loc>] #Cervera<np><loc><m><sg> .
+[Ceuta<np><loc>] #Ceuta<np><loc><m><sg> .
+[Chad<np><loc>] #Chad<np><loc><m><sg> .
+[Chechenia<np><loc>] #Cecenia<np><loc><f><sg> .
+[Chequia<np><loc>] #Repubblica Ceca<np><loc><f><sg> .
+[Cheste<np><loc>] #Cheste<np><loc><m><sg> .
+[Chicago<np><loc>] #Chicago<np><loc><m><sg> .
+[Chile<np><loc>] #Cile<np><loc><m><sg> .
+[China<np><loc>] #Cina<np><loc><f><sg> .
+[Chipre<np><loc>] #Cipro<np><loc><m><sg> .
+[Chueca<np><loc>] #Chueca<np><loc><m><sg> .
+[Cisjordania<np><loc>] #Cisgiordania<np><loc><f><sg> .
+[Clemente I<np><ant>] #CLEMENTE I<np><ant> .
+[Clemente II<np><ant>] #CLEMENTE II<np><ant> .
+[Clemente III<np><ant>] #CLEMENTE III<np><ant> .
+[Clemente IV<np><ant>] #CLEMENTE IV<np><ant> .
+[Clemente V<np><ant>] #CLEMENTE V<np><ant> .
+[Clemente VI<np><ant>] #CLEMENTE VI<np><ant> .
+[Clemente VII<np><ant>] #CLEMENTE VII<np><ant> .
+[Clemente VIII<np><ant>] #CLEMENTE VIII<np><ant> .
+[Clemente IX<np><ant>] #CLEMENTE IX<np><ant> .
+[Clemente X<np><ant>] #CLEMENTE X<np><ant> .
+[Clemente XI<np><ant>] #CLEMENTE XI<np><ant> .
+[Clemente XII<np><ant>] #CLEMENTE XII<np><ant> .
+[Clemente XIII<np><ant>] #CLEMENTE XIII<np><ant> .
+[Clemente XIV<np><ant>] #CLEMENTE XIV<np><ant> .
+[Cofrentes<np><loc>] #Cofrentes<np><loc><m><sg> .
+[Colmenar<np><loc>] #Colmenar<np><loc><m><sg> .
+[Colombia<np><loc>] #Colombia<np><loc><f><sg> .
+[Congo<np><loc>] #Congo<np><loc><m><sg> .
+[Consell<np><loc>] #Consell<np><loc><m><sg> .
+[Copenhague<np><loc>] #Copenaghen<np><loc><m><sg>< > .
+[Corea<np><loc>] #Corea<np><loc><f><sg> .
+[Coria<np><loc>] #Coria<np><loc><m><sg> .
+[Cornellà<np><loc>] #Cornellà<np><loc><m><sg> .
+[Costa de Marfil<np><loc>] #Costa d'Avorio<np><loc><f><sg> .
+[Craig<np><ant>] #Craig<np><ant> .
+[Croacia<np><loc>] #Croazia<np><loc><f><sg> .
+[Cuba<np><loc>] #Cuba<np><loc><m><sg> .
+[Càrcer<np><loc>] #Càrcer<np><loc><m><sg> .
+[Cádiz<np><loc>] #Cadice<np><loc><m><sg> .
+[Cárdenas<np><loc>] #Cárdenas<np><loc><m><sg> .
+[Córcega<np><loc>] #Corsica<np><loc><f><sg> .
+[Córdoba<np><loc>] #Córdoba<np><loc><m><sg> .
+[Dakar<np><loc>] #Dakar<np><loc><m><sg> .
+[Damasco<np><loc>] #Damasco<np><loc><m><sg> .
+[Danny<np><ant>] #Danny<np><ant> .
+[Darfur<np><loc>] #Darfur<np><loc> .
+[Darwin<np><ant>] #Darwin<np><ant> .
+[Dean<np><ant>] #Dean<np><ant> .
+[Delhi<np><loc>] #Delhi<np><loc> .
+[Detroit<np><loc>] #Detroit<np><loc><m><sg> .
+[Diagonal<np><loc>] #Diagonale<np><loc><m><sg> .
+[Dinamarca<np><loc>] #Danimarca<np><loc><f><sg> .
+[Dios<np><ant>] #Dio<np><ant> .
+[Dublín<np><loc>] #Dublino<np><loc><m><sg> .
+[Dylan<np><ant>] #Dylan<np><ant> .
+[Dénia<np><loc>] #Dénia<np><loc><m><sg> .
+[Ecuador<np><loc>] #Ecuador<np><loc><m><sg> .
+[Edimburgo<np><loc>] #Edimburgo<np><loc><f><sg> .
+[Egipto<np><loc>] #Egitto<np><loc><m><sg> .
+[El Greco<np><ant>] #El Greco<np><ant> .
+[ElBaradei<np><ant>] #ElBaradei<np><cog><mf><sp> .
+[Elche<np><loc>] #Elche<np><loc><m><sg> .
+[Elda<np><loc>] #Elda<np><loc><m><sg> .
+[Elx<np><loc>] #Elx<np><loc><m><sg> .
+[Escandinavia<np><loc>] #Scandinavia<np><loc><f><sg> .
+[Escocia<np><loc>] #Scozia<np><loc><f><sg> .
+[Eslovaquia<np><loc>] #Slovacchia<np><loc><f><sg> .
+[Eslovenia<np><loc>] #Slovenia<np><loc><f><sg> .
+[Espanyol<np><al>] #Espanyol<np><al> .
+[España<np><loc>] #Spagna<np><loc><f><sg> .
+[Estados Unidos<np><loc>] #Stati Uniti<np><loc><m><pl> .
+[Estambul<np><loc>] #Istanbul<np><loc><m><sg> .
+[Estocolmo<np><loc>] #Stoccolma<np><loc><f><sg> .
+[Estonia<np><loc>] #Estonia<np><loc><f><sg> .
+[Estrasburgo<np><loc>] #Strasburgo<np><loc><m><sg> .
+[Etiopía<np><loc>] #Etiopia<np><loc><f><sg> .
+[Euroliga<np><ant>] #Euroliga<np><ant><f><sg> .
+[Europa<np><loc>] #Europa<np><loc><f><sg> .
+[Euskadi<np><loc>] #Euskadi<np><loc><m><sg> .
+[Extremadura<np><loc>] #Estremadura<np><loc><m><sg> .
+[Fernández<np><ant>] #Fernández<np><ant><m><sg> .
+[Ferrari<np><al>] #Ferrari<np><al><m><sg> .
+[Fibonacci<np><ant>] #Fibonacci<np><ant> .
+[Figueres<np><loc>] #Figueres<np><loc><m><sg> .
+[Filadelfia<np><loc>] #Philadelphia<np><loc><f><sg> .
+[Filipinas<np><loc>] #Filippine<np><loc><m><sg> .
+[Finlandia<np><loc>] #Finlandia<np><loc><f><sg> .
+[Florida<np><loc>] #Florida<np><loc><f><sg> .
+[Fort<np><ant>] #Fort<np><ant> .
+[Fort<np><loc>] #Fort<np><loc> .
+[Francia<np><loc>] #Francia<np><loc><f><sg> .
+[Frankfurt<np><loc>] #Francoforte<np><loc><f><sg> .
+[Friedman<np><ant>] #Friedman<np><ant> .
+[Gales<np><loc>] #Galles<np><loc><m><sg> .
+[Galicia<np><loc>] #Galizia<np><loc><f><sg> .
+[Galápagos<np><loc>] #Galapagos<np><loc> .
+[Gandia<np><loc>] #Gandia<np><loc><m><sg> .
+[Garrotxa<np><loc>] #Garrotxa<np><loc><m><sg> .
+[Gavà<np><loc>] #Gavà<np><loc><m><sg> .
+[Gaza<np><loc>] #Gaza<np><loc> .
+[Generalitat<np><al>] #Generalitat<np><al><f><sg> .
+[Georgia<np><loc>] #Georgia<np><loc><f><sg> .
+[Getafe<np><loc>] #Getafe<np><loc><m><sg> .
+[Ghana<np><loc>] #Ghana<np><loc> .
+[Gibraltar<np><loc>] #Gibilterra<np><loc><m><sg> .
+[Gijón<np><loc>] #Gijón<np><loc><m><sg> .
+[Girona<np><loc>] #Girona<np><loc><f><sg> .
+[Godella<np><loc>] #Godella<np><loc><m><sg> .
+[Gran Bretaña<np><loc>] #Gran Bretagna<np><loc><f><sg> .
+[Granollers<np><loc>] #Granollers<np><loc><m><sg> .
+[Grecia<np><loc>] #Grecia<np><loc><f><sg> .
+[Groenlandia<np><loc>] #Groenlandia<np><loc><f><sg> .
+[Guadalajara<np><loc>] #Guadalajara<np><loc><m><sg> .
+[Guatemala<np><loc>] #Guatemala<np><loc><m><sg> .
+[Guillena<np><loc>] #Guillena<np><loc><m><sg> .
+[Guinea<np><loc>] #Guinea<np><loc><f><sg> .
+[Guipúzcoa<np><loc>] #Guipúzcoa<np><loc><m><sg> .
+[Guipúzcoa<np><loc>] #Guipúzcoa<np><loc><m><sg> .
+[Guipúzcoa<np><loc>] #Guipúzcoa<np><loc><m><sg> .
+[Génova<np><loc>] #Genova<np><loc><f><sg> .
+[Haití<np><loc>] #Haiti<np><loc><m><sg> .
+[Haro<np><loc>] #Haro<np><loc><m><sg> .
+[Hebrón<np><loc>] #Hebron<np><loc><m><sg> .
+[Helsinki<np><loc>] #Helsinki<np><loc><m><sg> .
+[Herrera<np><loc>] #Herrera<np><loc><m><sg> .
+[Hervás<np><loc>] #Hervás<np><loc><m><sg> .
+[Hidalgo<np><loc>] #Hidalgo<np><loc><m><sg> .
+[Himalaya<np><loc>] #Himalaya<np><loc> .
+[Hiroshima<np><loc>] #Hiroshima<np><loc><m><sg> .
+[Holanda<np><loc>] #Olanda<np><loc><f><sg> .
+[Hollywood<np><loc>] #Hollywood<np><loc><m><sg> .
+[Honduras<np><loc>] #Honduras<np><loc><m><sg> .
+[Hopkins<np><ant>] #Hopkins<np><ant> .
+[Huelva<np><loc>] #Huelva<np><loc><f><sg> .
+[Huesca<np><loc>] #Huesca<np><loc><f><sg> .
+[Hungría<np><loc>] #Ungheria<np><loc><f><sg> .
+[Ibiza<np><loc>] #Ibiza<np><loc><f><sg> .
+[Indo<np><loc>] #Indo<np><loc> .
+[Indonesia<np><loc>] #Indonesia<np><loc><f><sg> .
+[Inglaterra<np><loc>] #Inghilterra<np><loc><f><sg> .
+[Iniesta<np><loc>] #Iniesta<np><loc><m><sg> .
+[Irak<np><loc>] #Iraq<np><loc><m><sg> .
+[Irak<np><loc>] #Iraq<np><loc><m><sg> .
+[Irlanda<np><loc>] #Irlanda<np><loc><f><sg> .
+[Irán<np><loc>] #Iran<np><loc><m><sg> .
+[Irún<np><loc>] #Irun<np><loc><m><sg> .
+[Islandia<np><loc>] #Islanda<np><loc><f><sg> .
+[Islas Cook<np><loc>] #Isole Cook<np><loc><f><pl> .
+[Islas Marshall<np><loc>] #Isole Marshall<np><loc><f><pl> .
+[Israel<np><loc>] #Israele<np><loc><m><sg> .
+[Italia<np><loc>] #Italia<np><loc><f><sg> .
+[Jaca<np><loc>] #Jaca<np><loc><m><sg> .
+[Jalón<np><loc>] #Jalón<np><loc><m><sg> .
+[Jamaica<np><loc>] #Giamaica<np><loc><f><sg> .
+[Japón<np><loc>] #Giappone<np><loc><m><sg> .
+[Jarque<np><loc>] #Jarque<np><loc><m><sg> .
+[Jaén<np><loc>] #Jaén<np><loc><m><sg> .
+[Jerez<np><loc>] #Jerez<np><loc><m><sg> .
+[Jerusalén<np><loc>] #Gerusalemme<np><loc><m><sg> .
+[Jordania<np><loc>] #Giordania<np><loc><f><sg> .
+[Vlad el Empalador<np><ant>] #Vlad l'Impalatore<np><ant> .
+[Juan I<np><ant>] #GIOVANNI I<np><ant> .
+[Juan II<np><ant>] #GIOVANNI II<np><ant> .
+[Juan III<np><ant>] #GIOVANNI III<np><ant> .
+[Juan IV<np><ant>] #GIOVANNI IV<np><ant> .
+[Juan V<np><ant>] #GIOVANNI V<np><ant> .
+[Juan VI<np><ant>] #GIOVANNI VI<np><ant> .
+[Juan VII<np><ant>] #GIOVANNI VII<np><ant> .
+[Juan VIII<np><ant>] #GIOVANNI VIII<np><ant> .
+[Juan IX<np><ant>] #GIOVANNI IX<np><ant> .
+[Juan X<np><ant>] #GIOVANNI X<np><ant> .
+[Juan XI<np><ant>] #GIOVANNI XI<np><ant> .
+[Juan XII<np><ant>] #GIOVANNI XII<np><ant> .
+[Juan XIII<np><ant>] #GIOVANNI XIII<np><ant> .
+[Juan XIV<np><ant>] #GIOVANNI XIV<np><ant> .
+[Juan XV<np><ant>] #GIOVANNI XV<np><ant> .
+[Juan XVI<np><ant>] #GIOVANNI XVI<np><ant> .
+[Juan XVII<np><ant>] #GIOVANNI XVII<np><ant> .
+[Juan XVIII<np><ant>] #GIOVANNI XVIII<np><ant> .
+[Juan XIX<np><ant>] #GIOVANNI XIX<np><ant> .
+[Juan XX<np><ant>] #GIOVANNI XX<np><ant> .
+[Juan XXI<np><ant>] #GIOVANNI XXI<np><ant> .
+[Juan XXII<np><ant>] #GIOVANNI XXII<np><ant> .
+[Juan XXIII<np><ant>] #GIOVANNI XXIII<np><ant> .
+[Jávea<np><loc>] #Jávea<np><loc><m><sg> .
+[Kenia<np><loc>] #Kenya<np><loc><m><sg> .
+[Kenya<np><loc>] #Kenya<np><loc><m><sg> .
+[Kiev<np><loc>] #Kiev<np><loc><m><sg> .
+[Kosovo<np><loc>] #Kosovo<np><loc><m><sg> .
+[Lanzarote<np><loc>] #Lanzarote<np><loc><m><sg> .
+[Letonia<np><loc>] #Lettonia<np><loc><f><sg> .
+[León I<np><ant>] #LEONE I<np><ant> .
+[León II<np><ant>] #LEONE II<np><ant> .
+[León III<np><ant>] #LEONE III<np><ant> .
+[León IV<np><ant>] #LEONE IV<np><ant> .
+[León V<np><ant>] #LEONE V<np><ant> .
+[León VI<np><ant>] #LEONE VI<np><ant> .
+[León VII<np><ant>] #LEONE VII<np><ant> .
+[León VIII<np><ant>] #LEONE VIII<np><ant> .
+[León IX<np><ant>] #LEONE IX<np><ant> .
+[León X<np><ant>] #LEONE X<np><ant> .
+[León XI<np><ant>] #LEONE XI<np><ant> .
+[León XII<np><ant>] #LEONE XII<np><ant> .
+[León XIII<np><ant>] #LEONE XIII<np><ant> .
+[Liberia<np><ant>] #Liberia<np><ant> .
+[Liberia<np><loc>] #Liberia<np><loc> .
+[Libia<np><loc>] #Libia<np><loc><f><sg> .
+[Lisboa<np><loc>] #Lisbona<np><loc><f><sg> .
+[Lituania<np><loc>] #Lituania<np><loc><f><sg> .
+[Llobregat<np><loc>] #Llobregat<np><loc><m><sg> .
+[Llíria<np><loc>] #Llíria<np><loc><m><sg> .
+[Logroño<np><loc>] #Logroño<np><loc><m><sg> .
+[Londres<np><loc>] #Londra<np><loc><f><sg> .
+[Lorca<np><loc>] #Lorca<np><loc><m><sg> .
+[Lugo<np><loc>] #Lugo<np><loc><m><sg> .
+[Luxemburgo<np><loc>] #Lussemburgo<np><loc><m><sg> .
+[Lyon<np><loc>] #Lione<np><loc><f><sg> .
+[Lérida<np><loc>] #Lleida<np><loc><m><sg> .
+[Líbano<np><loc>] #Libano<np><loc><m><sg> .
+[Macedonia<np><loc>] #Macedonia<np><loc><f><sg> .
+[Madagascar<np><loc>] #Madagascar<np><loc><m><sg> .
+[Madeleine<np><ant>] #Madeleine<np><ant> .
+[Madrid<np><loc>] #Madrid<np><loc><m><sg> .
+[Magreb<np><loc>] #Maghreb<np><loc><m><sg> .
+[Malabo<np><loc>] #Malabo<np><loc><m><sg> .
+[Malasia<np><loc>] #Malaysia<np><loc><m><sg> .
+[Maldivas<np><loc>] #Maldive<np><loc><f><pl> .
+[Mallorca<np><loc>] #Maiorca<np><loc><f><sg> .
+[Malta<np><loc>] #Malta<np><loc><f><sg> .
+[Manacor<np><loc>] #Manacor<np><loc><m><sg> .
+[Manresa<np><loc>] #Manresa<np><loc><m><sg> .
+[Marbella<np><ant>] #Marbella<np><ant><f><sg> .
+[Marruecos<np><ant>] #Marruecos<np><ant><m><sg> .
+[Marte<np><al>] #Marte<np><al><m><sg> .
+[Martorell<np><loc>] #Martorell<np><loc><m><sg> .
+[Mataró<np><loc>] #Mataró<np><loc><m><sg> .
+[Mauricio<np><loc>] #Mauritius<np><loc><m><sg> .
+[Medina<np><loc>] #Medina<np><loc><m><sg> .
+[Mediterráneo<np><loc>] #Mediterraneo<np><loc><m><sg> .
+[Melilla<np><loc>] #Melilla<np><loc><m><sg> .
+[Menorca<np><loc>] #Minorca<np><loc><m><sg> .
+[Miami<np><loc>] #Miami<np><loc><m><sg> .
+[Microsoft<np><al>] #Microsoft<np><al><m><sg> .
+[Milán<np><loc>] #Milano<np><loc><m><sg> .
+[Mislata<np><loc>] #Mislata<np><loc><m><sg> .
+[Moldavia<np><loc>] #Moldavia<np><loc><f><sg> .
+[Molina<np><loc>] #Molina<np><loc><m><sg> .
+[Mollerussa<np><loc>] #Mollerussa<np><loc><m><sg> .
+[Moncada<np><loc>] #Moncada<np><loc><m><sg> .
+[Montalbán<np><loc>] #Montalbán<np><loc><m><sg> .
+[Montenegro<np><loc>] #Montenegro<np><loc><m><sg> .
+[Montero<np><al>] #Montero<np><al><m><sg> .
+[Montevideo<np><loc>] #Montevideo<np><loc><m><sg> .
+[Montmeló<np><loc>] #Montmeló<np><loc><m><sg> .
+[Montserrat<np><loc>] #Montserrat<np><loc><m><sg> .
+[Monzón<np><loc>] #Monzón<np><loc><m><sg> .
+[Morella<np><loc>] #Morella<np><loc><m><sg> .
+[Moscova<np><loc>] #Moscova<np><loc><m><sg> .
+[Moscú<np><loc>] #Mosca<np><loc><f><sg> .
+[Murcia<np><loc>] #Murcia<np><loc><f><sg> .
+[Mutxamel<np><loc>] #Mutxamel<np><loc><m><sg> .
+[Málaga<np><loc>] #Málaga<np><loc><m><sg> .
+[Mérida<np><loc>] #Mérida<np><loc><m><sg> .
+[México<np><loc>] #Messico<np><loc><m><sg> .
+[Mónaco<np><loc>] #Monaco<np><loc><m><sg> .
+[Móstoles<np><loc>] #Móstoles<np><loc><m><sg> .
+[Nairobi<np><loc>] #Nairobi<np><loc> .
+[Namibia<np><loc>] #Namibia<np><loc><f><sg> .
+[Navarro<np><ant>] #Navarro<np><ant> .
+[Nazaret<np><loc>] #Nazaret<np><loc><m><sg> .
+[Nepal<np><loc>] #Nepal<np><loc><m><sg> .
+[Newton<np><ant>] #Newton<np><ant> .
+[Nigeria<np><loc>] #Nigeria<np><loc><m><sg> .
+[Niza<np><loc>] #Nizza<np><loc><m><sg> .
+[Noruega<np><loc>] #Norvegia<np><loc><f><sg> .
+[Nueva Caledonia<np><loc>] #Nuova Caledonia<np><loc><f><sg> .
+[Nueva York<np><loc>] #Nuova York<np><loc><f><sg> .
+[Nueva Zelanda<np><loc>] #Nuova Zelanda<np><loc><f><sg> .
+[Nueva Zelanda<np><loc>] #Nuova Zelanda<np><loc><f><sg> .
+[Numancia<np><ant>] #Numancia<np><ant><m><sg> .
+[Nápoles<np><loc>] #Napoli<np><loc><m><sg> .
+[Oliva<np><loc>] #Oliva<np><loc><m><sg> .
+[Oporto<np><loc>] #Oporto<np><loc><m><sg> .
+[Orihuela<np><loc>] #Orihuela<np><loc><m><sg> .
+[Oslo<np><loc>] #Oslo<np><loc><m><sg> .
+[Osuna<np><loc>] #Osuna<np><loc><m><sg> .
+[Ourense<np><loc>] #Ourense<np><loc><m><sg> .
+[Oviedo<np><loc>] #Oviedo<np><loc><m><sg> .
+[Padua<np><loc>] #Padova<np><loc><f><sg> .
+[Pakistán<np><loc>] #Pakistan<np><loc><m><sg> .
+[Pakistán<np><loc>] #Pakistan<np><loc><m><sg> .
+[Pamplona<np><loc>] #Pamplona<np><loc><f><sg> .
+[Panamá<np><loc>] #Panamá<np><loc><m><sg> .
+[Paraguay<np><loc>] #Paraguay<np><loc><m><sg> .
+[París<np><loc>] #Parigi<np><loc><m><sg> .
+[Paterna<np><loc>] #Paterna<np><loc><m><sg> .
+[Pekín<np><loc>] #Pechino<np><loc><m><sg> .
+[Pekín<np><loc>] #Pechino<np><loc><m><sg> .
+[Pekín<np><loc>] #Pechino<np><loc><m><sg> .
+[Peralta<np><loc>] #Peralta<np><loc><m><sg> .
+[Perú<np><loc>] #Perù<np><loc><m><sg> .
+[Petra<np><loc>] #Petra<np><loc><m><sg> .
+[Picanya<np><loc>] #Picanya<np><loc><m><sg> .
+[Pirineo<np><loc>] #Pirenei<np><loc><m><sg> .
+[Podemos<np><al>] #Podemos<np><al><m><sg> .
+[Polonia<np><loc>] #Polonia<np><loc><f><sg> .
+[Pontevedra<np><loc>] #Pontevedra<np><loc><m><sg> .
+[Portugal<np><loc>] #Portogallo<np><loc><m><sg> .
+[Praga<np><loc>] #Praga<np><loc><f><sg> .
+[Puig<np><loc>] #Puig<np><loc><m><sg> .
+[Qatar<np><loc>] #Qatar<np><loc><m><sg> .
+[Quart<np><loc>] #Quart<np><loc><m><sg> .
+[Querol<np><loc>] #Querol<np><loc><m><sg> .
+[RTVE<np><al>] #RTVE<np><al><f><sg> .
+[República Centroafricana<np><loc>] #Repubblica Centrafricana<np><loc><f><sg> .
+[República Dominicana<np><loc>] #Repubblica Dominicana<np><loc><f><sg> .
+[Requena<np><loc>] #Requena<np><loc><m><sg> .
+[Reus<np><loc>] #Reus<np><loc><m><sg> .
+[Ripoll<np><loc>] #Ripoll<np><loc><m><sg> .
+[Roma<np><loc>] #Roma<np><loc><f><sg> .
+[Rosellón<np><loc>] #Roussillon<np><loc><m><sg> .
+[Rosellón<np><loc>] #Roussillon<np><loc><m><sg> .
+[Rossell<np><ant>] #Rossell<np><ant> .
+[Rossell<np><loc>] #Rossell<np><loc> .
+[Ruanda<np><loc>] #Ruanda<np><loc><m><sg> .
+[Ruanda<np><loc>] #Ruanda<np><loc><m><sg> .
+[Rubí<np><loc>] #Rubí<np><loc><m><sg> .
+[Rumanía<np><loc>] #Romania<np><loc><f><sg> .
+[Rusia<np><loc>] #Russia<np><loc><f><sg> .
+[Sabadell<np><loc>] #Sabadell<np><loc><m><sg> .
+[Sagra<np><loc>] #Sagra<np><loc><m><sg> .
+[Sagunto<np><loc>] #Sagunto<np><loc><m><sg> .
+[Salamanca<np><loc>] #Salamanca<np><loc><m><sg> .
+[Salem<np><loc>] #Salem<np><loc><m><sg> .
+[Salinas<np><loc>] #Salinas<np><loc><m><sg> .
+[San<np><al>] #San<np><al> .
+[San Vito lo Capo<np><loc>] #San Vito lo Capo<np><loc><m><sg> .
+[Santander<np><loc>] #Santander<np><loc><m><sg> .
+[Santiago<np><loc>] #Santiago<np><loc><m><sg> .
+[Sarajevo<np><loc>] #Sarajevo<np><loc><m><sg> .
+[Saturno<np><al>] #Saturno<np><al><m><sg> .
+[Segarra<np><loc>] #Segarra<np><loc><m><sg> .
+[Segovia<np><loc>] #Segovia<np><loc><m><sg> .
+[Serbia<np><loc>] #Serbia<np><loc><f><sg> .
+[Serra<np><loc>] #Serra<np><loc><m><sg> .
+[Sevilla<np><loc>] #Siviglia<np><loc><m><sg> .
+[Singapur<np><loc>] #Singapore<np><loc><m><sg> .
+[Siria<np><loc>] #Siria<np><loc><f><sg> .
+[Sitges<np><loc>] #Sitges<np><loc><m><sg> .
+[Sofía<np><loc>] #Sofia<np><loc><f><sg> .
+[Somalia<np><loc>] #Somalia<np><loc><f><sg> .
+[Soria<np><loc>] #Soria<np><loc><f><sg> .
+[Sudán<np><loc>] #Sudan<np><loc><m><sg> .
+[Suecia<np><loc>] #Svezia<np><loc><f><sg> .
+[Suiza<np><loc>] #Svizzera<np><loc><f><sg> .
+[Suráfrica<np><loc>] #Sudafrica<np><loc><f><sg> .
+[Sydney<np><loc>] #Sydney<np><loc><m><sg> .
+[TV<np><al>] #TV<np><al> .
+[Tailandia<np><loc>] #Thailandia<np><loc><f><sg> .
+[Taiwán<np><loc>] #Taiwan<np><loc><m><sg> .
+[Tanzania<np><loc>] #Tanzania<np><loc><f><sg> .
+[Tarragona<np><loc>] #Tarragona<np><loc><m><sg> .
+[Tarrasa<np><loc>] #Tarrassa<np><loc><m><sg> .
+[Tasmania<np><loc>] #Tasmania<np><loc><f><sg> .
+[Teherán<np><loc>] #Teheran<np><loc><m><sg> .
+[Tenerife<np><loc>] #Tenerife<np><loc><m><sg> .
+[Terrassa<np><loc>] #Terrassa<np><loc><m><sg> .
+[Teruel<np><loc>] #Teruel<np><loc><m><sg> .
+[Tokyo<np><loc>] #Tokyo<np><loc><m><sg> .
+[Toledo<np><loc>] #Toledo<np><loc><m><sg> .
+[Torreblanca<np><loc>] #Torreblanca<np><loc><m><sg> .
+[Torrent<np><loc>] #Torrent<np><loc><m><sg> .
+[Torrevieja<np><loc>] #Torrevieja<np><loc><m><sg> .
+[Torrijos<np><loc>] #Torrijos<np><loc><m><sg> .
+[Tremonti<np><ant>] #Tremonti<np><ant><m><sg> .
+[Tremp<np><loc>] #Tremp<np><loc><m><sg> .
+[Troya<np><loc>] #Troia<np><loc><m><sg> .
+[Trujillo<np><loc>] #Trujillo<np><loc><m><sg> .
+[Turquía<np><loc>] #Turchia<np><loc><f><sg> .
+[Turín<np><loc>] #Torino<np><loc><m><sg> .
+[Tàrrega<np><loc>] #Tàrrega<np><loc><m><sg> .
+[Tánger<np><loc>] #Tangeri<np><loc><m><sg> .
+[Tíbet<np><loc>] #Tibet<np><loc> .
+[Túnez<np><loc>] #Tunisia<np><loc><f><sg> .
+[Ucrania<np><loc>] #Ucraina<np><loc><f><sg> .
+[Uganda<np><loc>] #Uganda<np><loc><f><sg> .
+[Unicaja<np><al>] #BBVA<np><al> .
+[Uruguay<np><loc>] #Uruguay<np><loc><m><sg> .
+[Valencia<np><loc>] #Valenzia<np><loc><f><sg> .
+[Valladolid<np><loc>] #Valladolid<np><loc><m><sg> .
+[Valls<np><loc>] #Valls<np><loc><m><sg> .
+[Valverde<np><al>] #Valverde<np><al><m><sg> .
+[Vega<np><loc>] #Vega<np><loc><m><sg> .
+[Venezuela<np><loc>] #Venezuela<np><loc><m><sg> .
+[Venus<np><al>] #Venere<np><al><f><sg> .
+[Verdú<np><loc>] #Verdú<np><loc><m><sg> .
+[Viana<np><loc>] #Viana<np><loc><m><sg> .
+[Vic<np><loc>] #Vic<np><loc><m><sg> .
+[Viena<np><loc>] #Vienna<np><loc><f><sg> .
+[Vietnam<np><loc>] #Vietnam<np><loc><m><sg> .
+[Vigo<np><loc>] #Vigo<np><loc><m><sg> .
+[Viladecans<np><loc>] #Viladecans<np><loc><m><sg> .
+[Vilanova<np><loc>] #Vilanova<np><loc><m><sg> .
+[Villalba<np><loc>] #Villalba<np><loc><m><sg> .
+[Villalobos<np><loc>] #Villalobos<np><loc><m><sg> .
+[Villalonga<np><loc>] #Villalonga<np><loc><m><sg> .
+[Villar<np><loc>] #Villar<np><loc><m><sg> .
+[Villena<np><loc>] #Villena<np><loc><m><sg> .
+[Vinaròs<np><loc>] #Vinaròs<np><loc><m><sg> .
+[Vinaròs<np><loc>] #Vinaròs<np><loc><m><sg> .
+[Virginia<np><loc>] #Virginia<np><loc><f><sg> .
+[Vitoria<np><loc>] #Vitoria<np><loc><f><sg> .
+[Vizcaya<np><loc>] #Biscaglia<np><loc><f><sg> .
+[Vázquez<np><ant>] #Vázquez<np><ant><m><sg> .
+[Washington<np><loc>] #Washington<np><loc><m><sg> .
+[Xirivella<np><loc>] #Xirivella<np><loc><m><sg> .
+[Xàtiva<np><loc>] #Xàtiva<np><loc><m><sg> .
+[Yemen<np><loc>] #Yemen<np><loc> .
+[York<np><loc>] #York<np><loc><m><sg> .
+[Zamora<np><loc>] #Zamora<np><loc><m><sg> .
+[Zaragoza<np><loc>] #Saragozza<np><loc><m><sg> .
+[Carol<np><ant>] #Carol<np><ant> .
+[Felix<np><ant>] #Felix<np><ant> .
+[África<np><loc>] #Africa<np><loc><f><sg> .
+[Álava<np><loc>] #Álava<np><loc><m><sg> .
+[Álvarez<np><ant>] #Álvarez<np><ant><m><sg> .
+[Ángel<np><ant>] #Angel<np><ant> .
+[Ángeles<np><ant>] #Angeles<np><ant> .
+[Ártico<np><loc>] #Artico<np><loc> .
+[Ávila<np><loc>] #Ávila<np><loc><m><sg> .
+[Úbeda<np><loc>] #Úbeda<np><loc><m><sg> .
+[Bangalore<np><loc>] #Bangalore<np><loc> .
+[Irún<np><loc>] #Irun<np><loc><m><sg> .
+[IRPF<n><acr><m><sp>] #IRPEF<n><acr><m><sp> .
+[cincuenta y uno<det><def><f><pl>] #cinquantuno<det><def><f><pl> .
+[cincuenta y uno<det><def><m><pl>] #cinquantuno<det><def><m><pl> .
+[cuarenta y uno<det><def><f><pl>] #quarantuno<det><def><f><pl> .
+[cuarenta y uno<det><def><m><pl>] #quarantuno<det><def><m><pl> .
+[ninguno<det><ind><f><sg>] #nessuno<det><ind><f><sg> .
+[ninguno<det><ind><m><sg>] #nessuno<det><ind><m><sg> .
+[noventa y uno<det><def><f><pl>] #novantuno<det><def><f><pl> .
+[noventa y uno<det><def><m><pl>] #novantuno<det><def><m><pl> .
+[ochenta y uno<det><def><f><pl>] #ottantuno<det><def><f><pl> .
+[ochenta y uno<det><def><m><pl>] #ottantuno<det><def><m><pl> .
+[sesenta y uno<det><def><f><pl>] #sessantuno<det><def><f><pl> .
+[sesenta y uno<det><def><m><pl>] #sessantuno<det><def><m><pl> .
+[setenta y uno<det><def><f><pl>] #settantuno<det><def><f><pl> .
+[setenta y uno<det><def><m><pl>] #settantuno<det><def><m><pl> .
+[treinta y uno<det><def><f><pl>] #trentuno<det><def><f><pl> .
+[treinta y uno<det><def><m><pl>] #trentuno<det><def><m><pl> .
+[veintiuno<det><def><f><pl>] #ventuno<det><def><f><pl> .
+[veintiuno<det><def><m><pl>] #ventuno<det><def><m><pl> .
+[cincuenta y uno<num><f><sp>] #cinquantuno<num><f><sp> .
+[cuarenta y uno<num><f><sp>] #quarantuno<num><f><sp> .
+[noventa y uno<num><f><sp>] #novantuno<num><f><sp> .
+[ochenta y uno<num><f><sp>] #ottantuno<num><f><sp> .
+[sesenta y uno<num><f><sp>] #sessantuno<num><f><sp> .
+[setenta y uno<num><f><sp>] #settantuno<num><f><sp> .
+[treinta y uno<num><f><sp>] #trentuno<num><f><sp> .
+[veintiuno<num><f><sp>] #ventuno<num><f><sp> .
+[carecer<vblex><ifi><p1><pl>] abbiamo #essere<vblex><pp><m><sg> .
+[carecer<vblex><ifi><p1><sg>] ho #essere<vblex><pp><m><sg> .
+[carecer<vblex><ifi><p2><pl>] avete #essere<vblex><pp><m><sg> .
+[carecer<vblex><ifi><p2><sg>] hai #essere<vblex><pp><m><sg> .
+[carecer<vblex><ifi><p3><pl>] hanno #essere<vblex><pp><m><sg> .
+[carecer<vblex><ifi><p3><sg>] ha #essere<vblex><pp><m><sg> .
+[cuidar<vblex><cni><p1><pl>] #prendere cura<vblex><cni><p1><pl> .
+[cuidar<vblex><cni><p1><sg>] #prendere cura<vblex><cni><p1><sg> .
+[cuidar<vblex><cni><p2><pl>] #prendere cura<vblex><cni><p2><pl> .
+[cuidar<vblex><cni><p2><sg>] #prendere cura<vblex><cni><p2><sg> .
+[cuidar<vblex><cni><p3><pl>] #prendere cura<vblex><cni><p3><pl> .
+[cuidar<vblex><cni><p3><sg>] #prendere cura<vblex><cni><p3><sg> .
+[cuidar<vblex><fti><p1><pl>] #prendere cura<vblex><fti><p1><pl> .
+[cuidar<vblex><fti><p1><sg>] #prendere cura<vblex><fti><p1><sg> .
+[cuidar<vblex><fti><p2><pl>] #prendere cura<vblex><fti><p2><pl> .
+[cuidar<vblex><fti><p2><sg>] #prendere cura<vblex><fti><p2><sg> .
+[cuidar<vblex><fti><p3><pl>] #prendere cura<vblex><fti><p3><pl> .
+[cuidar<vblex><fti><p3><sg>] #prendere cura<vblex><fti><p3><sg> .
+[cuidar<vblex><ger>] #prendere cura<vblex><ger> .
+[cuidar<vblex><ifi><p1><pl>] abbiamo #prendere cura<vblex><pp><m><sg> .
+[cuidar<vblex><ifi><p1><sg>] ho #prendere cura<vblex><pp><m><sg> .
+[cuidar<vblex><ifi><p2><pl>] avete #prendere cura<vblex><pp><m><sg> .
+[cuidar<vblex><ifi><p2><sg>] hai #prendere cura<vblex><pp><m><sg> .
+[cuidar<vblex><ifi><p3><pl>] hanno #prendere cura<vblex><pp><m><sg> .
+[cuidar<vblex><ifi><p3><sg>] ha #prendere cura<vblex><pp><m><sg> .
+[cuidar<vblex><imp><p1><pl>] #prendere cura<vblex><imp><p1><pl> .
+[cuidar<vblex><imp><p2><pl>] #prendere cura<vblex><imp><p2><pl> .
+[cuidar<vblex><imp><p2><sg>] #prendere cura<vblex><imp><p2><sg> .
+[cuidar<vblex><imp><p3><pl>] #prendere cura<vblex><imp><p3><pl> .
+[cuidar<vblex><imp><p3><sg>] #prendere cura<vblex><imp><p3><sg> .
+[cuidar<vblex><inf>] #prendere cura<vblex><inf> .
+[cuidar<vblex><pii><p1><pl>] #prendere cura<vblex><pii><p1><pl> .
+[cuidar<vblex><pii><p1><sg>] #prendere cura<vblex><pii><p1><sg> .
+[cuidar<vblex><pii><p2><pl>] #prendere cura<vblex><pii><p2><pl> .
+[cuidar<vblex><pii><p2><sg>] #prendere cura<vblex><pii><p2><sg> .
+[cuidar<vblex><pii><p3><pl>] #prendere cura<vblex><pii><p3><pl> .
+[cuidar<vblex><pii><p3><sg>] #prendere cura<vblex><pii><p3><sg> .
+[cuidar<vblex><pis><p1><pl>] #prendere cura<vblex><pis><p1><pl> .
+[cuidar<vblex><pis><p1><sg>] #prendere cura<vblex><pis><p1><sg> .
+[cuidar<vblex><pis><p2><pl>] #prendere cura<vblex><pis><p2><pl> .
+[cuidar<vblex><pis><p2><sg>] #prendere cura<vblex><pis><p2><sg> .
+[cuidar<vblex><pis><p3><pl>] #prendere cura<vblex><pis><p3><pl> .
+[cuidar<vblex><pis><p3><sg>] #prendere cura<vblex><pis><p3><sg> .
+[cuidar<vblex><pp><f><pl>] #prendere cura<vblex><pp><f><pl> .
+[cuidar<vblex><pp><f><sg>] #prendere cura<vblex><pp><f><sg> .
+[cuidar<vblex><pp><m><pl>] #prendere cura<vblex><pp><m><pl> .
+[cuidar<vblex><pp><m><sg>] #prendere cura<vblex><pp><m><sg> .
+[cuidar<vblex><pri><p1><pl>] #prendere cura<vblex><pri><p1><pl> .
+[cuidar<vblex><pri><p1><sg>] #prendere cura<vblex><pri><p1><sg> .
+[cuidar<vblex><pri><p2><pl>] #prendere cura<vblex><pri><p2><pl> .
+[cuidar<vblex><pri><p2><sg>] #prendere cura<vblex><pri><p2><sg> .
+[cuidar<vblex><pri><p3><pl>] #prendere cura<vblex><pri><p3><pl> .
+[cuidar<vblex><pri><p3><sg>] #prendere cura<vblex><pri><p3><sg> .
+[cuidar<vblex><prs><p1><pl>] #prendere cura<vblex><prs><p1><pl> .
+[cuidar<vblex><prs><p1><sg>] #prendere cura<vblex><prs><p1><sg> .
+[cuidar<vblex><prs><p2><pl>] #prendere cura<vblex><prs><p2><pl> .
+[cuidar<vblex><prs><p2><sg>] #prendere cura<vblex><prs><p2><sg> .
+[cuidar<vblex><prs><p3><pl>] #prendere cura<vblex><prs><p3><pl> .
+[cuidar<vblex><prs><p3><sg>] #prendere cura<vblex><prs><p3><sg> .
+[cuidar<vblex><fts><p1><pl>] #prendere cura<vblex><pis><p1><pl> .
+[cuidar<vblex><fts><p1><sg>] #prendere cura<vblex><pis><p1><sg> .
+[cuidar<vblex><fts><p2><pl>] #prendere cura<vblex><pis><p2><pl> .
+[cuidar<vblex><fts><p2><sg>] #prendere cura<vblex><pis><p2><sg> .
+[cuidar<vblex><fts><p3><pl>] #prendere cura<vblex><pis><p3><pl> .
+[cuidar<vblex><fts><p3><sg>] #prendere cura<vblex><pis><p3><sg> .
+[cuidar<vblex><pis><p1><pl>] #prendere cura<vblex><pis><p1><pl> .
+[cuidar<vblex><pis><p1><sg>] #prendere cura<vblex><pis><p1><sg> .
+[cuidar<vblex><pis><p2><pl>] #prendere cura<vblex><pis><p2><pl> .
+[cuidar<vblex><pis><p2><sg>] #prendere cura<vblex><pis><p2><sg> .
+[cuidar<vblex><pis><p3><pl>] #prendere cura<vblex><pis><p3><pl> .
+[cuidar<vblex><pis><p3><sg>] #prendere cura<vblex><pis><p3><sg> .
+[estar<vblex><cni><p1><pl># en Babia] #essere<vbser><cni><p1><pl><# imbranato> .
+[estar<vblex><cni><p1><sg># en Babia] #essere<vbser><cni><p1><sg><# imbranato> .
+[estar<vblex><cni><p2><pl># en Babia] #essere<vbser><cni><p2><pl><# imbranato> .
+[estar<vblex><cni><p2><sg># en Babia] #essere<vbser><cni><p2><sg><# imbranato> .
+[estar<vblex><cni><p3><pl># en Babia] #essere<vbser><cni><p3><pl><# imbranato> .
+[estar<vblex><cni><p3><sg># en Babia] #essere<vbser><cni><p3><sg><# imbranato> .
+[estar<vblex><fti><p1><pl># en Babia] #essere<vbser><fti><p1><pl><# imbranato> .
+[estar<vblex><fti><p1><sg># en Babia] #essere<vbser><fti><p1><sg><# imbranato> .
+[estar<vblex><fti><p2><pl># en Babia] #essere<vbser><fti><p2><pl><# imbranato> .
+[estar<vblex><fti><p2><sg># en Babia] #essere<vbser><fti><p2><sg><# imbranato> .
+[estar<vblex><fti><p3><pl># en Babia] #essere<vbser><fti><p3><pl><# imbranato> .
+[estar<vblex><fti><p3><sg># en Babia] #essere<vbser><fti><p3><sg><# imbranato> .
+[estar<vblex><ger># en Babia] #essere<vbser><ger><# imbranato> .
+[estar<vblex><imp><p1><pl># en Babia] #essere<vbser><imp><p1><pl><# imbranato> .
+[estar<vblex><imp><p2><pl># en Babia] #essere<vbser><imp><p2><pl><# imbranato> .
+[estar<vblex><imp><p2><sg># en Babia] #essere<vbser><imp><p2><sg><# imbranato> .
+[estar<vblex><imp><p3><pl># en Babia] #essere<vbser><imp><p3><pl><# imbranato> .
+[estar<vblex><imp><p3><sg># en Babia] #essere<vbser><imp><p3><sg><# imbranato> .
+[estar<vblex><inf># en Babia] #essere<vbser><inf><# imbranato> .
+[estar<vblex><pii><p1><pl># en Babia] #essere<vbser><pii><p1><pl><# imbranato> .
+[estar<vblex><pii><p1><sg># en Babia] #essere<vbser><pii><p1><sg><# imbranato> .
+[estar<vblex><pii><p2><pl># en Babia] #essere<vbser><pii><p2><pl><# imbranato> .
+[estar<vblex><pii><p2><sg># en Babia] #essere<vbser><pii><p2><sg><# imbranato> .
+[estar<vblex><pii><p3><pl># en Babia] #essere<vbser><pii><p3><pl><# imbranato> .
+[estar<vblex><pii><p3><sg># en Babia] #essere<vbser><pii><p3><sg><# imbranato> .
+[estar<vblex><pis><p1><pl># en Babia] #essere<vbser><pis><p1><pl><# imbranato> .
+[estar<vblex><pis><p1><sg># en Babia] #essere<vbser><pis><p1><sg><# imbranato> .
+[estar<vblex><pis><p2><pl># en Babia] #essere<vbser><pis><p2><pl><# imbranato> .
+[estar<vblex><pis><p2><sg># en Babia] #essere<vbser><pis><p2><sg><# imbranato> .
+[estar<vblex><pis><p3><pl># en Babia] #essere<vbser><pis><p3><pl><# imbranato> .
+[estar<vblex><pis><p3><sg># en Babia] #essere<vbser><pis><p3><sg><# imbranato> .
+[estar<vblex><pp><m><sg># en Babia] #essere<vbser><pp><m><sg><# imbranato> .
+[estar<vblex><pri><p1><pl># en Babia] #essere<vbser><pri><p1><pl><# imbranato> .
+[estar<vblex><pri><p1><sg># en Babia] #essere<vbser><pri><p1><sg><# imbranato> .
+[estar<vblex><pri><p2><pl># en Babia] #essere<vbser><pri><p2><pl><# imbranato> .
+[estar<vblex><pri><p2><sg># en Babia] #essere<vbser><pri><p2><sg><# imbranato> .
+[estar<vblex><pri><p3><pl># en Babia] #essere<vbser><pri><p3><pl><# imbranato> .
+[estar<vblex><pri><p3><sg># en Babia] #essere<vbser><pri><p3><sg><# imbranato> .
+[estar<vblex><prs><p1><pl># en Babia] #essere<vbser><prs><p1><pl><# imbranato> .
+[estar<vblex><prs><p1><sg># en Babia] #essere<vbser><prs><p1><sg><# imbranato> .
+[estar<vblex><prs><p2><pl># en Babia] #essere<vbser><prs><p2><pl><# imbranato> .
+[estar<vblex><prs><p2><sg># en Babia] #essere<vbser><prs><p2><sg><# imbranato> .
+[estar<vblex><prs><p3><pl># en Babia] #essere<vbser><prs><p3><pl><# imbranato> .
+[estar<vblex><prs><p3><sg># en Babia] #essere<vbser><prs><p3><sg><# imbranato> .
+[estar<vblex><fts><p1><pl># en Babia] #essere<vbser><pis><p1><pl><# imbranato> .
+[estar<vblex><fts><p1><sg># en Babia] #essere<vbser><pis><p1><sg><# imbranato> .
+[estar<vblex><fts><p2><pl># en Babia] #essere<vbser><pis><p2><pl><# imbranato> .
+[estar<vblex><fts><p2><sg># en Babia] #essere<vbser><pis><p2><sg><# imbranato> .
+[estar<vblex><fts><p3><pl># en Babia] #essere<vbser><pis><p3><pl><# imbranato> .
+[estar<vblex><fts><p3><sg># en Babia] #essere<vbser><pis><p3><sg><# imbranato> .
+[estar<vblex><pis><p1><pl># en Babia] #essere<vbser><pis><p1><pl><# imbranato> .
+[estar<vblex><pis><p1><sg># en Babia] #essere<vbser><pis><p1><sg><# imbranato> .
+[estar<vblex><pis><p2><pl># en Babia] #essere<vbser><pis><p2><pl><# imbranato> .
+[estar<vblex><pis><p2><sg># en Babia] #essere<vbser><pis><p2><sg><# imbranato> .
+[estar<vblex><pis><p3><pl># en Babia] #essere<vbser><pis><p3><pl><# imbranato> .
+[estar<vblex><pis><p3><sg># en Babia] #essere<vbser><pis><p3><sg><# imbranato> .
+[helar<vblex><cni><p1><pl>] #gelare<vblex><cni><p1><pl> .
+[helar<vblex><cni><p1><sg>] #gelare<vblex><cni><p1><sg> .
+[helar<vblex><cni><p2><pl>] #gelare<vblex><cni><p2><pl> .
+[helar<vblex><cni><p2><sg>] #gelare<vblex><cni><p2><sg> .
+[helar<vblex><fti><p1><pl>] #gelare<vblex><fti><p1><pl> .
+[helar<vblex><fti><p1><sg>] #gelare<vblex><fti><p1><sg> .
+[helar<vblex><fti><p2><pl>] #gelare<vblex><fti><p2><pl> .
+[helar<vblex><fti><p2><sg>] #gelare<vblex><fti><p2><sg> .
+[helar<vblex><pii><p1><pl>] #gelare<vblex><pii><p1><pl> .
+[helar<vblex><pii><p1><sg>] #gelare<vblex><pii><p1><sg> .
+[helar<vblex><pii><p2><pl>] #gelare<vblex><pii><p2><pl> .
+[helar<vblex><pii><p2><sg>] #gelare<vblex><pii><p2><sg> .
+[helar<vblex><pis><p1><pl>] #gelare<vblex><pis><p1><pl> .
+[helar<vblex><pis><p1><sg>] #gelare<vblex><pis><p1><sg> .
+[helar<vblex><pis><p2><pl>] #gelare<vblex><pis><p2><pl> .
+[helar<vblex><pis><p2><sg>] #gelare<vblex><pis><p2><sg> .
+[helar<vblex><pri><p1><pl>] #gelare<vblex><pri><p1><pl> .
+[helar<vblex><pri><p1><sg>] #gelare<vblex><pri><p1><sg> .
+[helar<vblex><pri><p2><pl>] #gelare<vblex><pri><p2><pl> .
+[helar<vblex><pri><p2><sg>] #gelare<vblex><pri><p2><sg> .
+[helar<vblex><prs><p1><pl>] #gelare<vblex><prs><p1><pl> .
+[helar<vblex><prs><p1><sg>] #gelare<vblex><prs><p1><sg> .
+[helar<vblex><prs><p2><pl>] #gelare<vblex><prs><p2><pl> .
+[helar<vblex><prs><p2><sg>] #gelare<vblex><prs><p2><sg> .
+[helar<vblex><pis><p1><pl>] #gelare<vblex><pis><p1><pl> .
+[helar<vblex><fts><p1><sg>] #gelare<vblex><pis><p1><sg> .
+[helar<vblex><fts><p2><pl>] #gelare<vblex><pis><p2><pl> .
+[helar<vblex><fts><p2><sg>] #gelare<vblex><pis><p2><sg> .
+[helar<vblex><pis><p1><pl>] #gelare<vblex><pis><p1><pl> .
+[helar<vblex><pis><p1><sg>] #gelare<vblex><pis><p1><sg> .
+[helar<vblex><pis><p2><pl>] #gelare<vblex><pis><p2><pl> .
+[helar<vblex><pis><p2><sg>] #gelare<vblex><pis><p2><sg> .
+[redistribuir<vblex><cni><p1><pl>] #redistribuire<vblex><cni><p1><pl> .
+[redistribuir<vblex><cni><p1><sg>] #redistribuire<vblex><cni><p1><sg> .
+[redistribuir<vblex><cni><p2><pl>] #redistribuire<vblex><cni><p2><pl> .
+[redistribuir<vblex><cni><p2><sg>] #redistribuire<vblex><cni><p2><sg> .
+[redistribuir<vblex><cni><p3><pl>] #redistribuire<vblex><cni><p3><pl> .
+[redistribuir<vblex><cni><p3><sg>] #redistribuire<vblex><cni><p3><sg> .
+[redistribuir<vblex><fti><p1><pl>] #redistribuire<vblex><fti><p1><pl> .
+[redistribuir<vblex><fti><p1><sg>] #redistribuire<vblex><fti><p1><sg> .
+[redistribuir<vblex><fti><p2><pl>] #redistribuire<vblex><fti><p2><pl> .
+[redistribuir<vblex><fti><p2><sg>] #redistribuire<vblex><fti><p2><sg> .
+[redistribuir<vblex><fti><p3><pl>] #redistribuire<vblex><fti><p3><pl> .
+[redistribuir<vblex><fti><p3><sg>] #redistribuire<vblex><fti><p3><sg> .
+[redistribuir<vblex><ger>] #redistribuire<vblex><ger> .
+[redistribuir<vblex><ifi><p1><pl>] abbiamo #redistribuire<vblex><pp><m><sg> .
+[redistribuir<vblex><ifi><p1><sg>] ho #redistribuire<vblex><pp><m><sg> .
+[redistribuir<vblex><ifi><p2><pl>] avete #redistribuire<vblex><pp><m><sg> .
+[redistribuir<vblex><ifi><p2><sg>] hai #redistribuire<vblex><pp><m><sg> .
+[redistribuir<vblex><ifi><p3><pl>] hanno #redistribuire<vblex><pp><m><sg> .
+[redistribuir<vblex><ifi><p3><sg>] ha #redistribuire<vblex><pp><m><sg> .
+[redistribuir<vblex><inf>] #redistribuire<vblex><inf> .
+[redistribuir<vblex><pii><p1><pl>] #redistribuire<vblex><pii><p1><pl> .
+[redistribuir<vblex><pii><p1><sg>] #redistribuire<vblex><pii><p1><sg> .
+[redistribuir<vblex><pii><p2><pl>] #redistribuire<vblex><pii><p2><pl> .
+[redistribuir<vblex><pii><p2><sg>] #redistribuire<vblex><pii><p2><sg> .
+[redistribuir<vblex><pii><p3><pl>] #redistribuire<vblex><pii><p3><pl> .
+[redistribuir<vblex><pii><p3><sg>] #redistribuire<vblex><pii><p3><sg> .
+[redistribuir<vblex><pis><p1><pl>] #redistribuire<vblex><pis><p1><pl> .
+[redistribuir<vblex><pis><p1><sg>] #redistribuire<vblex><pis><p1><sg> .
+[redistribuir<vblex><pis><p2><pl>] #redistribuire<vblex><pis><p2><pl> .
+[redistribuir<vblex><pis><p2><sg>] #redistribuire<vblex><pis><p2><sg> .
+[redistribuir<vblex><pis><p3><pl>] #redistribuire<vblex><pis><p3><pl> .
+[redistribuir<vblex><pis><p3><sg>] #redistribuire<vblex><pis><p3><sg> .
+[redistribuir<vblex><pp><f><pl>] #redistribuire<vblex><pp><f><pl> .
+[redistribuir<vblex><pp><f><sg>] #redistribuire<vblex><pp><f><sg> .
+[redistribuir<vblex><pp><m><pl>] #redistribuire<vblex><pp><m><pl> .
+[redistribuir<vblex><pp><m><sg>] #redistribuire<vblex><pp><m><sg> .
+[redistribuir<vblex><pri><p1><pl>] #redistribuire<vblex><pri><p1><pl> .
+[redistribuir<vblex><pri><p1><sg>] #redistribuire<vblex><pri><p1><sg> .
+[redistribuir<vblex><pri><p2><pl>] #redistribuire<vblex><pri><p2><pl> .
+[redistribuir<vblex><pri><p2><sg>] #redistribuire<vblex><pri><p2><sg> .
+[redistribuir<vblex><pri><p3><pl>] #redistribuire<vblex><pri><p3><pl> .
+[redistribuir<vblex><pri><p3><sg>] #redistribuire<vblex><pri><p3><sg> .
+[redistribuir<vblex><prs><p1><pl>] #redistribuire<vblex><prs><p1><pl> .
+[redistribuir<vblex><prs><p1><sg>] #redistribuire<vblex><prs><p1><sg> .
+[redistribuir<vblex><prs><p2><pl>] #redistribuire<vblex><prs><p2><pl> .
+[redistribuir<vblex><prs><p2><sg>] #redistribuire<vblex><prs><p2><sg> .
+[redistribuir<vblex><prs><p3><pl>] #redistribuire<vblex><prs><p3><pl> .
+[redistribuir<vblex><prs><p3><sg>] #redistribuire<vblex><prs><p3><sg> .
+[redistribuir<vblex><fts><p1><pl>] #redistribuire<vblex><pis><p1><pl> .
+[redistribuir<vblex><fts><p1><sg>] #redistribuire<vblex><pis><p1><sg> .
+[redistribuir<vblex><fts><p2><pl>] #redistribuire<vblex><pis><p2><pl> .
+[redistribuir<vblex><fts><p2><sg>] #redistribuire<vblex><pis><p2><sg> .
+[redistribuir<vblex><fts><p3><pl>] #redistribuire<vblex><pis><p3><pl> .
+[redistribuir<vblex><fts><p3><sg>] #redistribuire<vblex><pis><p3><sg> .
+[redistribuir<vblex><pis><p1><pl>] #redistribuire<vblex><pis><p1><pl> .
+[redistribuir<vblex><pis><p1><sg>] #redistribuire<vblex><pis><p1><sg> .
+[redistribuir<vblex><pis><p2><pl>] #redistribuire<vblex><pis><p2><pl> .
+[redistribuir<vblex><pis><p2><sg>] #redistribuire<vblex><pis><p2><sg> .
+[redistribuir<vblex><pis><p3><pl>] #redistribuire<vblex><pis><p3><pl> .
+[redistribuir<vblex><pis><p3><sg>] #redistribuire<vblex><pis><p3><sg> .
+[soler<vblex><fti><p1><sg>] #solere<vblex><fti><p1><sg> .
+[soler<vblex><fti><p2><sg>] #solere<vblex><fti><p2><sg> .
+[soler<vblex><fti><p3><sg>] #solere<vblex><fti><p3><sg> .
+[soler<vblex><fti><p1><pl>] #solere<vblex><fti><p1><pl> .
+[soler<vblex><fti><p2><pl>] #solere<vblex><fti><p2><pl> .
+[soler<vblex><fti><p3><pl>] #solere<vblex><fti><p3><pl> .
+[soler<vblex><cni><p1><sg>] #solere<vblex><cni><p1><sg> .
+[soler<vblex><cni><p2><sg>] #solere<vblex><cni><p2><sg> .
+[soler<vblex><cni><p3><sg>] #solere<vblex><cni><p3><sg> .
+[soler<vblex><cni><p1><pl>] #solere<vblex><cni><p1><pl> .
+[soler<vblex><cni><p2><pl>] #solere<vblex><cni><p2><pl> .
+[soler<vblex><cni><p3><pl>] #solere<vblex><cni><p3><pl> .
+[soler<vblex><pis><p1><sg>] #solere<vblex><pis><p1><sg> .
+[soler<vblex><pis><p2><sg>] #solere<vblex><pis><p2><sg> .
+[soler<vblex><pis><p3><sg>] #solere<vblex><pis><p3><sg> .
+[soler<vblex><pis><p1><pl>] #solere<vblex><pis><p1><pl> .
+[soler<vblex><pis><p2><pl>] #solere<vblex><pis><p2><pl> .
+[soler<vblex><pis><p3><pl>] #solere<vblex><pis><p3><pl> .
+[suceder<vblex><cni><p1><pl>] #accadere<vblex><cni><p1><pl> .
+[suceder<vblex><cni><p1><pl>] #succedere<vblex><cni><p1><pl> .
+[suceder<vblex><cni><p1><sg>] #accadere<vblex><cni><p1><sg> .
+[suceder<vblex><cni><p1><sg>] #succedere<vblex><cni><p1><sg> .
+[suceder<vblex><cni><p2><pl>] #accadere<vblex><cni><p2><pl> .
+[suceder<vblex><cni><p2><pl>] #succedere<vblex><cni><p2><pl> .
+[suceder<vblex><cni><p2><sg>] #accadere<vblex><cni><p2><sg> .
+[suceder<vblex><cni><p2><sg>] #succedere<vblex><cni><p2><sg> .
+[suceder<vblex><fti><p1><pl>] #accadere<vblex><fti><p1><pl> .
+[suceder<vblex><fti><p1><pl>] #succedere<vblex><fti><p1><pl> .
+[suceder<vblex><fti><p1><sg>] #accadere<vblex><fti><p1><sg> .
+[suceder<vblex><fti><p1><sg>] #succedere<vblex><fti><p1><sg> .
+[suceder<vblex><fti><p2><pl>] #accadere<vblex><fti><p2><pl> .
+[suceder<vblex><fti><p2><pl>] #succedere<vblex><fti><p2><pl> .
+[suceder<vblex><fti><p2><sg>] #accadere<vblex><fti><p2><sg> .
+[suceder<vblex><fti><p2><sg>] #succedere<vblex><fti><p2><sg> .
+[suceder<vblex><pii><p1><pl>] #accadere<vblex><pii><p1><pl> .
+[suceder<vblex><pii><p1><pl>] #succedere<vblex><pii><p1><pl> .
+[suceder<vblex><pii><p1><sg>] #accadere<vblex><pii><p1><sg> .
+[suceder<vblex><pii><p1><sg>] #succedere<vblex><pii><p1><sg> .
+[suceder<vblex><pii><p2><pl>] #accadere<vblex><pii><p2><pl> .
+[suceder<vblex><pii><p2><pl>] #succedere<vblex><pii><p2><pl> .
+[suceder<vblex><pii><p2><sg>] #accadere<vblex><pii><p2><sg> .
+[suceder<vblex><pii><p2><sg>] #succedere<vblex><pii><p2><sg> .
+[suceder<vblex><pis><p1><pl>] #accadere<vblex><pis><p1><pl> .
+[suceder<vblex><pis><p1><pl>] #succedere<vblex><pis><p1><pl> .
+[suceder<vblex><pis><p1><sg>] #accadere<vblex><pis><p1><sg> .
+[suceder<vblex><pis><p1><sg>] #succedere<vblex><pis><p1><sg> .
+[suceder<vblex><pis><p2><pl>] #accadere<vblex><pis><p2><pl> .
+[suceder<vblex><pis><p2><pl>] #succedere<vblex><pis><p2><pl> .
+[suceder<vblex><pis><p2><sg>] #accadere<vblex><pis><p2><sg> .
+[suceder<vblex><pis><p2><sg>] #succedere<vblex><pis><p2><sg> .
+[suceder<vblex><pri><p1><pl>] #accadere<vblex><pri><p1><pl> .
+[suceder<vblex><pri><p1><pl>] #succedere<vblex><pri><p1><pl> .
+[suceder<vblex><pri><p1><sg>] #accadere<vblex><pri><p1><sg> .
+[suceder<vblex><pri><p1><sg>] #succedere<vblex><pri><p1><sg> .
+[suceder<vblex><pri><p2><pl>] #accadere<vblex><pri><p2><pl> .
+[suceder<vblex><pri><p2><pl>] #succedere<vblex><pri><p2><pl> .
+[suceder<vblex><pri><p2><sg>] #accadere<vblex><pri><p2><sg> .
+[suceder<vblex><pri><p2><sg>] #succedere<vblex><pri><p2><sg> .
+[suceder<vblex><prs><p1><pl>] #accadere<vblex><prs><p1><pl> .
+[suceder<vblex><prs><p1><pl>] #succedere<vblex><prs><p1><pl> .
+[suceder<vblex><prs><p1><sg>] #accadere<vblex><prs><p1><sg> .
+[suceder<vblex><prs><p1><sg>] #succedere<vblex><prs><p1><sg> .
+[suceder<vblex><prs><p2><pl>] #accadere<vblex><prs><p2><pl> .
+[suceder<vblex><prs><p2><pl>] #succedere<vblex><prs><p2><pl> .
+[suceder<vblex><prs><p2><sg>] #accadere<vblex><prs><p2><sg> .
+[suceder<vblex><prs><p2><sg>] #succedere<vblex><prs><p2><sg> .
+[suceder<vblex><fts><p1><pl>] #accadere<vblex><pis><p1><pl> .
+[suceder<vblex><fts><p1><pl>] #succedere<vblex><pis><p1><pl> .
+[suceder<vblex><fts><p1><sg>] #accadere<vblex><pis><p1><sg> .
+[suceder<vblex><fts><p1><sg>] #succedere<vblex><pis><p1><sg> .
+[suceder<vblex><fts><p2><pl>] #accadere<vblex><pis><p2><pl> .
+[suceder<vblex><fts><p2><pl>] #succedere<vblex><pis><p2><pl> .
+[suceder<vblex><fts><p2><sg>] #accadere<vblex><pis><p2><sg> .
+[suceder<vblex><fts><p2><sg>] #succedere<vblex><pis><p2><sg> .
+[suceder<vblex><pis><p1><pl>] #accadere<vblex><pis><p1><pl> .
+[suceder<vblex><pis><p1><pl>] #succedere<vblex><pis><p1><pl> .
+[suceder<vblex><pis><p1><sg>] #accadere<vblex><pis><p1><sg> .
+[suceder<vblex><pis><p1><sg>] #succedere<vblex><pis><p1><sg> .
+[suceder<vblex><pis><p2><pl>] #accadere<vblex><pis><p2><pl> .
+[suceder<vblex><pis><p2><pl>] #succedere<vblex><pis><p2><pl> .
+[suceder<vblex><pis><p2><sg>] #accadere<vblex><pis><p2><sg> .
+[suceder<vblex><pis><p2><sg>] #succedere<vblex><pis><p2><sg> .
+[Harlem<np><ant>] #Harlem<np><ant> .
+[Hudson<np><loc>] #Hudson<np><loc> .
+[Hudson<np><ant>] #Hudson<np><ant> .
+[Brexit<n><acr><m><sg>] #Brexit<n><acr><m><sg> .
+[Navarro<np><ant>] #Navarro<np><ant> .
+[antípoda<adj><mf><pl>] #antipode<adj><mf><pl> .
+[antípoda<adj><mf><sg>] #antipode<adj><mf><sg> .
+[aspirante<adj><mf><pl>] #candidato<adj><mf><pl> .
+[aspirante<adj><mf><sg>] #candidato<adj><mf><sg> .
+[destinatario<adj><f><pl>] #destinatario<adj><f><pl> .
+[destinatario<adj><f><sg>] #destinatario<adj><f><sg> .
+[destinatario<adj><m><pl>] #destinatario<adj><m><pl> .
+[destinatario<adj><m><sg>] #destinatario<adj><m><sg> .
+[Sudán<np><loc>] #Sudan<np><loc><m><sg> .
+[Brooklyn<np><loc>] #Brooklyn<np><loc> .
+[Brooklyn<np><ant>] #Brooklyn<np><ant> .
+[Chad<np><loc>] #Chad<np><loc><m><sg> .
+[Idaho<np><loc>] #Idaho<np><loc> .
+[Idaho<np><ant>] #Idaho<np><ant> .
+[ARN<n><acr><m><sp>] #RNA<n><acr><m><sp> .
+[Argelia<np><loc>] #Algeria<np><loc><f><sg> .
+[Babilonia<np><loc>] #Babilonia<np><loc> .
+[Cairo<np><loc>] #Cairo<np><loc> .
+[subprime<adj><mf><sp>] #subprime<adj><mf><sp> .
+[ajustado<adj><f><pl>] #aggiustato<adj><f><pl> .
+[ajustado<adj><f><sg>] #aggiustato<adj><f><sg> .
+[ajustado<adj><m><pl>] #aggiustato<adj><m><pl> .
+[ajustado<adj><m><sg>] #aggiustato<adj><m><sg> .
+[alejado<adj><f><pl>] #allontanato<adj><f><pl> .
+[alejado<adj><f><sg>] #allontanato<adj><f><sg> .
+[alejado<adj><m><pl>] #allontanato<adj><m><pl> .
+[alejado<adj><m><sg>] #allontanato<adj><m><sg> .
+[arrastrado<adj><f><pl>] #trascinato<adj><f><pl> .
+[arrastrado<adj><f><sg>] #trascinato<adj><f><sg> .
+[arrastrado<adj><m><pl>] #trascinato<adj><m><pl> .
+[arrastrado<adj><m><sg>] #trascinato<adj><m><sg> .
+[arruinado<adj><f><pl>] #rovinato<adj><f><pl> .
+[arruinado<adj><f><sg>] #rovinato<adj><f><sg> .
+[arruinado<adj><m><pl>] #rovinato<adj><m><pl> .
+[arruinado<adj><m><sg>] #rovinato<adj><m><sg> .
+[excitado<adj><f><pl>] #eccitato<adj><f><pl> .
+[excitado<adj><f><sg>] #eccitato<adj><f><sg> .
+[excitado<adj><m><pl>] #eccitato<adj><m><pl> .
+[excitado<adj><m><sg>] #eccitato<adj><m><sg> .
+[fascinado<adj><f><pl>] #affascinato<adj><f><pl> .
+[fascinado<adj><f><sg>] #affascinato<adj><f><sg> .
+[fascinado<adj><m><pl>] #affascinato<adj><m><pl> .
+[fascinado<adj><m><sg>] #affascinato<adj><m><sg> .
+[forzado<adj><f><pl>] #costretto<adj><f><pl> .
+[forzado<adj><f><sg>] #costretto<adj><f><sg> .
+[forzado<adj><m><pl>] #costretto<adj><m><pl> .
+[forzado<adj><m><sg>] #costretto<adj><m><sg> .
+[muchísimo<adj><f><pl>] #moltissimo<adj><f><pl> .
+[muchísimo<adj><f><sg>] #moltissimo<adj><f><sg> .
+[muchísimo<adj><m><pl>] #moltissimo<adj><m><pl> .
+[muchísimo<adj><m><sg>] #moltissimo<adj><m><sg> .

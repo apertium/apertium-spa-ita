@@ -1,0 +1,4532 @@
+:>:demás<det><mf><sp>
+:poco<det><ind>
+:cero<num><m><sp>
+:>:cero<num><m><pl>
+:cientos<num>
+:decenas de<num>
+:>:mil<num><mf><pl>
+:millardo<num>
+:uno<det><def><f><sp>
+:catorce mil<num>
+:cien mil<num>
+:cinco mil<num>
+:cincuenta mil<num>
+:cincuenta mil<num>
+:cincuenta y cinco mil<num>
+:cincuenta y cuatro mil<num>
+:cincuenta y dos mil<num>
+:cincuenta y nueve mil<num>
+:cincuenta y ocho mil<num>
+:cincuenta y seis mil<num>
+:cincuenta y siete mil<num>
+:cincuenta y uno mil<num>
+:cuarenta mil<num>
+:cuarenta y cinco mil<num>
+:cuarenta y cuatro mil<num>
+:cuarenta y dos mil<num>
+:cuarenta y nueve mil<num>
+:cuarenta y ocho mil<num>
+:cuarenta y seis mil<num>
+:cuarenta y siete mil<num>
+:cuarenta y uno mil<num>
+:cuatro mil<num>
+:cuatro mil<num>
+:diecinueve mil<num>
+:dieciocho mil<num>
+:diecisiete mil<num>
+:dieciséis mil<num>
+:diez mil<num>
+:diez mil<num>
+:doce mil<num>
+:dos mil<num>
+:dos mil<num>
+:noventa mil<num>
+:noventa y cinco mil<num>
+:noventa y cuatro mil<num>
+:noventa y dos mil<num>
+:noventa y nueve mil<num>
+:noventa y ocho mil<num>
+:noventa y seis mil<num>
+:noventa y siete mil<num>
+:noventa y uno mil<num>
+:nueve mil<num>
+:ochenta mil<num>
+:ochenta y cinco mil<num>
+:ochenta y cuatro mil<num>
+:ochenta y dos mil<num>
+:ochenta y nueve mil<num>
+:ochenta y ocho mil<num>
+:ochenta y seis mil<num>
+:ochenta y siete mil<num>
+:ochenta y uno mil<num>
+:ocho mil<num>
+:once mil<num>
+:quince mil<num>
+:seis mil<num>
+:sesenta mil<num>
+:sesenta y cinco mil<num>
+:sesenta y cuatro mil<num>
+:sesenta y dos mil<num>
+:sesenta y nueve mil<num>
+:sesenta y ocho mil<num>
+:sesenta y seis mil<num>
+:sesenta y siete mil<num>
+:sesenta y uno mil<num>
+:setenta mil<num>
+:setenta y cinco mil<num>
+:setenta y cuatro mil<num>
+:setenta y dos mil<num>
+:setenta y nueve mil<num>
+:setenta y ocho mil<num>
+:setenta y seis mil<num>
+:setenta y siete mil<num>
+:setenta y uno mil<num>
+:siete mil<num>
+:trece mil<num>
+:treinta mil<num>
+:treinta y cinco mil<num>
+:treinta y cuatro mil<num>
+:treinta y dos mil<num>
+:treinta y nueve mil<num>
+:treinta y ocho mil<num>
+:treinta y seis mil<num>
+:treinta y siete mil<num>
+:treinta y uno mil<num>
+:tres mil<num>
+:veinte mil<num>
+:veinticinco mil<num>
+:veinticuatro mil<num>
+:veintidós mil<num>
+:veintinueve mil<num>
+:veintiocho mil<num>
+:veintisiete mil<num>
+:veintiséis mil<num>
+:cincuenta y tres mil<num>
+:cuarenta y tres mil<num>
+:noventa y tres mil<num>
+:ochenta y tres mil<num>
+:sesenta y tres mil<num>
+:setenta y tres mil<num>
+:treinta y tres mil<num>
+:veintitrés mil<num>
+:cuatrocientos uno<num>
+:cuatrocientos noventa y uno<num>
+:cuatrocientos noventa y uno<det><def>
+:cuatrocientos ochenta y uno<num>
+:cuatrocientos ochenta y uno<det><def>
+:cuatrocientos setenta y uno<num>
+:cuatrocientos setenta y uno<det><def>
+:cuatrocientos sesenta y uno<num>
+:cuatrocientos sesenta y uno<det><def>
+:cuatrocientos cincuenta y uno<num>
+:cuatrocientos cincuenta y uno<det><def>
+:cuatrocientos cuarenta y uno<num>
+:cuatrocientos cuarenta y uno<det><def>
+:cuatrocientos treinta y uno<num>
+:cuatrocientos treinta y uno<det><def>
+:cuatrocientos veintiuno<num>
+:cuatrocientos veintiuno<det><def>
+:>:cuatrocientos catorce<num><f>
+:>:cuatrocientos catorce mil<num><f>
+:>:cuatrocientos quince<num><f>
+:>:cuatrocientos quince mil<num><f>
+:>:cuatrocientos trece<num><f>
+:>:cuatrocientos trece mil<num><f>
+:>:cuatrocientos doce<num><f>
+:>:cuatrocientos doce mil<num><f>
+:>:cuatrocientos once<num><f>
+:>:cuatrocientos once mil<num><f>
+:>:cuatrocientos cincuenta<num><f>
+:>:cuatrocientos cincuenta mil<num><f>
+:>:cuatrocientos cuatro<num><f>
+:>:cuatrocientos cuatro mil<num><f>
+:>:cuatrocientos diez<num><f>
+:>:cuatrocientos diez mil<num><f>
+:>:cuatrocientos dos<num><f>
+:>:cuatrocientos dos mil<num><f>
+:>:cuatrocientos nueve<num><f>
+:>:cuatrocientos nueve mil<num><f>
+:>:cuatrocientos ocho<num><f>
+:>:cuatrocientos ocho mil<num><f>
+:>:cuatrocientos seis<num><f>
+:>:cuatrocientos seis mil<num><f>
+:>:cuatrocientos siete<num><f>
+:>:cuatrocientos siete mil<num><f>
+:>:cuatrocientos tres<num><f>
+:>:cuatrocientos tres mil<num><f>
+:>:cuatrocientos cinco<num><f>
+:>:cuatrocientos cinco mil<num><f>
+:>:cuatrocientos cincuenta<num><f>
+:>:cuatrocientos cincuenta mil<num><f>
+:>:cuatrocientos noventa<num><f>
+:>:cuatrocientos noventa mil<num><f>
+:>:cuatrocientos noventa y cinco<num><f>
+:>:cuatrocientos noventa y cinco mil<num><f>
+:>:cuatrocientos noventa y cuatro<num><f>
+:>:cuatrocientos noventa y cuatro mil<num><f>
+:>:cuatrocientos noventa y dos<num><f>
+:>:cuatrocientos noventa y dos mil<num><f>
+:>:cuatrocientos noventa y nueve<num><f>
+:>:cuatrocientos noventa y nueve mil<num><f>
+:>:cuatrocientos noventa y ocho<num><f>
+:>:cuatrocientos noventa y ocho mil<num><f>
+:>:cuatrocientos noventa y seis<num><f>
+:>:cuatrocientos noventa y seis mil<num><f>
+:>:cuatrocientos noventa y siete<num><f>
+:>:cuatrocientos noventa y siete mil<num><f>
+:>:cuatrocientos noventa y tres<num><f>
+:>:cuatrocientos noventa y tres mil<num><f>
+:>:cuatrocientos ochenta<num><f>
+:>:cuatrocientos ochenta mil<num><f>
+:>:cuatrocientos ochenta y cinco<num><f>
+:>:cuatrocientos ochenta y cinco mil<num><f>
+:>:cuatrocientos ochenta y cuatro<num><f>
+:>:cuatrocientos ochenta y cuatro mil<num><f>
+:>:cuatrocientos ochenta y dos<num><f>
+:>:cuatrocientos ochenta y dos mil<num><f>
+:>:cuatrocientos ochenta y nueve<num><f>
+:>:cuatrocientos ochenta y nueve mil<num><f>
+:>:cuatrocientos ochenta y ocho<num><f>
+:>:cuatrocientos ochenta y ocho mil<num><f>
+:>:cuatrocientos ochenta y seis<num><f>
+:>:cuatrocientos ochenta y seis mil<num><f>
+:>:cuatrocientos ochenta y siete<num><f>
+:>:cuatrocientos ochenta y siete mil<num><f>
+:>:cuatrocientos ochenta y tres<num><f>
+:>:cuatrocientos ochenta y tres mil<num><f>
+:>:cuatrocientos setenta<num><f>
+:>:cuatrocientos setenta mil<num><f>
+:>:cuatrocientos setenta y cinco<num><f>
+:>:cuatrocientos setenta y cinco mil<num><f>
+:>:cuatrocientos setenta y cuatro<num><f>
+:>:cuatrocientos setenta y cuatro mil<num><f>
+:>:cuatrocientos setenta y dos<num><f>
+:>:cuatrocientos setenta y dos mil<num><f>
+:>:cuatrocientos setenta y nueve<num><f>
+:>:cuatrocientos setenta y nueve mil<num><f>
+:>:cuatrocientos setenta y ocho<num><f>
+:>:cuatrocientos setenta y ocho mil<num><f>
+:>:cuatrocientos setenta y seis<num><f>
+:>:cuatrocientos setenta y seis mil<num><f>
+:>:cuatrocientos setenta y siete<num><f>
+:>:cuatrocientos setenta y siete mil<num><f>
+:>:cuatrocientos setenta y tres<num><f>
+:>:cuatrocientos setenta y tres mil<num><f>
+:>:cuatrocientos sesenta<num><f>
+:>:cuatrocientos sesenta mil<num><f>
+:>:cuatrocientos sesenta y cinco<num><f>
+:>:cuatrocientos sesenta y cinco mil<num><f>
+:>:cuatrocientos sesenta y cuatro<num><f>
+:>:cuatrocientos sesenta y cuatro mil<num><f>
+:>:cuatrocientos sesenta y dos<num><f>
+:>:cuatrocientos sesenta y dos mil<num><f>
+:>:cuatrocientos sesenta y nueve<num><f>
+:>:cuatrocientos sesenta y nueve mil<num><f>
+:>:cuatrocientos sesenta y ocho<num><f>
+:>:cuatrocientos sesenta y ocho mil<num><f>
+:>:cuatrocientos sesenta y seis<num><f>
+:>:cuatrocientos sesenta y seis mil<num><f>
+:>:cuatrocientos sesenta y siete<num><f>
+:>:cuatrocientos sesenta y siete mil<num><f>
+:>:cuatrocientos sesenta y tres<num><f>
+:>:cuatrocientos sesenta y tres mil<num><f>
+:>:cuatrocientos cincuenta y cinco<num><f>
+:>:cuatrocientos cincuenta y cinco mil<num><f>
+:>:cuatrocientos cincuenta y cuatro<num><f>
+:>:cuatrocientos cincuenta y cuatro mil<num><f>
+:>:cuatrocientos cincuenta y dos<num><f>
+:>:cuatrocientos cincuenta y dos mil<num><f>
+:>:cuatrocientos cincuenta y nueve<num><f>
+:>:cuatrocientos cincuenta y nueve mil<num><f>
+:>:cuatrocientos cincuenta y ocho<num><f>
+:>:cuatrocientos cincuenta y ocho mil<num><f>
+:>:cuatrocientos cincuenta y seis<num><f>
+:>:cuatrocientos cincuenta y seis mil<num><f>
+:>:cuatrocientos cincuenta y siete<num><f>
+:>:cuatrocientos cincuenta y siete mil<num><f>
+:>:cuatrocientos cincuenta y tres<num><f>
+:>:cuatrocientos cincuenta y tres mil<num><f>
+:>:cuatrocientos cuarenta<num><f>
+:>:cuatrocientos cuarenta mil<num><f>
+:>:cuatrocientos cuarenta y cinco<num><f>
+:>:cuatrocientos cuarenta y cinco mil<num><f>
+:>:cuatrocientos cuarenta y cuatro<num><f>
+:>:cuatrocientos cuarenta y cuatro mil<num><f>
+:>:cuatrocientos cuarenta y dos<num><f>
+:>:cuatrocientos cuarenta y dos mil<num><f>
+:>:cuatrocientos cuarenta y nueve<num><f>
+:>:cuatrocientos cuarenta y nueve mil<num><f>
+:>:cuatrocientos cuarenta y ocho<num><f>
+:>:cuatrocientos cuarenta y ocho mil<num><f>
+:>:cuatrocientos cuarenta y seis<num><f>
+:>:cuatrocientos cuarenta y seis mil<num><f>
+:>:cuatrocientos cuarenta y siete<num><f>
+:>:cuatrocientos cuarenta y siete mil<num><f>
+:>:cuatrocientos cuarenta y tres<num><f>
+:>:cuatrocientos cuarenta y tres mil<num><f>
+:>:cuatrocientos treinta<num><f>
+:>:cuatrocientos treinta mil<num><f>
+:>:cuatrocientos treinta y cinco<num><f>
+:>:cuatrocientos treinta y cinco mil<num><f>
+:>:cuatrocientos treinta y cuatro<num><f>
+:>:cuatrocientos treinta y cuatro mil<num><f>
+:>:cuatrocientos treinta y dos<num><f>
+:>:cuatrocientos treinta y dos mil<num><f>
+:>:cuatrocientos treinta y nueve<num><f>
+:>:cuatrocientos treinta y nueve mil<num><f>
+:>:cuatrocientos treinta y ocho<num><f>
+:>:cuatrocientos treinta y ocho mil<num><f>
+:>:cuatrocientos treinta y seis<num><f>
+:>:cuatrocientos treinta y seis mil<num><f>
+:>:cuatrocientos treinta y siete<num><f>
+:>:cuatrocientos treinta y siete mil<num><f>
+:>:cuatrocientos treinta y tres<num><f>
+:>:cuatrocientos treinta y tres mil<num><f>
+:>:cuatrocientos veinte<num><f>
+:>:cuatrocientos veinte mil<num><f>
+:>:cuatrocientos veinticinco<num><f>
+:>:cuatrocientos veinticinco mil<num><f>
+:>:cuatrocientos veinticuatro<num><f>
+:>:cuatrocientos veinticuatro mil<num><f>
+:>:cuatrocientos veintidós<num><f>
+:>:cuatrocientos veintidós mil<num><f>
+:>:cuatrocientos veintinueve<num><f>
+:>:cuatrocientos veintinueve mil<num><f>
+:>:cuatrocientos veintiocho<num><f>
+:>:cuatrocientos veintiocho mil<num><f>
+:>:cuatrocientos veintiséis<num><f>
+:>:cuatrocientos veintiséis mil<num><f>
+:>:cuatrocientos veintisiete<num><f>
+:>:cuatrocientos veintisiete mil<num><f>
+:>:cuatrocientos veintitrés<num><f>
+:>:cuatrocientos veintitrés mil<num><f>
+:>:cuatrocientos cuatro<num><f>
+:>:cuatrocientos cuatro mil<num><f>
+:>:cuatrocientos diecinueve<num><f>
+:>:cuatrocientos diecinueve mil<num><f>
+:>:cuatrocientos dieciocho<num><f>
+:>:cuatrocientos dieciocho mil<num><f>
+:>:cuatrocientos diecisiete<num><f>
+:>:cuatrocientos diecisiete mil<num><f>
+:>:cuatrocientos dieciséis<num><f>
+:>:cuatrocientos dieciséis mil<num><f>
+:>:cuatrocientos diez<num><f>
+:>:cuatrocientos diez mil<num><f>
+:>:cuatrocientos dos<num><f>
+:>:cuatrocientos dos mil<num><f>
+:>:cuatrocientos catorce<num><m>
+:>:cuatrocientos catorce mil<num><m>
+:>:cuatrocientos quince<num><m>
+:>:cuatrocientos quince mil<num><m>
+:>:cuatrocientos trece<num><m>
+:>:cuatrocientos trece mil<num><m>
+:>:cuatrocientos doce<num><m>
+:>:cuatrocientos doce mil<num><m>
+:>:cuatrocientos once<num><m>
+:>:cuatrocientos once mil<num><m>
+:>:cuatrocientos cincuenta<num><m>
+:>:cuatrocientos cincuenta mil<num><m>
+:>:cuatrocientos cuatro<num><m>
+:>:cuatrocientos cuatro mil<num><m>
+:>:cuatrocientos diez<num><m>
+:>:cuatrocientos diez mil<num><m>
+:>:cuatrocientos dos<num><m>
+:>:cuatrocientos dos mil<num><m>
+:>:cuatrocientos nueve<num><m>
+:>:cuatrocientos nueve mil<num><m>
+:>:cuatrocientos ocho<num><m>
+:>:cuatrocientos ocho mil<num><m>
+:>:cuatrocientos seis<num><m>
+:>:cuatrocientos seis mil<num><m>
+:>:cuatrocientos siete<num><m>
+:>:cuatrocientos siete mil<num><m>
+:>:cuatrocientos tres<num><m>
+:>:cuatrocientos tres mil<num><m>
+:>:cuatrocientos cinco<num><m>
+:>:cuatrocientos cinco mil<num><m>
+:>:cuatrocientos cincuenta<num><m>
+:>:cuatrocientos cincuenta mil<num><m>
+:>:cuatrocientos noventa<num><m>
+:>:cuatrocientos noventa mil<num><m>
+:>:cuatrocientos noventa y cinco<num><m>
+:>:cuatrocientos noventa y cinco mil<num><m>
+:>:cuatrocientos noventa y cuatro<num><m>
+:>:cuatrocientos noventa y cuatro mil<num><m>
+:>:cuatrocientos noventa y dos<num><m>
+:>:cuatrocientos noventa y dos mil<num><m>
+:>:cuatrocientos noventa y nueve<num><m>
+:>:cuatrocientos noventa y nueve mil<num><m>
+:>:cuatrocientos noventa y ocho<num><m>
+:>:cuatrocientos noventa y ocho mil<num><m>
+:>:cuatrocientos noventa y seis<num><m>
+:>:cuatrocientos noventa y seis mil<num><m>
+:>:cuatrocientos noventa y siete<num><m>
+:>:cuatrocientos noventa y siete mil<num><m>
+:>:cuatrocientos noventa y tres<num><m>
+:>:cuatrocientos noventa y tres mil<num><m>
+:>:cuatrocientos ochenta<num><m>
+:>:cuatrocientos ochenta mil<num><m>
+:>:cuatrocientos ochenta y cinco<num><m>
+:>:cuatrocientos ochenta y cinco mil<num><m>
+:>:cuatrocientos ochenta y cuatro<num><m>
+:>:cuatrocientos ochenta y cuatro mil<num><m>
+:>:cuatrocientos ochenta y dos<num><m>
+:>:cuatrocientos ochenta y dos mil<num><m>
+:>:cuatrocientos ochenta y nueve<num><m>
+:>:cuatrocientos ochenta y nueve mil<num><m>
+:>:cuatrocientos ochenta y ocho<num><m>
+:>:cuatrocientos ochenta y ocho mil<num><m>
+:>:cuatrocientos ochenta y seis<num><m>
+:>:cuatrocientos ochenta y seis mil<num><m>
+:>:cuatrocientos ochenta y siete<num><m>
+:>:cuatrocientos ochenta y siete mil<num><m>
+:>:cuatrocientos ochenta y tres<num><m>
+:>:cuatrocientos ochenta y tres mil<num><m>
+:>:cuatrocientos setenta<num><m>
+:>:cuatrocientos setenta mil<num><m>
+:>:cuatrocientos setenta y cinco<num><m>
+:>:cuatrocientos setenta y cinco mil<num><m>
+:>:cuatrocientos setenta y cuatro<num><m>
+:>:cuatrocientos setenta y cuatro mil<num><m>
+:>:cuatrocientos setenta y dos<num><m>
+:>:cuatrocientos setenta y dos mil<num><m>
+:>:cuatrocientos setenta y nueve<num><m>
+:>:cuatrocientos setenta y nueve mil<num><m>
+:>:cuatrocientos setenta y ocho<num><m>
+:>:cuatrocientos setenta y ocho mil<num><m>
+:>:cuatrocientos setenta y seis<num><m>
+:>:cuatrocientos setenta y seis mil<num><m>
+:>:cuatrocientos setenta y siete<num><m>
+:>:cuatrocientos setenta y siete mil<num><m>
+:>:cuatrocientos setenta y tres<num><m>
+:>:cuatrocientos setenta y tres mil<num><m>
+:>:cuatrocientos sesenta<num><m>
+:>:cuatrocientos sesenta mil<num><m>
+:>:cuatrocientos sesenta y cinco<num><m>
+:>:cuatrocientos sesenta y cinco mil<num><m>
+:>:cuatrocientos sesenta y cuatro<num><m>
+:>:cuatrocientos sesenta y cuatro mil<num><m>
+:>:cuatrocientos sesenta y dos<num><m>
+:>:cuatrocientos sesenta y dos mil<num><m>
+:>:cuatrocientos sesenta y nueve<num><m>
+:>:cuatrocientos sesenta y nueve mil<num><m>
+:>:cuatrocientos sesenta y ocho<num><m>
+:>:cuatrocientos sesenta y ocho mil<num><m>
+:>:cuatrocientos sesenta y seis<num><m>
+:>:cuatrocientos sesenta y seis mil<num><m>
+:>:cuatrocientos sesenta y siete<num><m>
+:>:cuatrocientos sesenta y siete mil<num><m>
+:>:cuatrocientos sesenta y tres<num><m>
+:>:cuatrocientos sesenta y tres mil<num><m>
+:>:cuatrocientos cincuenta y cinco<num><m>
+:>:cuatrocientos cincuenta y cinco mil<num><m>
+:>:cuatrocientos cincuenta y cuatro<num><m>
+:>:cuatrocientos cincuenta y cuatro mil<num><m>
+:>:cuatrocientos cincuenta y dos<num><m>
+:>:cuatrocientos cincuenta y dos mil<num><m>
+:>:cuatrocientos cincuenta y nueve<num><m>
+:>:cuatrocientos cincuenta y nueve mil<num><m>
+:>:cuatrocientos cincuenta y ocho<num><m>
+:>:cuatrocientos cincuenta y ocho mil<num><m>
+:>:cuatrocientos cincuenta y seis<num><m>
+:>:cuatrocientos cincuenta y seis mil<num><m>
+:>:cuatrocientos cincuenta y siete<num><m>
+:>:cuatrocientos cincuenta y siete mil<num><m>
+:>:cuatrocientos cincuenta y tres<num><m>
+:>:cuatrocientos cincuenta y tres mil<num><m>
+:>:cuatrocientos cuarenta<num><m>
+:>:cuatrocientos cuarenta mil<num><m>
+:>:cuatrocientos cuarenta y cinco<num><m>
+:>:cuatrocientos cuarenta y cinco mil<num><m>
+:>:cuatrocientos cuarenta y cuatro<num><m>
+:>:cuatrocientos cuarenta y cuatro mil<num><m>
+:>:cuatrocientos cuarenta y dos<num><m>
+:>:cuatrocientos cuarenta y dos mil<num><m>
+:>:cuatrocientos cuarenta y nueve<num><m>
+:>:cuatrocientos cuarenta y nueve mil<num><m>
+:>:cuatrocientos cuarenta y ocho<num><m>
+:>:cuatrocientos cuarenta y ocho mil<num><m>
+:>:cuatrocientos cuarenta y seis<num><m>
+:>:cuatrocientos cuarenta y seis mil<num><m>
+:>:cuatrocientos cuarenta y siete<num><m>
+:>:cuatrocientos cuarenta y siete mil<num><m>
+:>:cuatrocientos cuarenta y tres<num><m>
+:>:cuatrocientos cuarenta y tres mil<num><m>
+:>:cuatrocientos treinta<num><m>
+:>:cuatrocientos treinta mil<num><m>
+:>:cuatrocientos treinta y cinco<num><m>
+:>:cuatrocientos treinta y cinco mil<num><m>
+:>:cuatrocientos treinta y cuatro<num><m>
+:>:cuatrocientos treinta y cuatro mil<num><m>
+:>:cuatrocientos treinta y dos<num><m>
+:>:cuatrocientos treinta y dos mil<num><m>
+:>:cuatrocientos treinta y nueve<num><m>
+:>:cuatrocientos treinta y nueve mil<num><m>
+:>:cuatrocientos treinta y ocho<num><m>
+:>:cuatrocientos treinta y ocho mil<num><m>
+:>:cuatrocientos treinta y seis<num><m>
+:>:cuatrocientos treinta y seis mil<num><m>
+:>:cuatrocientos treinta y siete<num><m>
+:>:cuatrocientos treinta y siete mil<num><m>
+:>:cuatrocientos treinta y tres<num><m>
+:>:cuatrocientos treinta y tres mil<num><m>
+:>:cuatrocientos veinte<num><m>
+:>:cuatrocientos veinte mil<num><m>
+:>:cuatrocientos veinticinco<num><m>
+:>:cuatrocientos veinticinco mil<num><m>
+:>:cuatrocientos veinticuatro<num><m>
+:>:cuatrocientos veinticuatro mil<num><m>
+:>:cuatrocientos veintidós<num><m>
+:>:cuatrocientos veintidós mil<num><m>
+:>:cuatrocientos veintinueve<num><m>
+:>:cuatrocientos veintinueve mil<num><m>
+:>:cuatrocientos veintiocho<num><m>
+:>:cuatrocientos veintiocho mil<num><m>
+:>:cuatrocientos veintiséis<num><m>
+:>:cuatrocientos veintiséis mil<num><m>
+:>:cuatrocientos veintisiete<num><m>
+:>:cuatrocientos veintisiete mil<num><m>
+:>:cuatrocientos veintitrés<num><m>
+:>:cuatrocientos veintitrés mil<num><m>
+:>:cuatrocientos cuatro<num><m>
+:>:cuatrocientos cuatro mil<num><m>
+:>:cuatrocientos diecinueve<num><m>
+:>:cuatrocientos diecinueve mil<num><m>
+:>:cuatrocientos dieciocho<num><m>
+:>:cuatrocientos dieciocho mil<num><m>
+:>:cuatrocientos diecisiete<num><m>
+:>:cuatrocientos diecisiete mil<num><m>
+:>:cuatrocientos dieciséis<num><m>
+:>:cuatrocientos dieciséis mil<num><m>
+:>:cuatrocientos diez<num><m>
+:>:cuatrocientos diez mil<num><m>
+:>:cuatrocientos dos<num><m>
+:>:cuatrocientos dos mil<num><m>
+:>:cuatrocientos mil<num><f>
+:>:cuatrocientos mil<num><m>
+:>:cuatrocientos noventa y uno<det><ind><m>
+:>:cuatrocientos noventa y uno<det><ind><f>
+:>:cuatrocientos noventa y uno mil<num><m>
+:>:cuatrocientos noventa y uno mil<num><f>
+:>:cuatrocientos noventa y uno mil<det><ind><m>
+:>:cuatrocientos noventa y uno mil<det><ind><f>
+:>:cuatrocientos ochenta y uno<det><ind><m>
+:>:cuatrocientos ochenta y uno<det><ind><f>
+:>:cuatrocientos ochenta y uno mil<num><m>
+:>:cuatrocientos ochenta y uno mil<num><f>
+:>:cuatrocientos ochenta y uno mil<det><ind><m>
+:>:cuatrocientos ochenta y uno mil<det><ind><f>
+:>:cuatrocientos setenta y uno<det><ind><m>
+:>:cuatrocientos setenta y uno<det><ind><f>
+:>:cuatrocientos setenta y uno mil<num><m>
+:>:cuatrocientos setenta y uno mil<num><f>
+:>:cuatrocientos setenta y uno mil<det><ind><m>
+:>:cuatrocientos setenta y uno mil<det><ind><f>
+:>:cuatrocientos sesenta y uno<det><ind><m>
+:>:cuatrocientos sesenta y uno<det><ind><f>
+:>:cuatrocientos sesenta y uno mil<num><m>
+:>:cuatrocientos sesenta y uno mil<num><f>
+:>:cuatrocientos sesenta y uno mil<det><ind><m>
+:>:cuatrocientos sesenta y uno mil<det><ind><f>
+:>:cuatrocientos cincuenta y uno<det><ind><m>
+:>:cuatrocientos cincuenta y uno<det><ind><f>
+:>:cuatrocientos cincuenta y uno mil<num><m>
+:>:cuatrocientos cincuenta y uno mil<num><f>
+:>:cuatrocientos cincuenta y uno mil<det><ind><m>
+:>:cuatrocientos cincuenta y uno mil<det><ind><f>
+:>:cuatrocientos cuarenta y uno<det><ind><m>
+:>:cuatrocientos cuarenta y uno<det><ind><f>
+:>:cuatrocientos cuarenta y uno mil<num><m>
+:>:cuatrocientos cuarenta y uno mil<num><f>
+:>:cuatrocientos cuarenta y uno mil<det><ind><m>
+:>:cuatrocientos cuarenta y uno mil<det><ind><f>
+:>:cuatrocientos treinta y uno<det><ind><m>
+:>:cuatrocientos treinta y uno<det><ind><f>
+:>:cuatrocientos treinta y uno mil<num><m>
+:>:cuatrocientos treinta y uno mil<num><f>
+:>:cuatrocientos treinta y uno mil<det><ind><m>
+:>:cuatrocientos treinta y uno mil<det><ind><f>
+:>:cuatrocientos veintiuno<det><ind><m>
+:>:cuatrocientos veintiuno<det><ind><f>
+:>:cuatrocientos veintiuno mil<num><m>
+:>:cuatrocientos veintiuno mil<num><f>
+:>:cuatrocientos veintiuno mil<det><ind><m>
+:>:cuatrocientos veintiuno mil<det><ind><f>
+:doscientos uno<num>
+:doscientos noventa y uno<num>
+:doscientos noventa y uno<det><def>
+:doscientos ochenta y uno<num>
+:doscientos ochenta y uno<det><def>
+:doscientos setenta y uno<num>
+:doscientos setenta y uno<det><def>
+:doscientos sesenta y uno<num>
+:doscientos sesenta y uno<det><def>
+:doscientos cincuenta y uno<num>
+:doscientos cincuenta y uno<det><def>
+:doscientos cuarenta y uno<num>
+:doscientos cuarenta y uno<det><def>
+:doscientos treinta y uno<num>
+:doscientos treinta y uno<det><def>
+:doscientos veintiuno<num>
+:doscientos veintiuno<det><def>
+:>:doscientos catorce<num><f>
+:>:doscientos catorce mil<num><f>
+:>:doscientos quince<num><f>
+:>:doscientos quince mil<num><f>
+:>:doscientos trece<num><f>
+:>:doscientos trece mil<num><f>
+:>:doscientos doce<num><f>
+:>:doscientos doce mil<num><f>
+:>:doscientos once<num><f>
+:>:doscientos once mil<num><f>
+:>:doscientos cincuenta<num><f>
+:>:doscientos cincuenta mil<num><f>
+:>:doscientos cuatro<num><f>
+:>:doscientos cuatro mil<num><f>
+:>:doscientos diez<num><f>
+:>:doscientos diez mil<num><f>
+:>:doscientos dos<num><f>
+:>:doscientos dos mil<num><f>
+:>:doscientos nueve<num><f>
+:>:doscientos nueve mil<num><f>
+:>:doscientos ocho<num><f>
+:>:doscientos ocho mil<num><f>
+:>:doscientos seis<num><f>
+:>:doscientos seis mil<num><f>
+:>:doscientos siete<num><f>
+:>:doscientos siete mil<num><f>
+:>:doscientos tres<num><f>
+:>:doscientos tres mil<num><f>
+:>:doscientos cinco<num><f>
+:>:doscientos cinco mil<num><f>
+:>:doscientos cincuenta<num><f>
+:>:doscientos cincuenta mil<num><f>
+:>:doscientos noventa<num><f>
+:>:doscientos noventa mil<num><f>
+:>:doscientos noventa y cinco<num><f>
+:>:doscientos noventa y cinco mil<num><f>
+:>:doscientos noventa y cuatro<num><f>
+:>:doscientos noventa y cuatro mil<num><f>
+:>:doscientos noventa y dos<num><f>
+:>:doscientos noventa y dos mil<num><f>
+:>:doscientos noventa y nueve<num><f>
+:>:doscientos noventa y nueve mil<num><f>
+:>:doscientos noventa y ocho<num><f>
+:>:doscientos noventa y ocho mil<num><f>
+:>:doscientos noventa y seis<num><f>
+:>:doscientos noventa y seis mil<num><f>
+:>:doscientos noventa y siete<num><f>
+:>:doscientos noventa y siete mil<num><f>
+:>:doscientos noventa y tres<num><f>
+:>:doscientos noventa y tres mil<num><f>
+:>:doscientos ochenta<num><f>
+:>:doscientos ochenta mil<num><f>
+:>:doscientos ochenta y cinco<num><f>
+:>:doscientos ochenta y cinco mil<num><f>
+:>:doscientos ochenta y cuatro<num><f>
+:>:doscientos ochenta y cuatro mil<num><f>
+:>:doscientos ochenta y dos<num><f>
+:>:doscientos ochenta y dos mil<num><f>
+:>:doscientos ochenta y nueve<num><f>
+:>:doscientos ochenta y nueve mil<num><f>
+:>:doscientos ochenta y ocho<num><f>
+:>:doscientos ochenta y ocho mil<num><f>
+:>:doscientos ochenta y seis<num><f>
+:>:doscientos ochenta y seis mil<num><f>
+:>:doscientos ochenta y siete<num><f>
+:>:doscientos ochenta y siete mil<num><f>
+:>:doscientos ochenta y tres<num><f>
+:>:doscientos ochenta y tres mil<num><f>
+:>:doscientos setenta<num><f>
+:>:doscientos setenta mil<num><f>
+:>:doscientos setenta y cinco<num><f>
+:>:doscientos setenta y cinco mil<num><f>
+:>:doscientos setenta y cuatro<num><f>
+:>:doscientos setenta y cuatro mil<num><f>
+:>:doscientos setenta y dos<num><f>
+:>:doscientos setenta y dos mil<num><f>
+:>:doscientos setenta y nueve<num><f>
+:>:doscientos setenta y nueve mil<num><f>
+:>:doscientos setenta y ocho<num><f>
+:>:doscientos setenta y ocho mil<num><f>
+:>:doscientos setenta y seis<num><f>
+:>:doscientos setenta y seis mil<num><f>
+:>:doscientos setenta y siete<num><f>
+:>:doscientos setenta y siete mil<num><f>
+:>:doscientos setenta y tres<num><f>
+:>:doscientos setenta y tres mil<num><f>
+:>:doscientos sesenta<num><f>
+:>:doscientos sesenta mil<num><f>
+:>:doscientos sesenta y cinco<num><f>
+:>:doscientos sesenta y cinco mil<num><f>
+:>:doscientos sesenta y cuatro<num><f>
+:>:doscientos sesenta y cuatro mil<num><f>
+:>:doscientos sesenta y dos<num><f>
+:>:doscientos sesenta y dos mil<num><f>
+:>:doscientos sesenta y nueve<num><f>
+:>:doscientos sesenta y nueve mil<num><f>
+:>:doscientos sesenta y ocho<num><f>
+:>:doscientos sesenta y ocho mil<num><f>
+:>:doscientos sesenta y seis<num><f>
+:>:doscientos sesenta y seis mil<num><f>
+:>:doscientos sesenta y siete<num><f>
+:>:doscientos sesenta y siete mil<num><f>
+:>:doscientos sesenta y tres<num><f>
+:>:doscientos sesenta y tres mil<num><f>
+:>:doscientos cincuenta y cinco<num><f>
+:>:doscientos cincuenta y cinco mil<num><f>
+:>:doscientos cincuenta y cuatro<num><f>
+:>:doscientos cincuenta y cuatro mil<num><f>
+:>:doscientos cincuenta y dos<num><f>
+:>:doscientos cincuenta y dos mil<num><f>
+:>:doscientos cincuenta y nueve<num><f>
+:>:doscientos cincuenta y nueve mil<num><f>
+:>:doscientos cincuenta y ocho<num><f>
+:>:doscientos cincuenta y ocho mil<num><f>
+:>:doscientos cincuenta y seis<num><f>
+:>:doscientos cincuenta y seis mil<num><f>
+:>:doscientos cincuenta y siete<num><f>
+:>:doscientos cincuenta y siete mil<num><f>
+:>:doscientos cincuenta y tres<num><f>
+:>:doscientos cincuenta y tres mil<num><f>
+:>:doscientos cuarenta<num><f>
+:>:doscientos cuarenta mil<num><f>
+:>:doscientos cuarenta y cinco<num><f>
+:>:doscientos cuarenta y cinco mil<num><f>
+:>:doscientos cuarenta y cuatro<num><f>
+:>:doscientos cuarenta y cuatro mil<num><f>
+:>:doscientos cuarenta y dos<num><f>
+:>:doscientos cuarenta y dos mil<num><f>
+:>:doscientos cuarenta y nueve<num><f>
+:>:doscientos cuarenta y nueve mil<num><f>
+:>:doscientos cuarenta y ocho<num><f>
+:>:doscientos cuarenta y ocho mil<num><f>
+:>:doscientos cuarenta y seis<num><f>
+:>:doscientos cuarenta y seis mil<num><f>
+:>:doscientos cuarenta y siete<num><f>
+:>:doscientos cuarenta y siete mil<num><f>
+:>:doscientos cuarenta y tres<num><f>
+:>:doscientos cuarenta y tres mil<num><f>
+:>:doscientos treinta<num><f>
+:>:doscientos treinta mil<num><f>
+:>:doscientos treinta y cinco<num><f>
+:>:doscientos treinta y cinco mil<num><f>
+:>:doscientos treinta y cuatro<num><f>
+:>:doscientos treinta y cuatro mil<num><f>
+:>:doscientos treinta y dos<num><f>
+:>:doscientos treinta y dos mil<num><f>
+:>:doscientos treinta y nueve<num><f>
+:>:doscientos treinta y nueve mil<num><f>
+:>:doscientos treinta y ocho<num><f>
+:>:doscientos treinta y ocho mil<num><f>
+:>:doscientos treinta y seis<num><f>
+:>:doscientos treinta y seis mil<num><f>
+:>:doscientos treinta y siete<num><f>
+:>:doscientos treinta y siete mil<num><f>
+:>:doscientos treinta y tres<num><f>
+:>:doscientos treinta y tres mil<num><f>
+:>:doscientos veinte<num><f>
+:>:doscientos veinte mil<num><f>
+:>:doscientos veinticinco<num><f>
+:>:doscientos veinticinco mil<num><f>
+:>:doscientos veinticuatro<num><f>
+:>:doscientos veinticuatro mil<num><f>
+:>:doscientos veintidós<num><f>
+:>:doscientos veintidós mil<num><f>
+:>:doscientos veintinueve<num><f>
+:>:doscientos veintinueve mil<num><f>
+:>:doscientos veintiocho<num><f>
+:>:doscientos veintiocho mil<num><f>
+:>:doscientos veintiséis<num><f>
+:>:doscientos veintiséis mil<num><f>
+:>:doscientos veintisiete<num><f>
+:>:doscientos veintisiete mil<num><f>
+:>:doscientos veintitrés<num><f>
+:>:doscientos veintitrés mil<num><f>
+:>:doscientos cuatro<num><f>
+:>:doscientos cuatro mil<num><f>
+:>:doscientos diecinueve<num><f>
+:>:doscientos diecinueve mil<num><f>
+:>:doscientos dieciocho<num><f>
+:>:doscientos dieciocho mil<num><f>
+:>:doscientos diecisiete<num><f>
+:>:doscientos diecisiete mil<num><f>
+:>:doscientos dieciséis<num><f>
+:>:doscientos dieciséis mil<num><f>
+:>:doscientos diez<num><f>
+:>:doscientos diez mil<num><f>
+:>:doscientos dos<num><f>
+:>:doscientos dos mil<num><f>
+:>:doscientos catorce<num><m>
+:>:doscientos catorce mil<num><m>
+:>:doscientos quince<num><m>
+:>:doscientos quince mil<num><m>
+:>:doscientos trece<num><m>
+:>:doscientos trece mil<num><m>
+:>:doscientos doce<num><m>
+:>:doscientos doce mil<num><m>
+:>:doscientos once<num><m>
+:>:doscientos once mil<num><m>
+:>:doscientos cincuenta<num><m>
+:>:doscientos cincuenta mil<num><m>
+:>:doscientos cuatro<num><m>
+:>:doscientos cuatro mil<num><m>
+:>:doscientos diez<num><m>
+:>:doscientos diez mil<num><m>
+:>:doscientos dos<num><m>
+:>:doscientos dos mil<num><m>
+:>:doscientos nueve<num><m>
+:>:doscientos nueve mil<num><m>
+:>:doscientos ocho<num><m>
+:>:doscientos ocho mil<num><m>
+:>:doscientos seis<num><m>
+:>:doscientos seis mil<num><m>
+:>:doscientos siete<num><m>
+:>:doscientos siete mil<num><m>
+:>:doscientos tres<num><m>
+:>:doscientos tres mil<num><m>
+:>:doscientos cinco<num><m>
+:>:doscientos cinco mil<num><m>
+:>:doscientos cincuenta<num><m>
+:>:doscientos cincuenta mil<num><m>
+:>:doscientos noventa<num><m>
+:>:doscientos noventa mil<num><m>
+:>:doscientos noventa y cinco<num><m>
+:>:doscientos noventa y cinco mil<num><m>
+:>:doscientos noventa y cuatro<num><m>
+:>:doscientos noventa y cuatro mil<num><m>
+:>:doscientos noventa y dos<num><m>
+:>:doscientos noventa y dos mil<num><m>
+:>:doscientos noventa y nueve<num><m>
+:>:doscientos noventa y nueve mil<num><m>
+:>:doscientos noventa y ocho<num><m>
+:>:doscientos noventa y ocho mil<num><m>
+:>:doscientos noventa y seis<num><m>
+:>:doscientos noventa y seis mil<num><m>
+:>:doscientos noventa y siete<num><m>
+:>:doscientos noventa y siete mil<num><m>
+:>:doscientos noventa y tres<num><m>
+:>:doscientos noventa y tres mil<num><m>
+:>:doscientos ochenta<num><m>
+:>:doscientos ochenta mil<num><m>
+:>:doscientos ochenta y cinco<num><m>
+:>:doscientos ochenta y cinco mil<num><m>
+:>:doscientos ochenta y cuatro<num><m>
+:>:doscientos ochenta y cuatro mil<num><m>
+:>:doscientos ochenta y dos<num><m>
+:>:doscientos ochenta y dos mil<num><m>
+:>:doscientos ochenta y nueve<num><m>
+:>:doscientos ochenta y nueve mil<num><m>
+:>:doscientos ochenta y ocho<num><m>
+:>:doscientos ochenta y ocho mil<num><m>
+:>:doscientos ochenta y seis<num><m>
+:>:doscientos ochenta y seis mil<num><m>
+:>:doscientos ochenta y siete<num><m>
+:>:doscientos ochenta y siete mil<num><m>
+:>:doscientos ochenta y tres<num><m>
+:>:doscientos ochenta y tres mil<num><m>
+:>:doscientos setenta<num><m>
+:>:doscientos setenta mil<num><m>
+:>:doscientos setenta y cinco<num><m>
+:>:doscientos setenta y cinco mil<num><m>
+:>:doscientos setenta y cuatro<num><m>
+:>:doscientos setenta y cuatro mil<num><m>
+:>:doscientos setenta y dos<num><m>
+:>:doscientos setenta y dos mil<num><m>
+:>:doscientos setenta y nueve<num><m>
+:>:doscientos setenta y nueve mil<num><m>
+:>:doscientos setenta y ocho<num><m>
+:>:doscientos setenta y ocho mil<num><m>
+:>:doscientos setenta y seis<num><m>
+:>:doscientos setenta y seis mil<num><m>
+:>:doscientos setenta y siete<num><m>
+:>:doscientos setenta y siete mil<num><m>
+:>:doscientos setenta y tres<num><m>
+:>:doscientos setenta y tres mil<num><m>
+:>:doscientos sesenta<num><m>
+:>:doscientos sesenta mil<num><m>
+:>:doscientos sesenta y cinco<num><m>
+:>:doscientos sesenta y cinco mil<num><m>
+:>:doscientos sesenta y cuatro<num><m>
+:>:doscientos sesenta y cuatro mil<num><m>
+:>:doscientos sesenta y dos<num><m>
+:>:doscientos sesenta y dos mil<num><m>
+:>:doscientos sesenta y nueve<num><m>
+:>:doscientos sesenta y nueve mil<num><m>
+:>:doscientos sesenta y ocho<num><m>
+:>:doscientos sesenta y ocho mil<num><m>
+:>:doscientos sesenta y seis<num><m>
+:>:doscientos sesenta y seis mil<num><m>
+:>:doscientos sesenta y siete<num><m>
+:>:doscientos sesenta y siete mil<num><m>
+:>:doscientos sesenta y tres<num><m>
+:>:doscientos sesenta y tres mil<num><m>
+:>:doscientos cincuenta y cinco<num><m>
+:>:doscientos cincuenta y cinco mil<num><m>
+:>:doscientos cincuenta y cuatro<num><m>
+:>:doscientos cincuenta y cuatro mil<num><m>
+:>:doscientos cincuenta y dos<num><m>
+:>:doscientos cincuenta y dos mil<num><m>
+:>:doscientos cincuenta y nueve<num><m>
+:>:doscientos cincuenta y nueve mil<num><m>
+:>:doscientos cincuenta y ocho<num><m>
+:>:doscientos cincuenta y ocho mil<num><m>
+:>:doscientos cincuenta y seis<num><m>
+:>:doscientos cincuenta y seis mil<num><m>
+:>:doscientos cincuenta y siete<num><m>
+:>:doscientos cincuenta y siete mil<num><m>
+:>:doscientos cincuenta y tres<num><m>
+:>:doscientos cincuenta y tres mil<num><m>
+:>:doscientos cuarenta<num><m>
+:>:doscientos cuarenta mil<num><m>
+:>:doscientos cuarenta y cinco<num><m>
+:>:doscientos cuarenta y cinco mil<num><m>
+:>:doscientos cuarenta y cuatro<num><m>
+:>:doscientos cuarenta y cuatro mil<num><m>
+:>:doscientos cuarenta y dos<num><m>
+:>:doscientos cuarenta y dos mil<num><m>
+:>:doscientos cuarenta y nueve<num><m>
+:>:doscientos cuarenta y nueve mil<num><m>
+:>:doscientos cuarenta y ocho<num><m>
+:>:doscientos cuarenta y ocho mil<num><m>
+:>:doscientos cuarenta y seis<num><m>
+:>:doscientos cuarenta y seis mil<num><m>
+:>:doscientos cuarenta y siete<num><m>
+:>:doscientos cuarenta y siete mil<num><m>
+:>:doscientos cuarenta y tres<num><m>
+:>:doscientos cuarenta y tres mil<num><m>
+:>:doscientos treinta<num><m>
+:>:doscientos treinta mil<num><m>
+:>:doscientos treinta y cinco<num><m>
+:>:doscientos treinta y cinco mil<num><m>
+:>:doscientos treinta y cuatro<num><m>
+:>:doscientos treinta y cuatro mil<num><m>
+:>:doscientos treinta y dos<num><m>
+:>:doscientos treinta y dos mil<num><m>
+:>:doscientos treinta y nueve<num><m>
+:>:doscientos treinta y nueve mil<num><m>
+:>:doscientos treinta y ocho<num><m>
+:>:doscientos treinta y ocho mil<num><m>
+:>:doscientos treinta y seis<num><m>
+:>:doscientos treinta y seis mil<num><m>
+:>:doscientos treinta y siete<num><m>
+:>:doscientos treinta y siete mil<num><m>
+:>:doscientos treinta y tres<num><m>
+:>:doscientos treinta y tres mil<num><m>
+:>:doscientos veinte<num><m>
+:>:doscientos veinte mil<num><m>
+:>:doscientos veinticinco<num><m>
+:>:doscientos veinticinco mil<num><m>
+:>:doscientos veinticuatro<num><m>
+:>:doscientos veinticuatro mil<num><m>
+:>:doscientos veintidós<num><m>
+:>:doscientos veintidós mil<num><m>
+:>:doscientos veintinueve<num><m>
+:>:doscientos veintinueve mil<num><m>
+:>:doscientos veintiocho<num><m>
+:>:doscientos veintiocho mil<num><m>
+:>:doscientos veintiséis<num><m>
+:>:doscientos veintiséis mil<num><m>
+:>:doscientos veintisiete<num><m>
+:>:doscientos veintisiete mil<num><m>
+:>:doscientos veintitrés<num><m>
+:>:doscientos veintitrés mil<num><m>
+:>:doscientos cuatro<num><m>
+:>:doscientos cuatro mil<num><m>
+:>:doscientos diecinueve<num><m>
+:>:doscientos diecinueve mil<num><m>
+:>:doscientos dieciocho<num><m>
+:>:doscientos dieciocho mil<num><m>
+:>:doscientos diecisiete<num><m>
+:>:doscientos diecisiete mil<num><m>
+:>:doscientos dieciséis<num><m>
+:>:doscientos dieciséis mil<num><m>
+:>:doscientos diez<num><m>
+:>:doscientos diez mil<num><m>
+:>:doscientos dos<num><m>
+:>:doscientos dos mil<num><m>
+:>:doscientos mil<num><f>
+:>:doscientos mil<num><m>
+:>:doscientos noventa y uno<det><ind><m>
+:>:doscientos noventa y uno<det><ind><f>
+:>:doscientos noventa y uno mil<num><m>
+:>:doscientos noventa y uno mil<num><f>
+:>:doscientos noventa y uno mil<det><ind><m>
+:>:doscientos noventa y uno mil<det><ind><f>
+:>:doscientos ochenta y uno<det><ind><m>
+:>:doscientos ochenta y uno<det><ind><f>
+:>:doscientos ochenta y uno mil<num><m>
+:>:doscientos ochenta y uno mil<num><f>
+:>:doscientos ochenta y uno mil<det><ind><m>
+:>:doscientos ochenta y uno mil<det><ind><f>
+:>:doscientos setenta y uno<det><ind><m>
+:>:doscientos setenta y uno<det><ind><f>
+:>:doscientos setenta y uno mil<num><m>
+:>:doscientos setenta y uno mil<num><f>
+:>:doscientos setenta y uno mil<det><ind><m>
+:>:doscientos setenta y uno mil<det><ind><f>
+:>:doscientos sesenta y uno<det><ind><m>
+:>:doscientos sesenta y uno<det><ind><f>
+:>:doscientos sesenta y uno mil<num><m>
+:>:doscientos sesenta y uno mil<num><f>
+:>:doscientos sesenta y uno mil<det><ind><m>
+:>:doscientos sesenta y uno mil<det><ind><f>
+:>:doscientos cincuenta y uno<det><ind><m>
+:>:doscientos cincuenta y uno<det><ind><f>
+:>:doscientos cincuenta y uno mil<num><m>
+:>:doscientos cincuenta y uno mil<num><f>
+:>:doscientos cincuenta y uno mil<det><ind><m>
+:>:doscientos cincuenta y uno mil<det><ind><f>
+:>:doscientos cuarenta y uno<det><ind><m>
+:>:doscientos cuarenta y uno<det><ind><f>
+:>:doscientos cuarenta y uno mil<num><m>
+:>:doscientos cuarenta y uno mil<num><f>
+:>:doscientos cuarenta y uno mil<det><ind><m>
+:>:doscientos cuarenta y uno mil<det><ind><f>
+:>:doscientos treinta y uno<det><ind><m>
+:>:doscientos treinta y uno<det><ind><f>
+:>:doscientos treinta y uno mil<num><m>
+:>:doscientos treinta y uno mil<num><f>
+:>:doscientos treinta y uno mil<det><ind><m>
+:>:doscientos treinta y uno mil<det><ind><f>
+:>:doscientos veintiuno<det><ind><m>
+:>:doscientos veintiuno<det><ind><f>
+:>:doscientos veintiuno mil<num><m>
+:>:doscientos veintiuno mil<num><f>
+:>:doscientos veintiuno mil<det><ind><m>
+:>:doscientos veintiuno mil<det><ind><f>
+:novecientos uno<num>
+:novecientos noventa y uno<num>
+:novecientos noventa y uno<det><def>
+:novecientos ochenta y uno<num>
+:novecientos ochenta y uno<det><def>
+:novecientos setenta y uno<num>
+:novecientos setenta y uno<det><def>
+:novecientos sesenta y uno<num>
+:novecientos sesenta y uno<det><def>
+:novecientos cincuenta y uno<num>
+:novecientos cincuenta y uno<det><def>
+:novecientos cuarenta y uno<num>
+:novecientos cuarenta y uno<det><def>
+:novecientos treinta y uno<num>
+:novecientos treinta y uno<det><def>
+:novecientos veintiuno<num>
+:novecientos veintiuno<det><def>
+:>:novecientos catorce<num><f>
+:>:novecientos catorce mil<num><f>
+:>:novecientos quince<num><f>
+:>:novecientos quince mil<num><f>
+:>:novecientos trece<num><f>
+:>:novecientos trece mil<num><f>
+:>:novecientos doce<num><f>
+:>:novecientos doce mil<num><f>
+:>:novecientos once<num><f>
+:>:novecientos once mil<num><f>
+:>:novecientos cincuenta<num><f>
+:>:novecientos cincuenta mil<num><f>
+:>:novecientos cuatro<num><f>
+:>:novecientos cuatro mil<num><f>
+:>:novecientos diez<num><f>
+:>:novecientos diez mil<num><f>
+:>:novecientos dos<num><f>
+:>:novecientos dos mil<num><f>
+:>:novecientos nueve<num><f>
+:>:novecientos nueve mil<num><f>
+:>:novecientos ocho<num><f>
+:>:novecientos ocho mil<num><f>
+:>:novecientos seis<num><f>
+:>:novecientos seis mil<num><f>
+:>:novecientos siete<num><f>
+:>:novecientos siete mil<num><f>
+:>:novecientos tres<num><f>
+:>:novecientos tres mil<num><f>
+:>:novecientos cinco<num><f>
+:>:novecientos cinco mil<num><f>
+:>:novecientos cincuenta<num><f>
+:>:novecientos cincuenta mil<num><f>
+:>:novecientos noventa<num><f>
+:>:novecientos noventa mil<num><f>
+:>:novecientos noventa y cinco<num><f>
+:>:novecientos noventa y cinco mil<num><f>
+:>:novecientos noventa y cuatro<num><f>
+:>:novecientos noventa y cuatro mil<num><f>
+:>:novecientos noventa y dos<num><f>
+:>:novecientos noventa y dos mil<num><f>
+:>:novecientos noventa y nueve<num><f>
+:>:novecientos noventa y nueve mil<num><f>
+:>:novecientos noventa y ocho<num><f>
+:>:novecientos noventa y ocho mil<num><f>
+:>:novecientos noventa y seis<num><f>
+:>:novecientos noventa y seis mil<num><f>
+:>:novecientos noventa y siete<num><f>
+:>:novecientos noventa y siete mil<num><f>
+:>:novecientos noventa y tres<num><f>
+:>:novecientos noventa y tres mil<num><f>
+:>:novecientos ochenta<num><f>
+:>:novecientos ochenta mil<num><f>
+:>:novecientos ochenta y cinco<num><f>
+:>:novecientos ochenta y cinco mil<num><f>
+:>:novecientos ochenta y cuatro<num><f>
+:>:novecientos ochenta y cuatro mil<num><f>
+:>:novecientos ochenta y dos<num><f>
+:>:novecientos ochenta y dos mil<num><f>
+:>:novecientos ochenta y nueve<num><f>
+:>:novecientos ochenta y nueve mil<num><f>
+:>:novecientos ochenta y ocho<num><f>
+:>:novecientos ochenta y ocho mil<num><f>
+:>:novecientos ochenta y seis<num><f>
+:>:novecientos ochenta y seis mil<num><f>
+:>:novecientos ochenta y siete<num><f>
+:>:novecientos ochenta y siete mil<num><f>
+:>:novecientos ochenta y tres<num><f>
+:>:novecientos ochenta y tres mil<num><f>
+:>:novecientos setenta<num><f>
+:>:novecientos setenta mil<num><f>
+:>:novecientos setenta y cinco<num><f>
+:>:novecientos setenta y cinco mil<num><f>
+:>:novecientos setenta y cuatro<num><f>
+:>:novecientos setenta y cuatro mil<num><f>
+:>:novecientos setenta y dos<num><f>
+:>:novecientos setenta y dos mil<num><f>
+:>:novecientos setenta y nueve<num><f>
+:>:novecientos setenta y nueve mil<num><f>
+:>:novecientos setenta y ocho<num><f>
+:>:novecientos setenta y ocho mil<num><f>
+:>:novecientos setenta y seis<num><f>
+:>:novecientos setenta y seis mil<num><f>
+:>:novecientos setenta y siete<num><f>
+:>:novecientos setenta y siete mil<num><f>
+:>:novecientos setenta y tres<num><f>
+:>:novecientos setenta y tres mil<num><f>
+:>:novecientos sesenta<num><f>
+:>:novecientos sesenta mil<num><f>
+:>:novecientos sesenta y cinco<num><f>
+:>:novecientos sesenta y cinco mil<num><f>
+:>:novecientos sesenta y cuatro<num><f>
+:>:novecientos sesenta y cuatro mil<num><f>
+:>:novecientos sesenta y dos<num><f>
+:>:novecientos sesenta y dos mil<num><f>
+:>:novecientos sesenta y nueve<num><f>
+:>:novecientos sesenta y nueve mil<num><f>
+:>:novecientos sesenta y ocho<num><f>
+:>:novecientos sesenta y ocho mil<num><f>
+:>:novecientos sesenta y seis<num><f>
+:>:novecientos sesenta y seis mil<num><f>
+:>:novecientos sesenta y siete<num><f>
+:>:novecientos sesenta y siete mil<num><f>
+:>:novecientos sesenta y tres<num><f>
+:>:novecientos sesenta y tres mil<num><f>
+:>:novecientos cincuenta y cinco<num><f>
+:>:novecientos cincuenta y cinco mil<num><f>
+:>:novecientos cincuenta y cuatro<num><f>
+:>:novecientos cincuenta y cuatro mil<num><f>
+:>:novecientos cincuenta y dos<num><f>
+:>:novecientos cincuenta y dos mil<num><f>
+:>:novecientos cincuenta y nueve<num><f>
+:>:novecientos cincuenta y nueve mil<num><f>
+:>:novecientos cincuenta y ocho<num><f>
+:>:novecientos cincuenta y ocho mil<num><f>
+:>:novecientos cincuenta y seis<num><f>
+:>:novecientos cincuenta y seis mil<num><f>
+:>:novecientos cincuenta y siete<num><f>
+:>:novecientos cincuenta y siete mil<num><f>
+:>:novecientos cincuenta y tres<num><f>
+:>:novecientos cincuenta y tres mil<num><f>
+:>:novecientos cuarenta<num><f>
+:>:novecientos cuarenta mil<num><f>
+:>:novecientos cuarenta y cinco<num><f>
+:>:novecientos cuarenta y cinco mil<num><f>
+:>:novecientos cuarenta y cuatro<num><f>
+:>:novecientos cuarenta y cuatro mil<num><f>
+:>:novecientos cuarenta y dos<num><f>
+:>:novecientos cuarenta y dos mil<num><f>
+:>:novecientos cuarenta y nueve<num><f>
+:>:novecientos cuarenta y nueve mil<num><f>
+:>:novecientos cuarenta y ocho<num><f>
+:>:novecientos cuarenta y ocho mil<num><f>
+:>:novecientos cuarenta y seis<num><f>
+:>:novecientos cuarenta y seis mil<num><f>
+:>:novecientos cuarenta y siete<num><f>
+:>:novecientos cuarenta y siete mil<num><f>
+:>:novecientos cuarenta y tres<num><f>
+:>:novecientos cuarenta y tres mil<num><f>
+:>:novecientos treinta<num><f>
+:>:novecientos treinta mil<num><f>
+:>:novecientos treinta y cinco<num><f>
+:>:novecientos treinta y cinco mil<num><f>
+:>:novecientos treinta y cuatro<num><f>
+:>:novecientos treinta y cuatro mil<num><f>
+:>:novecientos treinta y dos<num><f>
+:>:novecientos treinta y dos mil<num><f>
+:>:novecientos treinta y nueve<num><f>
+:>:novecientos treinta y nueve mil<num><f>
+:>:novecientos treinta y ocho<num><f>
+:>:novecientos treinta y ocho mil<num><f>
+:>:novecientos treinta y seis<num><f>
+:>:novecientos treinta y seis mil<num><f>
+:>:novecientos treinta y siete<num><f>
+:>:novecientos treinta y siete mil<num><f>
+:>:novecientos treinta y tres<num><f>
+:>:novecientos treinta y tres mil<num><f>
+:>:novecientos veinte<num><f>
+:>:novecientos veinte mil<num><f>
+:>:novecientos veinticinco<num><f>
+:>:novecientos veinticinco mil<num><f>
+:>:novecientos veinticuatro<num><f>
+:>:novecientos veinticuatro mil<num><f>
+:>:novecientos veintidós<num><f>
+:>:novecientos veintidós mil<num><f>
+:>:novecientos veintinueve<num><f>
+:>:novecientos veintinueve mil<num><f>
+:>:novecientos veintiocho<num><f>
+:>:novecientos veintiocho mil<num><f>
+:>:novecientos veintiséis<num><f>
+:>:novecientos veintiséis mil<num><f>
+:>:novecientos veintisiete<num><f>
+:>:novecientos veintisiete mil<num><f>
+:>:novecientos veintitrés<num><f>
+:>:novecientos veintitrés mil<num><f>
+:>:novecientos cuatro<num><f>
+:>:novecientos cuatro mil<num><f>
+:>:novecientos diecinueve<num><f>
+:>:novecientos diecinueve mil<num><f>
+:>:novecientos dieciocho<num><f>
+:>:novecientos dieciocho mil<num><f>
+:>:novecientos diecisiete<num><f>
+:>:novecientos diecisiete mil<num><f>
+:>:novecientos dieciséis<num><f>
+:>:novecientos dieciséis mil<num><f>
+:>:novecientos diez<num><f>
+:>:novecientos diez mil<num><f>
+:>:novecientos dos<num><f>
+:>:novecientos dos mil<num><f>
+:>:novecientos catorce<num><m>
+:>:novecientos catorce mil<num><m>
+:>:novecientos quince<num><m>
+:>:novecientos quince mil<num><m>
+:>:novecientos trece<num><m>
+:>:novecientos trece mil<num><m>
+:>:novecientos doce<num><m>
+:>:novecientos doce mil<num><m>
+:>:novecientos once<num><m>
+:>:novecientos once mil<num><m>
+:>:novecientos cincuenta<num><m>
+:>:novecientos cincuenta mil<num><m>
+:>:novecientos cuatro<num><m>
+:>:novecientos cuatro mil<num><m>
+:>:novecientos diez<num><m>
+:>:novecientos diez mil<num><m>
+:>:novecientos dos<num><m>
+:>:novecientos dos mil<num><m>
+:>:novecientos nueve<num><m>
+:>:novecientos nueve mil<num><m>
+:>:novecientos ocho<num><m>
+:>:novecientos ocho mil<num><m>
+:>:novecientos seis<num><m>
+:>:novecientos seis mil<num><m>
+:>:novecientos siete<num><m>
+:>:novecientos siete mil<num><m>
+:>:novecientos tres<num><m>
+:>:novecientos tres mil<num><m>
+:>:novecientos cinco<num><m>
+:>:novecientos cinco mil<num><m>
+:>:novecientos cincuenta<num><m>
+:>:novecientos cincuenta mil<num><m>
+:>:novecientos noventa<num><m>
+:>:novecientos noventa mil<num><m>
+:>:novecientos noventa y cinco<num><m>
+:>:novecientos noventa y cinco mil<num><m>
+:>:novecientos noventa y cuatro<num><m>
+:>:novecientos noventa y cuatro mil<num><m>
+:>:novecientos noventa y dos<num><m>
+:>:novecientos noventa y dos mil<num><m>
+:>:novecientos noventa y nueve<num><m>
+:>:novecientos noventa y nueve mil<num><m>
+:>:novecientos noventa y ocho<num><m>
+:>:novecientos noventa y ocho mil<num><m>
+:>:novecientos noventa y seis<num><m>
+:>:novecientos noventa y seis mil<num><m>
+:>:novecientos noventa y siete<num><m>
+:>:novecientos noventa y siete mil<num><m>
+:>:novecientos noventa y tres<num><m>
+:>:novecientos noventa y tres mil<num><m>
+:>:novecientos ochenta<num><m>
+:>:novecientos ochenta mil<num><m>
+:>:novecientos ochenta y cinco<num><m>
+:>:novecientos ochenta y cinco mil<num><m>
+:>:novecientos ochenta y cuatro<num><m>
+:>:novecientos ochenta y cuatro mil<num><m>
+:>:novecientos ochenta y dos<num><m>
+:>:novecientos ochenta y dos mil<num><m>
+:>:novecientos ochenta y nueve<num><m>
+:>:novecientos ochenta y nueve mil<num><m>
+:>:novecientos ochenta y ocho<num><m>
+:>:novecientos ochenta y ocho mil<num><m>
+:>:novecientos ochenta y seis<num><m>
+:>:novecientos ochenta y seis mil<num><m>
+:>:novecientos ochenta y siete<num><m>
+:>:novecientos ochenta y siete mil<num><m>
+:>:novecientos ochenta y tres<num><m>
+:>:novecientos ochenta y tres mil<num><m>
+:>:novecientos setenta<num><m>
+:>:novecientos setenta mil<num><m>
+:>:novecientos setenta y cinco<num><m>
+:>:novecientos setenta y cinco mil<num><m>
+:>:novecientos setenta y cuatro<num><m>
+:>:novecientos setenta y cuatro mil<num><m>
+:>:novecientos setenta y dos<num><m>
+:>:novecientos setenta y dos mil<num><m>
+:>:novecientos setenta y nueve<num><m>
+:>:novecientos setenta y nueve mil<num><m>
+:>:novecientos setenta y ocho<num><m>
+:>:novecientos setenta y ocho mil<num><m>
+:>:novecientos setenta y seis<num><m>
+:>:novecientos setenta y seis mil<num><m>
+:>:novecientos setenta y siete<num><m>
+:>:novecientos setenta y siete mil<num><m>
+:>:novecientos setenta y tres<num><m>
+:>:novecientos setenta y tres mil<num><m>
+:>:novecientos sesenta<num><m>
+:>:novecientos sesenta mil<num><m>
+:>:novecientos sesenta y cinco<num><m>
+:>:novecientos sesenta y cinco mil<num><m>
+:>:novecientos sesenta y cuatro<num><m>
+:>:novecientos sesenta y cuatro mil<num><m>
+:>:novecientos sesenta y dos<num><m>
+:>:novecientos sesenta y dos mil<num><m>
+:>:novecientos sesenta y nueve<num><m>
+:>:novecientos sesenta y nueve mil<num><m>
+:>:novecientos sesenta y ocho<num><m>
+:>:novecientos sesenta y ocho mil<num><m>
+:>:novecientos sesenta y seis<num><m>
+:>:novecientos sesenta y seis mil<num><m>
+:>:novecientos sesenta y siete<num><m>
+:>:novecientos sesenta y siete mil<num><m>
+:>:novecientos sesenta y tres<num><m>
+:>:novecientos sesenta y tres mil<num><m>
+:>:novecientos cincuenta y cinco<num><m>
+:>:novecientos cincuenta y cinco mil<num><m>
+:>:novecientos cincuenta y cuatro<num><m>
+:>:novecientos cincuenta y cuatro mil<num><m>
+:>:novecientos cincuenta y dos<num><m>
+:>:novecientos cincuenta y dos mil<num><m>
+:>:novecientos cincuenta y nueve<num><m>
+:>:novecientos cincuenta y nueve mil<num><m>
+:>:novecientos cincuenta y ocho<num><m>
+:>:novecientos cincuenta y ocho mil<num><m>
+:>:novecientos cincuenta y seis<num><m>
+:>:novecientos cincuenta y seis mil<num><m>
+:>:novecientos cincuenta y siete<num><m>
+:>:novecientos cincuenta y siete mil<num><m>
+:>:novecientos cincuenta y tres<num><m>
+:>:novecientos cincuenta y tres mil<num><m>
+:>:novecientos cuarenta<num><m>
+:>:novecientos cuarenta mil<num><m>
+:>:novecientos cuarenta y cinco<num><m>
+:>:novecientos cuarenta y cinco mil<num><m>
+:>:novecientos cuarenta y cuatro<num><m>
+:>:novecientos cuarenta y cuatro mil<num><m>
+:>:novecientos cuarenta y dos<num><m>
+:>:novecientos cuarenta y dos mil<num><m>
+:>:novecientos cuarenta y nueve<num><m>
+:>:novecientos cuarenta y nueve mil<num><m>
+:>:novecientos cuarenta y ocho<num><m>
+:>:novecientos cuarenta y ocho mil<num><m>
+:>:novecientos cuarenta y seis<num><m>
+:>:novecientos cuarenta y seis mil<num><m>
+:>:novecientos cuarenta y siete<num><m>
+:>:novecientos cuarenta y siete mil<num><m>
+:>:novecientos cuarenta y tres<num><m>
+:>:novecientos cuarenta y tres mil<num><m>
+:>:novecientos treinta<num><m>
+:>:novecientos treinta mil<num><m>
+:>:novecientos treinta y cinco<num><m>
+:>:novecientos treinta y cinco mil<num><m>
+:>:novecientos treinta y cuatro<num><m>
+:>:novecientos treinta y cuatro mil<num><m>
+:>:novecientos treinta y dos<num><m>
+:>:novecientos treinta y dos mil<num><m>
+:>:novecientos treinta y nueve<num><m>
+:>:novecientos treinta y nueve mil<num><m>
+:>:novecientos treinta y ocho<num><m>
+:>:novecientos treinta y ocho mil<num><m>
+:>:novecientos treinta y seis<num><m>
+:>:novecientos treinta y seis mil<num><m>
+:>:novecientos treinta y siete<num><m>
+:>:novecientos treinta y siete mil<num><m>
+:>:novecientos treinta y tres<num><m>
+:>:novecientos treinta y tres mil<num><m>
+:>:novecientos veinte<num><m>
+:>:novecientos veinte mil<num><m>
+:>:novecientos veinticinco<num><m>
+:>:novecientos veinticinco mil<num><m>
+:>:novecientos veinticuatro<num><m>
+:>:novecientos veinticuatro mil<num><m>
+:>:novecientos veintidós<num><m>
+:>:novecientos veintidós mil<num><m>
+:>:novecientos veintinueve<num><m>
+:>:novecientos veintinueve mil<num><m>
+:>:novecientos veintiocho<num><m>
+:>:novecientos veintiocho mil<num><m>
+:>:novecientos veintiséis<num><m>
+:>:novecientos veintiséis mil<num><m>
+:>:novecientos veintisiete<num><m>
+:>:novecientos veintisiete mil<num><m>
+:>:novecientos veintitrés<num><m>
+:>:novecientos veintitrés mil<num><m>
+:>:novecientos cuatro<num><m>
+:>:novecientos cuatro mil<num><m>
+:>:novecientos diecinueve<num><m>
+:>:novecientos diecinueve mil<num><m>
+:>:novecientos dieciocho<num><m>
+:>:novecientos dieciocho mil<num><m>
+:>:novecientos diecisiete<num><m>
+:>:novecientos diecisiete mil<num><m>
+:>:novecientos dieciséis<num><m>
+:>:novecientos dieciséis mil<num><m>
+:>:novecientos diez<num><m>
+:>:novecientos diez mil<num><m>
+:>:novecientos dos<num><m>
+:>:novecientos dos mil<num><m>
+:>:novecientos mil<num><f>
+:>:novecientos mil<num><m>
+:>:novecientos noventa y uno<det><ind><m>
+:>:novecientos noventa y uno<det><ind><f>
+:>:novecientos noventa y uno mil<num><m>
+:>:novecientos noventa y uno mil<num><f>
+:>:novecientos noventa y uno mil<det><ind><m>
+:>:novecientos noventa y uno mil<det><ind><f>
+:>:novecientos ochenta y uno<det><ind><m>
+:>:novecientos ochenta y uno<det><ind><f>
+:>:novecientos ochenta y uno mil<num><m>
+:>:novecientos ochenta y uno mil<num><f>
+:>:novecientos ochenta y uno mil<det><ind><m>
+:>:novecientos ochenta y uno mil<det><ind><f>
+:>:novecientos setenta y uno<det><ind><m>
+:>:novecientos setenta y uno<det><ind><f>
+:>:novecientos setenta y uno mil<num><m>
+:>:novecientos setenta y uno mil<num><f>
+:>:novecientos setenta y uno mil<det><ind><m>
+:>:novecientos setenta y uno mil<det><ind><f>
+:>:novecientos sesenta y uno<det><ind><m>
+:>:novecientos sesenta y uno<det><ind><f>
+:>:novecientos sesenta y uno mil<num><m>
+:>:novecientos sesenta y uno mil<num><f>
+:>:novecientos sesenta y uno mil<det><ind><m>
+:>:novecientos sesenta y uno mil<det><ind><f>
+:>:novecientos cincuenta y uno<det><ind><m>
+:>:novecientos cincuenta y uno<det><ind><f>
+:>:novecientos cincuenta y uno mil<num><m>
+:>:novecientos cincuenta y uno mil<num><f>
+:>:novecientos cincuenta y uno mil<det><ind><m>
+:>:novecientos cincuenta y uno mil<det><ind><f>
+:>:novecientos cuarenta y uno<det><ind><m>
+:>:novecientos cuarenta y uno<det><ind><f>
+:>:novecientos cuarenta y uno mil<num><m>
+:>:novecientos cuarenta y uno mil<num><f>
+:>:novecientos cuarenta y uno mil<det><ind><m>
+:>:novecientos cuarenta y uno mil<det><ind><f>
+:>:novecientos treinta y uno<det><ind><m>
+:>:novecientos treinta y uno<det><ind><f>
+:>:novecientos treinta y uno mil<num><m>
+:>:novecientos treinta y uno mil<num><f>
+:>:novecientos treinta y uno mil<det><ind><m>
+:>:novecientos treinta y uno mil<det><ind><f>
+:>:novecientos veintiuno<det><ind><m>
+:>:novecientos veintiuno<det><ind><f>
+:>:novecientos veintiuno mil<num><m>
+:>:novecientos veintiuno mil<num><f>
+:>:novecientos veintiuno mil<det><ind><m>
+:>:novecientos veintiuno mil<det><ind><f>
+:ochocientos uno<num>
+:ochocientos noventa y uno<num>
+:ochocientos noventa y uno<det><def>
+:ochocientos ochenta y uno<num>
+:ochocientos ochenta y uno<det><def>
+:ochocientos setenta y uno<num>
+:ochocientos setenta y uno<det><def>
+:ochocientos sesenta y uno<num>
+:ochocientos sesenta y uno<det><def>
+:ochocientos cincuenta y uno<num>
+:ochocientos cincuenta y uno<det><def>
+:ochocientos cuarenta y uno<num>
+:ochocientos cuarenta y uno<det><def>
+:ochocientos treinta y uno<num>
+:ochocientos treinta y uno<det><def>
+:ochocientos veintiuno<num>
+:ochocientos veintiuno<det><def>
+:>:ochocientos catorce<num><f>
+:>:ochocientos catorce mil<num><f>
+:>:ochocientos quince<num><f>
+:>:ochocientos quince mil<num><f>
+:>:ochocientos trece<num><f>
+:>:ochocientos trece mil<num><f>
+:>:ochocientos doce<num><f>
+:>:ochocientos doce mil<num><f>
+:>:ochocientos once<num><f>
+:>:ochocientos once mil<num><f>
+:>:ochocientos cincuenta<num><f>
+:>:ochocientos cincuenta mil<num><f>
+:>:ochocientos cuatro<num><f>
+:>:ochocientos cuatro mil<num><f>
+:>:ochocientos diez<num><f>
+:>:ochocientos diez mil<num><f>
+:>:ochocientos dos<num><f>
+:>:ochocientos dos mil<num><f>
+:>:ochocientos nueve<num><f>
+:>:ochocientos nueve mil<num><f>
+:>:ochocientos ocho<num><f>
+:>:ochocientos ocho mil<num><f>
+:>:ochocientos seis<num><f>
+:>:ochocientos seis mil<num><f>
+:>:ochocientos siete<num><f>
+:>:ochocientos siete mil<num><f>
+:>:ochocientos tres<num><f>
+:>:ochocientos tres mil<num><f>
+:>:ochocientos cinco<num><f>
+:>:ochocientos cinco mil<num><f>
+:>:ochocientos cincuenta<num><f>
+:>:ochocientos cincuenta mil<num><f>
+:>:ochocientos noventa<num><f>
+:>:ochocientos noventa mil<num><f>
+:>:ochocientos noventa y cinco<num><f>
+:>:ochocientos noventa y cinco mil<num><f>
+:>:ochocientos noventa y cuatro<num><f>
+:>:ochocientos noventa y cuatro mil<num><f>
+:>:ochocientos noventa y dos<num><f>
+:>:ochocientos noventa y dos mil<num><f>
+:>:ochocientos noventa y nueve<num><f>
+:>:ochocientos noventa y nueve mil<num><f>
+:>:ochocientos noventa y ocho<num><f>
+:>:ochocientos noventa y ocho mil<num><f>
+:>:ochocientos noventa y seis<num><f>
+:>:ochocientos noventa y seis mil<num><f>
+:>:ochocientos noventa y siete<num><f>
+:>:ochocientos noventa y siete mil<num><f>
+:>:ochocientos noventa y tres<num><f>
+:>:ochocientos noventa y tres mil<num><f>
+:>:ochocientos ochenta<num><f>
+:>:ochocientos ochenta mil<num><f>
+:>:ochocientos ochenta y cinco<num><f>
+:>:ochocientos ochenta y cinco mil<num><f>
+:>:ochocientos ochenta y cuatro<num><f>
+:>:ochocientos ochenta y cuatro mil<num><f>
+:>:ochocientos ochenta y dos<num><f>
+:>:ochocientos ochenta y dos mil<num><f>
+:>:ochocientos ochenta y nueve<num><f>
+:>:ochocientos ochenta y nueve mil<num><f>
+:>:ochocientos ochenta y ocho<num><f>
+:>:ochocientos ochenta y ocho mil<num><f>
+:>:ochocientos ochenta y seis<num><f>
+:>:ochocientos ochenta y seis mil<num><f>
+:>:ochocientos ochenta y siete<num><f>
+:>:ochocientos ochenta y siete mil<num><f>
+:>:ochocientos ochenta y tres<num><f>
+:>:ochocientos ochenta y tres mil<num><f>
+:>:ochocientos setenta<num><f>
+:>:ochocientos setenta mil<num><f>
+:>:ochocientos setenta y cinco<num><f>
+:>:ochocientos setenta y cinco mil<num><f>
+:>:ochocientos setenta y cuatro<num><f>
+:>:ochocientos setenta y cuatro mil<num><f>
+:>:ochocientos setenta y dos<num><f>
+:>:ochocientos setenta y dos mil<num><f>
+:>:ochocientos setenta y nueve<num><f>
+:>:ochocientos setenta y nueve mil<num><f>
+:>:ochocientos setenta y ocho<num><f>
+:>:ochocientos setenta y ocho mil<num><f>
+:>:ochocientos setenta y seis<num><f>
+:>:ochocientos setenta y seis mil<num><f>
+:>:ochocientos setenta y siete<num><f>
+:>:ochocientos setenta y siete mil<num><f>
+:>:ochocientos setenta y tres<num><f>
+:>:ochocientos setenta y tres mil<num><f>
+:>:ochocientos sesenta<num><f>
+:>:ochocientos sesenta mil<num><f>
+:>:ochocientos sesenta y cinco<num><f>
+:>:ochocientos sesenta y cinco mil<num><f>
+:>:ochocientos sesenta y cuatro<num><f>
+:>:ochocientos sesenta y cuatro mil<num><f>
+:>:ochocientos sesenta y dos<num><f>
+:>:ochocientos sesenta y dos mil<num><f>
+:>:ochocientos sesenta y nueve<num><f>
+:>:ochocientos sesenta y nueve mil<num><f>
+:>:ochocientos sesenta y ocho<num><f>
+:>:ochocientos sesenta y ocho mil<num><f>
+:>:ochocientos sesenta y seis<num><f>
+:>:ochocientos sesenta y seis mil<num><f>
+:>:ochocientos sesenta y siete<num><f>
+:>:ochocientos sesenta y siete mil<num><f>
+:>:ochocientos sesenta y tres<num><f>
+:>:ochocientos sesenta y tres mil<num><f>
+:>:ochocientos cincuenta y cinco<num><f>
+:>:ochocientos cincuenta y cinco mil<num><f>
+:>:ochocientos cincuenta y cuatro<num><f>
+:>:ochocientos cincuenta y cuatro mil<num><f>
+:>:ochocientos cincuenta y dos<num><f>
+:>:ochocientos cincuenta y dos mil<num><f>
+:>:ochocientos cincuenta y nueve<num><f>
+:>:ochocientos cincuenta y nueve mil<num><f>
+:>:ochocientos cincuenta y ocho<num><f>
+:>:ochocientos cincuenta y ocho mil<num><f>
+:>:ochocientos cincuenta y seis<num><f>
+:>:ochocientos cincuenta y seis mil<num><f>
+:>:ochocientos cincuenta y siete<num><f>
+:>:ochocientos cincuenta y siete mil<num><f>
+:>:ochocientos cincuenta y tres<num><f>
+:>:ochocientos cincuenta y tres mil<num><f>
+:>:ochocientos cuarenta<num><f>
+:>:ochocientos cuarenta mil<num><f>
+:>:ochocientos cuarenta y cinco<num><f>
+:>:ochocientos cuarenta y cinco mil<num><f>
+:>:ochocientos cuarenta y cuatro<num><f>
+:>:ochocientos cuarenta y cuatro mil<num><f>
+:>:ochocientos cuarenta y dos<num><f>
+:>:ochocientos cuarenta y dos mil<num><f>
+:>:ochocientos cuarenta y nueve<num><f>
+:>:ochocientos cuarenta y nueve mil<num><f>
+:>:ochocientos cuarenta y ocho<num><f>
+:>:ochocientos cuarenta y ocho mil<num><f>
+:>:ochocientos cuarenta y seis<num><f>
+:>:ochocientos cuarenta y seis mil<num><f>
+:>:ochocientos cuarenta y siete<num><f>
+:>:ochocientos cuarenta y siete mil<num><f>
+:>:ochocientos cuarenta y tres<num><f>
+:>:ochocientos cuarenta y tres mil<num><f>
+:>:ochocientos treinta<num><f>
+:>:ochocientos treinta mil<num><f>
+:>:ochocientos treinta y cinco<num><f>
+:>:ochocientos treinta y cinco mil<num><f>
+:>:ochocientos treinta y cuatro<num><f>
+:>:ochocientos treinta y cuatro mil<num><f>
+:>:ochocientos treinta y dos<num><f>
+:>:ochocientos treinta y dos mil<num><f>
+:>:ochocientos treinta y nueve<num><f>
+:>:ochocientos treinta y nueve mil<num><f>
+:>:ochocientos treinta y ocho<num><f>
+:>:ochocientos treinta y ocho mil<num><f>
+:>:ochocientos treinta y seis<num><f>
+:>:ochocientos treinta y seis mil<num><f>
+:>:ochocientos treinta y siete<num><f>
+:>:ochocientos treinta y siete mil<num><f>
+:>:ochocientos treinta y tres<num><f>
+:>:ochocientos treinta y tres mil<num><f>
+:>:ochocientos veinte<num><f>
+:>:ochocientos veinte mil<num><f>
+:>:ochocientos veinticinco<num><f>
+:>:ochocientos veinticinco mil<num><f>
+:>:ochocientos veinticuatro<num><f>
+:>:ochocientos veinticuatro mil<num><f>
+:>:ochocientos veintidós<num><f>
+:>:ochocientos veintidós mil<num><f>
+:>:ochocientos veintinueve<num><f>
+:>:ochocientos veintinueve mil<num><f>
+:>:ochocientos veintiocho<num><f>
+:>:ochocientos veintiocho mil<num><f>
+:>:ochocientos veintiséis<num><f>
+:>:ochocientos veintiséis mil<num><f>
+:>:ochocientos veintisiete<num><f>
+:>:ochocientos veintisiete mil<num><f>
+:>:ochocientos veintitrés<num><f>
+:>:ochocientos veintitrés mil<num><f>
+:>:ochocientos cuatro<num><f>
+:>:ochocientos cuatro mil<num><f>
+:>:ochocientos diecinueve<num><f>
+:>:ochocientos diecinueve mil<num><f>
+:>:ochocientos dieciocho<num><f>
+:>:ochocientos dieciocho mil<num><f>
+:>:ochocientos diecisiete<num><f>
+:>:ochocientos diecisiete mil<num><f>
+:>:ochocientos dieciséis<num><f>
+:>:ochocientos dieciséis mil<num><f>
+:>:ochocientos diez<num><f>
+:>:ochocientos diez mil<num><f>
+:>:ochocientos dos<num><f>
+:>:ochocientos dos mil<num><f>
+:>:ochocientos catorce<num><m>
+:>:ochocientos catorce mil<num><m>
+:>:ochocientos quince<num><m>
+:>:ochocientos quince mil<num><m>
+:>:ochocientos trece<num><m>
+:>:ochocientos trece mil<num><m>
+:>:ochocientos doce<num><m>
+:>:ochocientos doce mil<num><m>
+:>:ochocientos once<num><m>
+:>:ochocientos once mil<num><m>
+:>:ochocientos cincuenta<num><m>
+:>:ochocientos cincuenta mil<num><m>
+:>:ochocientos cuatro<num><m>
+:>:ochocientos cuatro mil<num><m>
+:>:ochocientos diez<num><m>
+:>:ochocientos diez mil<num><m>
+:>:ochocientos dos<num><m>
+:>:ochocientos dos mil<num><m>
+:>:ochocientos nueve<num><m>
+:>:ochocientos nueve mil<num><m>
+:>:ochocientos ocho<num><m>
+:>:ochocientos ocho mil<num><m>
+:>:ochocientos seis<num><m>
+:>:ochocientos seis mil<num><m>
+:>:ochocientos siete<num><m>
+:>:ochocientos siete mil<num><m>
+:>:ochocientos tres<num><m>
+:>:ochocientos tres mil<num><m>
+:>:ochocientos cinco<num><m>
+:>:ochocientos cinco mil<num><m>
+:>:ochocientos cincuenta<num><m>
+:>:ochocientos cincuenta mil<num><m>
+:>:ochocientos noventa<num><m>
+:>:ochocientos noventa mil<num><m>
+:>:ochocientos noventa y cinco<num><m>
+:>:ochocientos noventa y cinco mil<num><m>
+:>:ochocientos noventa y cuatro<num><m>
+:>:ochocientos noventa y cuatro mil<num><m>
+:>:ochocientos noventa y dos<num><m>
+:>:ochocientos noventa y dos mil<num><m>
+:>:ochocientos noventa y nueve<num><m>
+:>:ochocientos noventa y nueve mil<num><m>
+:>:ochocientos noventa y ocho<num><m>
+:>:ochocientos noventa y ocho mil<num><m>
+:>:ochocientos noventa y seis<num><m>
+:>:ochocientos noventa y seis mil<num><m>
+:>:ochocientos noventa y siete<num><m>
+:>:ochocientos noventa y siete mil<num><m>
+:>:ochocientos noventa y tres<num><m>
+:>:ochocientos noventa y tres mil<num><m>
+:>:ochocientos ochenta<num><m>
+:>:ochocientos ochenta mil<num><m>
+:>:ochocientos ochenta y cinco<num><m>
+:>:ochocientos ochenta y cinco mil<num><m>
+:>:ochocientos ochenta y cuatro<num><m>
+:>:ochocientos ochenta y cuatro mil<num><m>
+:>:ochocientos ochenta y dos<num><m>
+:>:ochocientos ochenta y dos mil<num><m>
+:>:ochocientos ochenta y nueve<num><m>
+:>:ochocientos ochenta y nueve mil<num><m>
+:>:ochocientos ochenta y ocho<num><m>
+:>:ochocientos ochenta y ocho mil<num><m>
+:>:ochocientos ochenta y seis<num><m>
+:>:ochocientos ochenta y seis mil<num><m>
+:>:ochocientos ochenta y siete<num><m>
+:>:ochocientos ochenta y siete mil<num><m>
+:>:ochocientos ochenta y tres<num><m>
+:>:ochocientos ochenta y tres mil<num><m>
+:>:ochocientos setenta<num><m>
+:>:ochocientos setenta mil<num><m>
+:>:ochocientos setenta y cinco<num><m>
+:>:ochocientos setenta y cinco mil<num><m>
+:>:ochocientos setenta y cuatro<num><m>
+:>:ochocientos setenta y cuatro mil<num><m>
+:>:ochocientos setenta y dos<num><m>
+:>:ochocientos setenta y dos mil<num><m>
+:>:ochocientos setenta y nueve<num><m>
+:>:ochocientos setenta y nueve mil<num><m>
+:>:ochocientos setenta y ocho<num><m>
+:>:ochocientos setenta y ocho mil<num><m>
+:>:ochocientos setenta y seis<num><m>
+:>:ochocientos setenta y seis mil<num><m>
+:>:ochocientos setenta y siete<num><m>
+:>:ochocientos setenta y siete mil<num><m>
+:>:ochocientos setenta y tres<num><m>
+:>:ochocientos setenta y tres mil<num><m>
+:>:ochocientos sesenta<num><m>
+:>:ochocientos sesenta mil<num><m>
+:>:ochocientos sesenta y cinco<num><m>
+:>:ochocientos sesenta y cinco mil<num><m>
+:>:ochocientos sesenta y cuatro<num><m>
+:>:ochocientos sesenta y cuatro mil<num><m>
+:>:ochocientos sesenta y dos<num><m>
+:>:ochocientos sesenta y dos mil<num><m>
+:>:ochocientos sesenta y nueve<num><m>
+:>:ochocientos sesenta y nueve mil<num><m>
+:>:ochocientos sesenta y ocho<num><m>
+:>:ochocientos sesenta y ocho mil<num><m>
+:>:ochocientos sesenta y seis<num><m>
+:>:ochocientos sesenta y seis mil<num><m>
+:>:ochocientos sesenta y siete<num><m>
+:>:ochocientos sesenta y siete mil<num><m>
+:>:ochocientos sesenta y tres<num><m>
+:>:ochocientos sesenta y tres mil<num><m>
+:>:ochocientos cincuenta y cinco<num><m>
+:>:ochocientos cincuenta y cinco mil<num><m>
+:>:ochocientos cincuenta y cuatro<num><m>
+:>:ochocientos cincuenta y cuatro mil<num><m>
+:>:ochocientos cincuenta y dos<num><m>
+:>:ochocientos cincuenta y dos mil<num><m>
+:>:ochocientos cincuenta y nueve<num><m>
+:>:ochocientos cincuenta y nueve mil<num><m>
+:>:ochocientos cincuenta y ocho<num><m>
+:>:ochocientos cincuenta y ocho mil<num><m>
+:>:ochocientos cincuenta y seis<num><m>
+:>:ochocientos cincuenta y seis mil<num><m>
+:>:ochocientos cincuenta y siete<num><m>
+:>:ochocientos cincuenta y siete mil<num><m>
+:>:ochocientos cincuenta y tres<num><m>
+:>:ochocientos cincuenta y tres mil<num><m>
+:>:ochocientos cuarenta<num><m>
+:>:ochocientos cuarenta mil<num><m>
+:>:ochocientos cuarenta y cinco<num><m>
+:>:ochocientos cuarenta y cinco mil<num><m>
+:>:ochocientos cuarenta y cuatro<num><m>
+:>:ochocientos cuarenta y cuatro mil<num><m>
+:>:ochocientos cuarenta y dos<num><m>
+:>:ochocientos cuarenta y dos mil<num><m>
+:>:ochocientos cuarenta y nueve<num><m>
+:>:ochocientos cuarenta y nueve mil<num><m>
+:>:ochocientos cuarenta y ocho<num><m>
+:>:ochocientos cuarenta y ocho mil<num><m>
+:>:ochocientos cuarenta y seis<num><m>
+:>:ochocientos cuarenta y seis mil<num><m>
+:>:ochocientos cuarenta y siete<num><m>
+:>:ochocientos cuarenta y siete mil<num><m>
+:>:ochocientos cuarenta y tres<num><m>
+:>:ochocientos cuarenta y tres mil<num><m>
+:>:ochocientos treinta<num><m>
+:>:ochocientos treinta mil<num><m>
+:>:ochocientos treinta y cinco<num><m>
+:>:ochocientos treinta y cinco mil<num><m>
+:>:ochocientos treinta y cuatro<num><m>
+:>:ochocientos treinta y cuatro mil<num><m>
+:>:ochocientos treinta y dos<num><m>
+:>:ochocientos treinta y dos mil<num><m>
+:>:ochocientos treinta y nueve<num><m>
+:>:ochocientos treinta y nueve mil<num><m>
+:>:ochocientos treinta y ocho<num><m>
+:>:ochocientos treinta y ocho mil<num><m>
+:>:ochocientos treinta y seis<num><m>
+:>:ochocientos treinta y seis mil<num><m>
+:>:ochocientos treinta y siete<num><m>
+:>:ochocientos treinta y siete mil<num><m>
+:>:ochocientos treinta y tres<num><m>
+:>:ochocientos treinta y tres mil<num><m>
+:>:ochocientos veinte<num><m>
+:>:ochocientos veinte mil<num><m>
+:>:ochocientos veinticinco<num><m>
+:>:ochocientos veinticinco mil<num><m>
+:>:ochocientos veinticuatro<num><m>
+:>:ochocientos veinticuatro mil<num><m>
+:>:ochocientos veintidós<num><m>
+:>:ochocientos veintidós mil<num><m>
+:>:ochocientos veintinueve<num><m>
+:>:ochocientos veintinueve mil<num><m>
+:>:ochocientos veintiocho<num><m>
+:>:ochocientos veintiocho mil<num><m>
+:>:ochocientos veintiséis<num><m>
+:>:ochocientos veintiséis mil<num><m>
+:>:ochocientos veintisiete<num><m>
+:>:ochocientos veintisiete mil<num><m>
+:>:ochocientos veintitrés<num><m>
+:>:ochocientos veintitrés mil<num><m>
+:>:ochocientos cuatro<num><m>
+:>:ochocientos cuatro mil<num><m>
+:>:ochocientos diecinueve<num><m>
+:>:ochocientos diecinueve mil<num><m>
+:>:ochocientos dieciocho<num><m>
+:>:ochocientos dieciocho mil<num><m>
+:>:ochocientos diecisiete<num><m>
+:>:ochocientos diecisiete mil<num><m>
+:>:ochocientos dieciséis<num><m>
+:>:ochocientos dieciséis mil<num><m>
+:>:ochocientos diez<num><m>
+:>:ochocientos diez mil<num><m>
+:>:ochocientos dos<num><m>
+:>:ochocientos dos mil<num><m>
+:>:ochocientos mil<num><f>
+:>:ochocientos mil<num><m>
+:>:ochocientos noventa y uno<det><ind><m>
+:>:ochocientos noventa y uno<det><ind><f>
+:>:ochocientos noventa y uno mil<num><m>
+:>:ochocientos noventa y uno mil<num><f>
+:>:ochocientos noventa y uno mil<det><ind><m>
+:>:ochocientos noventa y uno mil<det><ind><f>
+:>:ochocientos ochenta y uno<det><ind><m>
+:>:ochocientos ochenta y uno<det><ind><f>
+:>:ochocientos ochenta y uno mil<num><m>
+:>:ochocientos ochenta y uno mil<num><f>
+:>:ochocientos ochenta y uno mil<det><ind><m>
+:>:ochocientos ochenta y uno mil<det><ind><f>
+:>:ochocientos setenta y uno<det><ind><m>
+:>:ochocientos setenta y uno<det><ind><f>
+:>:ochocientos setenta y uno mil<num><m>
+:>:ochocientos setenta y uno mil<num><f>
+:>:ochocientos setenta y uno mil<det><ind><m>
+:>:ochocientos setenta y uno mil<det><ind><f>
+:>:ochocientos sesenta y uno<det><ind><m>
+:>:ochocientos sesenta y uno<det><ind><f>
+:>:ochocientos sesenta y uno mil<num><m>
+:>:ochocientos sesenta y uno mil<num><f>
+:>:ochocientos sesenta y uno mil<det><ind><m>
+:>:ochocientos sesenta y uno mil<det><ind><f>
+:>:ochocientos cincuenta y uno<det><ind><m>
+:>:ochocientos cincuenta y uno<det><ind><f>
+:>:ochocientos cincuenta y uno mil<num><m>
+:>:ochocientos cincuenta y uno mil<num><f>
+:>:ochocientos cincuenta y uno mil<det><ind><m>
+:>:ochocientos cincuenta y uno mil<det><ind><f>
+:>:ochocientos cuarenta y uno<det><ind><m>
+:>:ochocientos cuarenta y uno<det><ind><f>
+:>:ochocientos cuarenta y uno mil<num><m>
+:>:ochocientos cuarenta y uno mil<num><f>
+:>:ochocientos cuarenta y uno mil<det><ind><m>
+:>:ochocientos cuarenta y uno mil<det><ind><f>
+:>:ochocientos treinta y uno<det><ind><m>
+:>:ochocientos treinta y uno<det><ind><f>
+:>:ochocientos treinta y uno mil<num><m>
+:>:ochocientos treinta y uno mil<num><f>
+:>:ochocientos treinta y uno mil<det><ind><m>
+:>:ochocientos treinta y uno mil<det><ind><f>
+:>:ochocientos veintiuno<det><ind><m>
+:>:ochocientos veintiuno<det><ind><f>
+:>:ochocientos veintiuno mil<num><m>
+:>:ochocientos veintiuno mil<num><f>
+:>:ochocientos veintiuno mil<det><ind><m>
+:>:ochocientos veintiuno mil<det><ind><f>
+:quinientos uno<num>
+:quinientos noventa y uno<num>
+:quinientos noventa y uno<det><def>
+:quinientos ochenta y uno<num>
+:quinientos ochenta y uno<det><def>
+:quinientos setenta y uno<num>
+:quinientos setenta y uno<det><def>
+:quinientos sesenta y uno<num>
+:quinientos sesenta y uno<det><def>
+:quinientos cincuenta y uno<num>
+:quinientos cincuenta y uno<det><def>
+:quinientos cuarenta y uno<num>
+:quinientos cuarenta y uno<det><def>
+:quinientos treinta y uno<num>
+:quinientos treinta y uno<det><def>
+:quinientos veintiuno<num>
+:quinientos veintiuno<det><def>
+:>:quinientos catorce<num><f>
+:>:quinientos catorce mil<num><f>
+:>:quinientos quince<num><f>
+:>:quinientos quince mil<num><f>
+:>:quinientos trece<num><f>
+:>:quinientos trece mil<num><f>
+:>:quinientos doce<num><f>
+:>:quinientos doce mil<num><f>
+:>:quinientos once<num><f>
+:>:quinientos once mil<num><f>
+:>:quinientos cincuenta<num><f>
+:>:quinientos cincuenta mil<num><f>
+:>:quinientos cuatro<num><f>
+:>:quinientos cuatro mil<num><f>
+:>:quinientos diez<num><f>
+:>:quinientos diez mil<num><f>
+:>:quinientos dos<num><f>
+:>:quinientos dos mil<num><f>
+:>:quinientos nueve<num><f>
+:>:quinientos nueve mil<num><f>
+:>:quinientos ocho<num><f>
+:>:quinientos ocho mil<num><f>
+:>:quinientos seis<num><f>
+:>:quinientos seis mil<num><f>
+:>:quinientos siete<num><f>
+:>:quinientos siete mil<num><f>
+:>:quinientos tres<num><f>
+:>:quinientos tres mil<num><f>
+:>:quinientos cinco<num><f>
+:>:quinientos cinco mil<num><f>
+:>:quinientos cincuenta<num><f>
+:>:quinientos cincuenta mil<num><f>
+:>:quinientos noventa<num><f>
+:>:quinientos noventa mil<num><f>
+:>:quinientos noventa y cinco<num><f>
+:>:quinientos noventa y cinco mil<num><f>
+:>:quinientos noventa y cuatro<num><f>
+:>:quinientos noventa y cuatro mil<num><f>
+:>:quinientos noventa y dos<num><f>
+:>:quinientos noventa y dos mil<num><f>
+:>:quinientos noventa y nueve<num><f>
+:>:quinientos noventa y nueve mil<num><f>
+:>:quinientos noventa y ocho<num><f>
+:>:quinientos noventa y ocho mil<num><f>
+:>:quinientos noventa y seis<num><f>
+:>:quinientos noventa y seis mil<num><f>
+:>:quinientos noventa y siete<num><f>
+:>:quinientos noventa y siete mil<num><f>
+:>:quinientos noventa y tres<num><f>
+:>:quinientos noventa y tres mil<num><f>
+:>:quinientos ochenta<num><f>
+:>:quinientos ochenta mil<num><f>
+:>:quinientos ochenta y cinco<num><f>
+:>:quinientos ochenta y cinco mil<num><f>
+:>:quinientos ochenta y cuatro<num><f>
+:>:quinientos ochenta y cuatro mil<num><f>
+:>:quinientos ochenta y dos<num><f>
+:>:quinientos ochenta y dos mil<num><f>
+:>:quinientos ochenta y nueve<num><f>
+:>:quinientos ochenta y nueve mil<num><f>
+:>:quinientos ochenta y ocho<num><f>
+:>:quinientos ochenta y ocho mil<num><f>
+:>:quinientos ochenta y seis<num><f>
+:>:quinientos ochenta y seis mil<num><f>
+:>:quinientos ochenta y siete<num><f>
+:>:quinientos ochenta y siete mil<num><f>
+:>:quinientos ochenta y tres<num><f>
+:>:quinientos ochenta y tres mil<num><f>
+:>:quinientos setenta<num><f>
+:>:quinientos setenta mil<num><f>
+:>:quinientos setenta y cinco<num><f>
+:>:quinientos setenta y cinco mil<num><f>
+:>:quinientos setenta y cuatro<num><f>
+:>:quinientos setenta y cuatro mil<num><f>
+:>:quinientos setenta y dos<num><f>
+:>:quinientos setenta y dos mil<num><f>
+:>:quinientos setenta y nueve<num><f>
+:>:quinientos setenta y nueve mil<num><f>
+:>:quinientos setenta y ocho<num><f>
+:>:quinientos setenta y ocho mil<num><f>
+:>:quinientos setenta y seis<num><f>
+:>:quinientos setenta y seis mil<num><f>
+:>:quinientos setenta y siete<num><f>
+:>:quinientos setenta y siete mil<num><f>
+:>:quinientos setenta y tres<num><f>
+:>:quinientos setenta y tres mil<num><f>
+:>:quinientos sesenta<num><f>
+:>:quinientos sesenta mil<num><f>
+:>:quinientos sesenta y cinco<num><f>
+:>:quinientos sesenta y cinco mil<num><f>
+:>:quinientos sesenta y cuatro<num><f>
+:>:quinientos sesenta y cuatro mil<num><f>
+:>:quinientos sesenta y dos<num><f>
+:>:quinientos sesenta y dos mil<num><f>
+:>:quinientos sesenta y nueve<num><f>
+:>:quinientos sesenta y nueve mil<num><f>
+:>:quinientos sesenta y ocho<num><f>
+:>:quinientos sesenta y ocho mil<num><f>
+:>:quinientos sesenta y seis<num><f>
+:>:quinientos sesenta y seis mil<num><f>
+:>:quinientos sesenta y siete<num><f>
+:>:quinientos sesenta y siete mil<num><f>
+:>:quinientos sesenta y tres<num><f>
+:>:quinientos sesenta y tres mil<num><f>
+:>:quinientos cincuenta y cinco<num><f>
+:>:quinientos cincuenta y cinco mil<num><f>
+:>:quinientos cincuenta y cuatro<num><f>
+:>:quinientos cincuenta y cuatro mil<num><f>
+:>:quinientos cincuenta y dos<num><f>
+:>:quinientos cincuenta y dos mil<num><f>
+:>:quinientos cincuenta y nueve<num><f>
+:>:quinientos cincuenta y nueve mil<num><f>
+:>:quinientos cincuenta y ocho<num><f>
+:>:quinientos cincuenta y ocho mil<num><f>
+:>:quinientos cincuenta y seis<num><f>
+:>:quinientos cincuenta y seis mil<num><f>
+:>:quinientos cincuenta y siete<num><f>
+:>:quinientos cincuenta y siete mil<num><f>
+:>:quinientos cincuenta y tres<num><f>
+:>:quinientos cincuenta y tres mil<num><f>
+:>:quinientos cuarenta<num><f>
+:>:quinientos cuarenta mil<num><f>
+:>:quinientos cuarenta y cinco<num><f>
+:>:quinientos cuarenta y cinco mil<num><f>
+:>:quinientos cuarenta y cuatro<num><f>
+:>:quinientos cuarenta y cuatro mil<num><f>
+:>:quinientos cuarenta y dos<num><f>
+:>:quinientos cuarenta y dos mil<num><f>
+:>:quinientos cuarenta y nueve<num><f>
+:>:quinientos cuarenta y nueve mil<num><f>
+:>:quinientos cuarenta y ocho<num><f>
+:>:quinientos cuarenta y ocho mil<num><f>
+:>:quinientos cuarenta y seis<num><f>
+:>:quinientos cuarenta y seis mil<num><f>
+:>:quinientos cuarenta y siete<num><f>
+:>:quinientos cuarenta y siete mil<num><f>
+:>:quinientos cuarenta y tres<num><f>
+:>:quinientos cuarenta y tres mil<num><f>
+:>:quinientos treinta<num><f>
+:>:quinientos treinta mil<num><f>
+:>:quinientos treinta y cinco<num><f>
+:>:quinientos treinta y cinco mil<num><f>
+:>:quinientos treinta y cuatro<num><f>
+:>:quinientos treinta y cuatro mil<num><f>
+:>:quinientos treinta y dos<num><f>
+:>:quinientos treinta y dos mil<num><f>
+:>:quinientos treinta y nueve<num><f>
+:>:quinientos treinta y nueve mil<num><f>
+:>:quinientos treinta y ocho<num><f>
+:>:quinientos treinta y ocho mil<num><f>
+:>:quinientos treinta y seis<num><f>
+:>:quinientos treinta y seis mil<num><f>
+:>:quinientos treinta y siete<num><f>
+:>:quinientos treinta y siete mil<num><f>
+:>:quinientos treinta y tres<num><f>
+:>:quinientos treinta y tres mil<num><f>
+:>:quinientos veinte<num><f>
+:>:quinientos veinte mil<num><f>
+:>:quinientos veinticinco<num><f>
+:>:quinientos veinticinco mil<num><f>
+:>:quinientos veinticuatro<num><f>
+:>:quinientos veinticuatro mil<num><f>
+:>:quinientos veintidós<num><f>
+:>:quinientos veintidós mil<num><f>
+:>:quinientos veintinueve<num><f>
+:>:quinientos veintinueve mil<num><f>
+:>:quinientos veintiocho<num><f>
+:>:quinientos veintiocho mil<num><f>
+:>:quinientos veintiséis<num><f>
+:>:quinientos veintiséis mil<num><f>
+:>:quinientos veintisiete<num><f>
+:>:quinientos veintisiete mil<num><f>
+:>:quinientos veintitrés<num><f>
+:>:quinientos veintitrés mil<num><f>
+:>:quinientos cuatro<num><f>
+:>:quinientos cuatro mil<num><f>
+:>:quinientos diecinueve<num><f>
+:>:quinientos diecinueve mil<num><f>
+:>:quinientos dieciocho<num><f>
+:>:quinientos dieciocho mil<num><f>
+:>:quinientos diecisiete<num><f>
+:>:quinientos diecisiete mil<num><f>
+:>:quinientos dieciséis<num><f>
+:>:quinientos dieciséis mil<num><f>
+:>:quinientos diez<num><f>
+:>:quinientos diez mil<num><f>
+:>:quinientos dos<num><f>
+:>:quinientos dos mil<num><f>
+:>:quinientos catorce<num><m>
+:>:quinientos catorce mil<num><m>
+:>:quinientos quince<num><m>
+:>:quinientos quince mil<num><m>
+:>:quinientos trece<num><m>
+:>:quinientos trece mil<num><m>
+:>:quinientos doce<num><m>
+:>:quinientos doce mil<num><m>
+:>:quinientos once<num><m>
+:>:quinientos once mil<num><m>
+:>:quinientos cincuenta<num><m>
+:>:quinientos cincuenta mil<num><m>
+:>:quinientos cuatro<num><m>
+:>:quinientos cuatro mil<num><m>
+:>:quinientos diez<num><m>
+:>:quinientos diez mil<num><m>
+:>:quinientos dos<num><m>
+:>:quinientos dos mil<num><m>
+:>:quinientos nueve<num><m>
+:>:quinientos nueve mil<num><m>
+:>:quinientos ocho<num><m>
+:>:quinientos ocho mil<num><m>
+:>:quinientos seis<num><m>
+:>:quinientos seis mil<num><m>
+:>:quinientos siete<num><m>
+:>:quinientos siete mil<num><m>
+:>:quinientos tres<num><m>
+:>:quinientos tres mil<num><m>
+:>:quinientos cinco<num><m>
+:>:quinientos cinco mil<num><m>
+:>:quinientos cincuenta<num><m>
+:>:quinientos cincuenta mil<num><m>
+:>:quinientos noventa<num><m>
+:>:quinientos noventa mil<num><m>
+:>:quinientos noventa y cinco<num><m>
+:>:quinientos noventa y cinco mil<num><m>
+:>:quinientos noventa y cuatro<num><m>
+:>:quinientos noventa y cuatro mil<num><m>
+:>:quinientos noventa y dos<num><m>
+:>:quinientos noventa y dos mil<num><m>
+:>:quinientos noventa y nueve<num><m>
+:>:quinientos noventa y nueve mil<num><m>
+:>:quinientos noventa y ocho<num><m>
+:>:quinientos noventa y ocho mil<num><m>
+:>:quinientos noventa y seis<num><m>
+:>:quinientos noventa y seis mil<num><m>
+:>:quinientos noventa y siete<num><m>
+:>:quinientos noventa y siete mil<num><m>
+:>:quinientos noventa y tres<num><m>
+:>:quinientos noventa y tres mil<num><m>
+:>:quinientos ochenta<num><m>
+:>:quinientos ochenta mil<num><m>
+:>:quinientos ochenta y cinco<num><m>
+:>:quinientos ochenta y cinco mil<num><m>
+:>:quinientos ochenta y cuatro<num><m>
+:>:quinientos ochenta y cuatro mil<num><m>
+:>:quinientos ochenta y dos<num><m>
+:>:quinientos ochenta y dos mil<num><m>
+:>:quinientos ochenta y nueve<num><m>
+:>:quinientos ochenta y nueve mil<num><m>
+:>:quinientos ochenta y ocho<num><m>
+:>:quinientos ochenta y ocho mil<num><m>
+:>:quinientos ochenta y seis<num><m>
+:>:quinientos ochenta y seis mil<num><m>
+:>:quinientos ochenta y siete<num><m>
+:>:quinientos ochenta y siete mil<num><m>
+:>:quinientos ochenta y tres<num><m>
+:>:quinientos ochenta y tres mil<num><m>
+:>:quinientos setenta<num><m>
+:>:quinientos setenta mil<num><m>
+:>:quinientos setenta y cinco<num><m>
+:>:quinientos setenta y cinco mil<num><m>
+:>:quinientos setenta y cuatro<num><m>
+:>:quinientos setenta y cuatro mil<num><m>
+:>:quinientos setenta y dos<num><m>
+:>:quinientos setenta y dos mil<num><m>
+:>:quinientos setenta y nueve<num><m>
+:>:quinientos setenta y nueve mil<num><m>
+:>:quinientos setenta y ocho<num><m>
+:>:quinientos setenta y ocho mil<num><m>
+:>:quinientos setenta y seis<num><m>
+:>:quinientos setenta y seis mil<num><m>
+:>:quinientos setenta y siete<num><m>
+:>:quinientos setenta y siete mil<num><m>
+:>:quinientos setenta y tres<num><m>
+:>:quinientos setenta y tres mil<num><m>
+:>:quinientos sesenta<num><m>
+:>:quinientos sesenta mil<num><m>
+:>:quinientos sesenta y cinco<num><m>
+:>:quinientos sesenta y cinco mil<num><m>
+:>:quinientos sesenta y cuatro<num><m>
+:>:quinientos sesenta y cuatro mil<num><m>
+:>:quinientos sesenta y dos<num><m>
+:>:quinientos sesenta y dos mil<num><m>
+:>:quinientos sesenta y nueve<num><m>
+:>:quinientos sesenta y nueve mil<num><m>
+:>:quinientos sesenta y ocho<num><m>
+:>:quinientos sesenta y ocho mil<num><m>
+:>:quinientos sesenta y seis<num><m>
+:>:quinientos sesenta y seis mil<num><m>
+:>:quinientos sesenta y siete<num><m>
+:>:quinientos sesenta y siete mil<num><m>
+:>:quinientos sesenta y tres<num><m>
+:>:quinientos sesenta y tres mil<num><m>
+:>:quinientos cincuenta y cinco<num><m>
+:>:quinientos cincuenta y cinco mil<num><m>
+:>:quinientos cincuenta y cuatro<num><m>
+:>:quinientos cincuenta y cuatro mil<num><m>
+:>:quinientos cincuenta y dos<num><m>
+:>:quinientos cincuenta y dos mil<num><m>
+:>:quinientos cincuenta y nueve<num><m>
+:>:quinientos cincuenta y nueve mil<num><m>
+:>:quinientos cincuenta y ocho<num><m>
+:>:quinientos cincuenta y ocho mil<num><m>
+:>:quinientos cincuenta y seis<num><m>
+:>:quinientos cincuenta y seis mil<num><m>
+:>:quinientos cincuenta y siete<num><m>
+:>:quinientos cincuenta y siete mil<num><m>
+:>:quinientos cincuenta y tres<num><m>
+:>:quinientos cincuenta y tres mil<num><m>
+:>:quinientos cuarenta<num><m>
+:>:quinientos cuarenta mil<num><m>
+:>:quinientos cuarenta y cinco<num><m>
+:>:quinientos cuarenta y cinco mil<num><m>
+:>:quinientos cuarenta y cuatro<num><m>
+:>:quinientos cuarenta y cuatro mil<num><m>
+:>:quinientos cuarenta y dos<num><m>
+:>:quinientos cuarenta y dos mil<num><m>
+:>:quinientos cuarenta y nueve<num><m>
+:>:quinientos cuarenta y nueve mil<num><m>
+:>:quinientos cuarenta y ocho<num><m>
+:>:quinientos cuarenta y ocho mil<num><m>
+:>:quinientos cuarenta y seis<num><m>
+:>:quinientos cuarenta y seis mil<num><m>
+:>:quinientos cuarenta y siete<num><m>
+:>:quinientos cuarenta y siete mil<num><m>
+:>:quinientos cuarenta y tres<num><m>
+:>:quinientos cuarenta y tres mil<num><m>
+:>:quinientos treinta<num><m>
+:>:quinientos treinta mil<num><m>
+:>:quinientos treinta y cinco<num><m>
+:>:quinientos treinta y cinco mil<num><m>
+:>:quinientos treinta y cuatro<num><m>
+:>:quinientos treinta y cuatro mil<num><m>
+:>:quinientos treinta y dos<num><m>
+:>:quinientos treinta y dos mil<num><m>
+:>:quinientos treinta y nueve<num><m>
+:>:quinientos treinta y nueve mil<num><m>
+:>:quinientos treinta y ocho<num><m>
+:>:quinientos treinta y ocho mil<num><m>
+:>:quinientos treinta y seis<num><m>
+:>:quinientos treinta y seis mil<num><m>
+:>:quinientos treinta y siete<num><m>
+:>:quinientos treinta y siete mil<num><m>
+:>:quinientos treinta y tres<num><m>
+:>:quinientos treinta y tres mil<num><m>
+:>:quinientos veinte<num><m>
+:>:quinientos veinte mil<num><m>
+:>:quinientos veinticinco<num><m>
+:>:quinientos veinticinco mil<num><m>
+:>:quinientos veinticuatro<num><m>
+:>:quinientos veinticuatro mil<num><m>
+:>:quinientos veintidós<num><m>
+:>:quinientos veintidós mil<num><m>
+:>:quinientos veintinueve<num><m>
+:>:quinientos veintinueve mil<num><m>
+:>:quinientos veintiocho<num><m>
+:>:quinientos veintiocho mil<num><m>
+:>:quinientos veintiséis<num><m>
+:>:quinientos veintiséis mil<num><m>
+:>:quinientos veintisiete<num><m>
+:>:quinientos veintisiete mil<num><m>
+:>:quinientos veintitrés<num><m>
+:>:quinientos veintitrés mil<num><m>
+:>:quinientos cuatro<num><m>
+:>:quinientos cuatro mil<num><m>
+:>:quinientos diecinueve<num><m>
+:>:quinientos diecinueve mil<num><m>
+:>:quinientos dieciocho<num><m>
+:>:quinientos dieciocho mil<num><m>
+:>:quinientos diecisiete<num><m>
+:>:quinientos diecisiete mil<num><m>
+:>:quinientos dieciséis<num><m>
+:>:quinientos dieciséis mil<num><m>
+:>:quinientos diez<num><m>
+:>:quinientos diez mil<num><m>
+:>:quinientos dos<num><m>
+:>:quinientos dos mil<num><m>
+:>:quinientos mil<num><f>
+:>:quinientos mil<num><m>
+:>:quinientos noventa y uno<det><ind><m>
+:>:quinientos noventa y uno<det><ind><f>
+:>:quinientos noventa y uno mil<num><m>
+:>:quinientos noventa y uno mil<num><f>
+:>:quinientos noventa y uno mil<det><ind><m>
+:>:quinientos noventa y uno mil<det><ind><f>
+:>:quinientos ochenta y uno<det><ind><m>
+:>:quinientos ochenta y uno<det><ind><f>
+:>:quinientos ochenta y uno mil<num><m>
+:>:quinientos ochenta y uno mil<num><f>
+:>:quinientos ochenta y uno mil<det><ind><m>
+:>:quinientos ochenta y uno mil<det><ind><f>
+:>:quinientos setenta y uno<det><ind><m>
+:>:quinientos setenta y uno<det><ind><f>
+:>:quinientos setenta y uno mil<num><m>
+:>:quinientos setenta y uno mil<num><f>
+:>:quinientos setenta y uno mil<det><ind><m>
+:>:quinientos setenta y uno mil<det><ind><f>
+:>:quinientos sesenta y uno<det><ind><m>
+:>:quinientos sesenta y uno<det><ind><f>
+:>:quinientos sesenta y uno mil<num><m>
+:>:quinientos sesenta y uno mil<num><f>
+:>:quinientos sesenta y uno mil<det><ind><m>
+:>:quinientos sesenta y uno mil<det><ind><f>
+:>:quinientos cincuenta y uno<det><ind><m>
+:>:quinientos cincuenta y uno<det><ind><f>
+:>:quinientos cincuenta y uno mil<num><m>
+:>:quinientos cincuenta y uno mil<num><f>
+:>:quinientos cincuenta y uno mil<det><ind><m>
+:>:quinientos cincuenta y uno mil<det><ind><f>
+:>:quinientos cuarenta y uno<det><ind><m>
+:>:quinientos cuarenta y uno<det><ind><f>
+:>:quinientos cuarenta y uno mil<num><m>
+:>:quinientos cuarenta y uno mil<num><f>
+:>:quinientos cuarenta y uno mil<det><ind><m>
+:>:quinientos cuarenta y uno mil<det><ind><f>
+:>:quinientos treinta y uno<det><ind><m>
+:>:quinientos treinta y uno<det><ind><f>
+:>:quinientos treinta y uno mil<num><m>
+:>:quinientos treinta y uno mil<num><f>
+:>:quinientos treinta y uno mil<det><ind><m>
+:>:quinientos treinta y uno mil<det><ind><f>
+:>:quinientos veintiuno<det><ind><m>
+:>:quinientos veintiuno<det><ind><f>
+:>:quinientos veintiuno mil<num><m>
+:>:quinientos veintiuno mil<num><f>
+:>:quinientos veintiuno mil<det><ind><m>
+:>:quinientos veintiuno mil<det><ind><f>
+:seiscientos uno<num>
+:seiscientos noventa y uno<num>
+:seiscientos noventa y uno<det><def>
+:seiscientos ochenta y uno<num>
+:seiscientos ochenta y uno<det><def>
+:seiscientos setenta y uno<num>
+:seiscientos setenta y uno<det><def>
+:seiscientos sesenta y uno<num>
+:seiscientos sesenta y uno<det><def>
+:seiscientos cincuenta y uno<num>
+:seiscientos cincuenta y uno<det><def>
+:seiscientos cuarenta y uno<num>
+:seiscientos cuarenta y uno<det><def>
+:seiscientos treinta y uno<num>
+:seiscientos treinta y uno<det><def>
+:seiscientos veintiuno<num>
+:seiscientos veintiuno<det><def>
+:>:seiscientos catorce<num><f>
+:>:seiscientos catorce mil<num><f>
+:>:seiscientos quince<num><f>
+:>:seiscientos quince mil<num><f>
+:>:seiscientos trece<num><f>
+:>:seiscientos trece mil<num><f>
+:>:seiscientos doce<num><f>
+:>:seiscientos doce mil<num><f>
+:>:seiscientos once<num><f>
+:>:seiscientos once mil<num><f>
+:>:seiscientos cincuenta<num><f>
+:>:seiscientos cincuenta mil<num><f>
+:>:seiscientos cuatro<num><f>
+:>:seiscientos cuatro mil<num><f>
+:>:seiscientos diez<num><f>
+:>:seiscientos diez mil<num><f>
+:>:seiscientos dos<num><f>
+:>:seiscientos dos mil<num><f>
+:>:seiscientos nueve<num><f>
+:>:seiscientos nueve mil<num><f>
+:>:seiscientos ocho<num><f>
+:>:seiscientos ocho mil<num><f>
+:>:seiscientos seis<num><f>
+:>:seiscientos seis mil<num><f>
+:>:seiscientos siete<num><f>
+:>:seiscientos siete mil<num><f>
+:>:seiscientos tres<num><f>
+:>:seiscientos tres mil<num><f>
+:>:seiscientos cinco<num><f>
+:>:seiscientos cinco mil<num><f>
+:>:seiscientos cincuenta<num><f>
+:>:seiscientos cincuenta mil<num><f>
+:>:seiscientos noventa<num><f>
+:>:seiscientos noventa mil<num><f>
+:>:seiscientos noventa y cinco<num><f>
+:>:seiscientos noventa y cinco mil<num><f>
+:>:seiscientos noventa y cuatro<num><f>
+:>:seiscientos noventa y cuatro mil<num><f>
+:>:seiscientos noventa y dos<num><f>
+:>:seiscientos noventa y dos mil<num><f>
+:>:seiscientos noventa y nueve<num><f>
+:>:seiscientos noventa y nueve mil<num><f>
+:>:seiscientos noventa y ocho<num><f>
+:>:seiscientos noventa y ocho mil<num><f>
+:>:seiscientos noventa y seis<num><f>
+:>:seiscientos noventa y seis mil<num><f>
+:>:seiscientos noventa y siete<num><f>
+:>:seiscientos noventa y siete mil<num><f>
+:>:seiscientos noventa y tres<num><f>
+:>:seiscientos noventa y tres mil<num><f>
+:>:seiscientos ochenta<num><f>
+:>:seiscientos ochenta mil<num><f>
+:>:seiscientos ochenta y cinco<num><f>
+:>:seiscientos ochenta y cinco mil<num><f>
+:>:seiscientos ochenta y cuatro<num><f>
+:>:seiscientos ochenta y cuatro mil<num><f>
+:>:seiscientos ochenta y dos<num><f>
+:>:seiscientos ochenta y dos mil<num><f>
+:>:seiscientos ochenta y nueve<num><f>
+:>:seiscientos ochenta y nueve mil<num><f>
+:>:seiscientos ochenta y ocho<num><f>
+:>:seiscientos ochenta y ocho mil<num><f>
+:>:seiscientos ochenta y seis<num><f>
+:>:seiscientos ochenta y seis mil<num><f>
+:>:seiscientos ochenta y siete<num><f>
+:>:seiscientos ochenta y siete mil<num><f>
+:>:seiscientos ochenta y tres<num><f>
+:>:seiscientos ochenta y tres mil<num><f>
+:>:seiscientos setenta<num><f>
+:>:seiscientos setenta mil<num><f>
+:>:seiscientos setenta y cinco<num><f>
+:>:seiscientos setenta y cinco mil<num><f>
+:>:seiscientos setenta y cuatro<num><f>
+:>:seiscientos setenta y cuatro mil<num><f>
+:>:seiscientos setenta y dos<num><f>
+:>:seiscientos setenta y dos mil<num><f>
+:>:seiscientos setenta y nueve<num><f>
+:>:seiscientos setenta y nueve mil<num><f>
+:>:seiscientos setenta y ocho<num><f>
+:>:seiscientos setenta y ocho mil<num><f>
+:>:seiscientos setenta y seis<num><f>
+:>:seiscientos setenta y seis mil<num><f>
+:>:seiscientos setenta y siete<num><f>
+:>:seiscientos setenta y siete mil<num><f>
+:>:seiscientos setenta y tres<num><f>
+:>:seiscientos setenta y tres mil<num><f>
+:>:seiscientos sesenta<num><f>
+:>:seiscientos sesenta mil<num><f>
+:>:seiscientos sesenta y cinco<num><f>
+:>:seiscientos sesenta y cinco mil<num><f>
+:>:seiscientos sesenta y cuatro<num><f>
+:>:seiscientos sesenta y cuatro mil<num><f>
+:>:seiscientos sesenta y dos<num><f>
+:>:seiscientos sesenta y dos mil<num><f>
+:>:seiscientos sesenta y nueve<num><f>
+:>:seiscientos sesenta y nueve mil<num><f>
+:>:seiscientos sesenta y ocho<num><f>
+:>:seiscientos sesenta y ocho mil<num><f>
+:>:seiscientos sesenta y seis<num><f>
+:>:seiscientos sesenta y seis mil<num><f>
+:>:seiscientos sesenta y siete<num><f>
+:>:seiscientos sesenta y siete mil<num><f>
+:>:seiscientos sesenta y tres<num><f>
+:>:seiscientos sesenta y tres mil<num><f>
+:>:seiscientos cincuenta y cinco<num><f>
+:>:seiscientos cincuenta y cinco mil<num><f>
+:>:seiscientos cincuenta y cuatro<num><f>
+:>:seiscientos cincuenta y cuatro mil<num><f>
+:>:seiscientos cincuenta y dos<num><f>
+:>:seiscientos cincuenta y dos mil<num><f>
+:>:seiscientos cincuenta y nueve<num><f>
+:>:seiscientos cincuenta y nueve mil<num><f>
+:>:seiscientos cincuenta y ocho<num><f>
+:>:seiscientos cincuenta y ocho mil<num><f>
+:>:seiscientos cincuenta y seis<num><f>
+:>:seiscientos cincuenta y seis mil<num><f>
+:>:seiscientos cincuenta y siete<num><f>
+:>:seiscientos cincuenta y siete mil<num><f>
+:>:seiscientos cincuenta y tres<num><f>
+:>:seiscientos cincuenta y tres mil<num><f>
+:>:seiscientos cuarenta<num><f>
+:>:seiscientos cuarenta mil<num><f>
+:>:seiscientos cuarenta y cinco<num><f>
+:>:seiscientos cuarenta y cinco mil<num><f>
+:>:seiscientos cuarenta y cuatro<num><f>
+:>:seiscientos cuarenta y cuatro mil<num><f>
+:>:seiscientos cuarenta y dos<num><f>
+:>:seiscientos cuarenta y dos mil<num><f>
+:>:seiscientos cuarenta y nueve<num><f>
+:>:seiscientos cuarenta y nueve mil<num><f>
+:>:seiscientos cuarenta y ocho<num><f>
+:>:seiscientos cuarenta y ocho mil<num><f>
+:>:seiscientos cuarenta y seis<num><f>
+:>:seiscientos cuarenta y seis mil<num><f>
+:>:seiscientos cuarenta y siete<num><f>
+:>:seiscientos cuarenta y siete mil<num><f>
+:>:seiscientos cuarenta y tres<num><f>
+:>:seiscientos cuarenta y tres mil<num><f>
+:>:seiscientos treinta<num><f>
+:>:seiscientos treinta mil<num><f>
+:>:seiscientos treinta y cinco<num><f>
+:>:seiscientos treinta y cinco mil<num><f>
+:>:seiscientos treinta y cuatro<num><f>
+:>:seiscientos treinta y cuatro mil<num><f>
+:>:seiscientos treinta y dos<num><f>
+:>:seiscientos treinta y dos mil<num><f>
+:>:seiscientos treinta y nueve<num><f>
+:>:seiscientos treinta y nueve mil<num><f>
+:>:seiscientos treinta y ocho<num><f>
+:>:seiscientos treinta y ocho mil<num><f>
+:>:seiscientos treinta y seis<num><f>
+:>:seiscientos treinta y seis mil<num><f>
+:>:seiscientos treinta y siete<num><f>
+:>:seiscientos treinta y siete mil<num><f>
+:>:seiscientos treinta y tres<num><f>
+:>:seiscientos treinta y tres mil<num><f>
+:>:seiscientos veinte<num><f>
+:>:seiscientos veinte mil<num><f>
+:>:seiscientos veinticinco<num><f>
+:>:seiscientos veinticinco mil<num><f>
+:>:seiscientos veinticuatro<num><f>
+:>:seiscientos veinticuatro mil<num><f>
+:>:seiscientos veintidós<num><f>
+:>:seiscientos veintidós mil<num><f>
+:>:seiscientos veintinueve<num><f>
+:>:seiscientos veintinueve mil<num><f>
+:>:seiscientos veintiocho<num><f>
+:>:seiscientos veintiocho mil<num><f>
+:>:seiscientos veintiséis<num><f>
+:>:seiscientos veintiséis mil<num><f>
+:>:seiscientos veintisiete<num><f>
+:>:seiscientos veintisiete mil<num><f>
+:>:seiscientos veintitrés<num><f>
+:>:seiscientos veintitrés mil<num><f>
+:>:seiscientos cuatro<num><f>
+:>:seiscientos cuatro mil<num><f>
+:>:seiscientos diecinueve<num><f>
+:>:seiscientos diecinueve mil<num><f>
+:>:seiscientos dieciocho<num><f>
+:>:seiscientos dieciocho mil<num><f>
+:>:seiscientos diecisiete<num><f>
+:>:seiscientos diecisiete mil<num><f>
+:>:seiscientos dieciséis<num><f>
+:>:seiscientos dieciséis mil<num><f>
+:>:seiscientos diez<num><f>
+:>:seiscientos diez mil<num><f>
+:>:seiscientos dos<num><f>
+:>:seiscientos dos mil<num><f>
+:>:seiscientos catorce<num><m>
+:>:seiscientos catorce mil<num><m>
+:>:seiscientos quince<num><m>
+:>:seiscientos quince mil<num><m>
+:>:seiscientos trece<num><m>
+:>:seiscientos trece mil<num><m>
+:>:seiscientos doce<num><m>
+:>:seiscientos doce mil<num><m>
+:>:seiscientos once<num><m>
+:>:seiscientos once mil<num><m>
+:>:seiscientos cincuenta<num><m>
+:>:seiscientos cincuenta mil<num><m>
+:>:seiscientos cuatro<num><m>
+:>:seiscientos cuatro mil<num><m>
+:>:seiscientos diez<num><m>
+:>:seiscientos diez mil<num><m>
+:>:seiscientos dos<num><m>
+:>:seiscientos dos mil<num><m>
+:>:seiscientos nueve<num><m>
+:>:seiscientos nueve mil<num><m>
+:>:seiscientos ocho<num><m>
+:>:seiscientos ocho mil<num><m>
+:>:seiscientos seis<num><m>
+:>:seiscientos seis mil<num><m>
+:>:seiscientos siete<num><m>
+:>:seiscientos siete mil<num><m>
+:>:seiscientos tres<num><m>
+:>:seiscientos tres mil<num><m>
+:>:seiscientos cinco<num><m>
+:>:seiscientos cinco mil<num><m>
+:>:seiscientos cincuenta<num><m>
+:>:seiscientos cincuenta mil<num><m>
+:>:seiscientos noventa<num><m>
+:>:seiscientos noventa mil<num><m>
+:>:seiscientos noventa y cinco<num><m>
+:>:seiscientos noventa y cinco mil<num><m>
+:>:seiscientos noventa y cuatro<num><m>
+:>:seiscientos noventa y cuatro mil<num><m>
+:>:seiscientos noventa y dos<num><m>
+:>:seiscientos noventa y dos mil<num><m>
+:>:seiscientos noventa y nueve<num><m>
+:>:seiscientos noventa y nueve mil<num><m>
+:>:seiscientos noventa y ocho<num><m>
+:>:seiscientos noventa y ocho mil<num><m>
+:>:seiscientos noventa y seis<num><m>
+:>:seiscientos noventa y seis mil<num><m>
+:>:seiscientos noventa y siete<num><m>
+:>:seiscientos noventa y siete mil<num><m>
+:>:seiscientos noventa y tres<num><m>
+:>:seiscientos noventa y tres mil<num><m>
+:>:seiscientos ochenta<num><m>
+:>:seiscientos ochenta mil<num><m>
+:>:seiscientos ochenta y cinco<num><m>
+:>:seiscientos ochenta y cinco mil<num><m>
+:>:seiscientos ochenta y cuatro<num><m>
+:>:seiscientos ochenta y cuatro mil<num><m>
+:>:seiscientos ochenta y dos<num><m>
+:>:seiscientos ochenta y dos mil<num><m>
+:>:seiscientos ochenta y nueve<num><m>
+:>:seiscientos ochenta y nueve mil<num><m>
+:>:seiscientos ochenta y ocho<num><m>
+:>:seiscientos ochenta y ocho mil<num><m>
+:>:seiscientos ochenta y seis<num><m>
+:>:seiscientos ochenta y seis mil<num><m>
+:>:seiscientos ochenta y siete<num><m>
+:>:seiscientos ochenta y siete mil<num><m>
+:>:seiscientos ochenta y tres<num><m>
+:>:seiscientos ochenta y tres mil<num><m>
+:>:seiscientos setenta<num><m>
+:>:seiscientos setenta mil<num><m>
+:>:seiscientos setenta y cinco<num><m>
+:>:seiscientos setenta y cinco mil<num><m>
+:>:seiscientos setenta y cuatro<num><m>
+:>:seiscientos setenta y cuatro mil<num><m>
+:>:seiscientos setenta y dos<num><m>
+:>:seiscientos setenta y dos mil<num><m>
+:>:seiscientos setenta y nueve<num><m>
+:>:seiscientos setenta y nueve mil<num><m>
+:>:seiscientos setenta y ocho<num><m>
+:>:seiscientos setenta y ocho mil<num><m>
+:>:seiscientos setenta y seis<num><m>
+:>:seiscientos setenta y seis mil<num><m>
+:>:seiscientos setenta y siete<num><m>
+:>:seiscientos setenta y siete mil<num><m>
+:>:seiscientos setenta y tres<num><m>
+:>:seiscientos setenta y tres mil<num><m>
+:>:seiscientos sesenta<num><m>
+:>:seiscientos sesenta mil<num><m>
+:>:seiscientos sesenta y cinco<num><m>
+:>:seiscientos sesenta y cinco mil<num><m>
+:>:seiscientos sesenta y cuatro<num><m>
+:>:seiscientos sesenta y cuatro mil<num><m>
+:>:seiscientos sesenta y dos<num><m>
+:>:seiscientos sesenta y dos mil<num><m>
+:>:seiscientos sesenta y nueve<num><m>
+:>:seiscientos sesenta y nueve mil<num><m>
+:>:seiscientos sesenta y ocho<num><m>
+:>:seiscientos sesenta y ocho mil<num><m>
+:>:seiscientos sesenta y seis<num><m>
+:>:seiscientos sesenta y seis mil<num><m>
+:>:seiscientos sesenta y siete<num><m>
+:>:seiscientos sesenta y siete mil<num><m>
+:>:seiscientos sesenta y tres<num><m>
+:>:seiscientos sesenta y tres mil<num><m>
+:>:seiscientos cincuenta y cinco<num><m>
+:>:seiscientos cincuenta y cinco mil<num><m>
+:>:seiscientos cincuenta y cuatro<num><m>
+:>:seiscientos cincuenta y cuatro mil<num><m>
+:>:seiscientos cincuenta y dos<num><m>
+:>:seiscientos cincuenta y dos mil<num><m>
+:>:seiscientos cincuenta y nueve<num><m>
+:>:seiscientos cincuenta y nueve mil<num><m>
+:>:seiscientos cincuenta y ocho<num><m>
+:>:seiscientos cincuenta y ocho mil<num><m>
+:>:seiscientos cincuenta y seis<num><m>
+:>:seiscientos cincuenta y seis mil<num><m>
+:>:seiscientos cincuenta y siete<num><m>
+:>:seiscientos cincuenta y siete mil<num><m>
+:>:seiscientos cincuenta y tres<num><m>
+:>:seiscientos cincuenta y tres mil<num><m>
+:>:seiscientos cuarenta<num><m>
+:>:seiscientos cuarenta mil<num><m>
+:>:seiscientos cuarenta y cinco<num><m>
+:>:seiscientos cuarenta y cinco mil<num><m>
+:>:seiscientos cuarenta y cuatro<num><m>
+:>:seiscientos cuarenta y cuatro mil<num><m>
+:>:seiscientos cuarenta y dos<num><m>
+:>:seiscientos cuarenta y dos mil<num><m>
+:>:seiscientos cuarenta y nueve<num><m>
+:>:seiscientos cuarenta y nueve mil<num><m>
+:>:seiscientos cuarenta y ocho<num><m>
+:>:seiscientos cuarenta y ocho mil<num><m>
+:>:seiscientos cuarenta y seis<num><m>
+:>:seiscientos cuarenta y seis mil<num><m>
+:>:seiscientos cuarenta y siete<num><m>
+:>:seiscientos cuarenta y siete mil<num><m>
+:>:seiscientos cuarenta y tres<num><m>
+:>:seiscientos cuarenta y tres mil<num><m>
+:>:seiscientos treinta<num><m>
+:>:seiscientos treinta mil<num><m>
+:>:seiscientos treinta y cinco<num><m>
+:>:seiscientos treinta y cinco mil<num><m>
+:>:seiscientos treinta y cuatro<num><m>
+:>:seiscientos treinta y cuatro mil<num><m>
+:>:seiscientos treinta y dos<num><m>
+:>:seiscientos treinta y dos mil<num><m>
+:>:seiscientos treinta y nueve<num><m>
+:>:seiscientos treinta y nueve mil<num><m>
+:>:seiscientos treinta y ocho<num><m>
+:>:seiscientos treinta y ocho mil<num><m>
+:>:seiscientos treinta y seis<num><m>
+:>:seiscientos treinta y seis mil<num><m>
+:>:seiscientos treinta y siete<num><m>
+:>:seiscientos treinta y siete mil<num><m>
+:>:seiscientos treinta y tres<num><m>
+:>:seiscientos treinta y tres mil<num><m>
+:>:seiscientos veinte<num><m>
+:>:seiscientos veinte mil<num><m>
+:>:seiscientos veinticinco<num><m>
+:>:seiscientos veinticinco mil<num><m>
+:>:seiscientos veinticuatro<num><m>
+:>:seiscientos veinticuatro mil<num><m>
+:>:seiscientos veintidós<num><m>
+:>:seiscientos veintidós mil<num><m>
+:>:seiscientos veintinueve<num><m>
+:>:seiscientos veintinueve mil<num><m>
+:>:seiscientos veintiocho<num><m>
+:>:seiscientos veintiocho mil<num><m>
+:>:seiscientos veintiséis<num><m>
+:>:seiscientos veintiséis mil<num><m>
+:>:seiscientos veintisiete<num><m>
+:>:seiscientos veintisiete mil<num><m>
+:>:seiscientos veintitrés<num><m>
+:>:seiscientos veintitrés mil<num><m>
+:>:seiscientos cuatro<num><m>
+:>:seiscientos cuatro mil<num><m>
+:>:seiscientos diecinueve<num><m>
+:>:seiscientos diecinueve mil<num><m>
+:>:seiscientos dieciocho<num><m>
+:>:seiscientos dieciocho mil<num><m>
+:>:seiscientos diecisiete<num><m>
+:>:seiscientos diecisiete mil<num><m>
+:>:seiscientos dieciséis<num><m>
+:>:seiscientos dieciséis mil<num><m>
+:>:seiscientos diez<num><m>
+:>:seiscientos diez mil<num><m>
+:>:seiscientos dos<num><m>
+:>:seiscientos dos mil<num><m>
+:>:seiscientos mil<num><f>
+:>:seiscientos mil<num><m>
+:>:seiscientos noventa y uno<det><ind><m>
+:>:seiscientos noventa y uno<det><ind><f>
+:>:seiscientos noventa y uno mil<num><m>
+:>:seiscientos noventa y uno mil<num><f>
+:>:seiscientos noventa y uno mil<det><ind><m>
+:>:seiscientos noventa y uno mil<det><ind><f>
+:>:seiscientos ochenta y uno<det><ind><m>
+:>:seiscientos ochenta y uno<det><ind><f>
+:>:seiscientos ochenta y uno mil<num><m>
+:>:seiscientos ochenta y uno mil<num><f>
+:>:seiscientos ochenta y uno mil<det><ind><m>
+:>:seiscientos ochenta y uno mil<det><ind><f>
+:>:seiscientos setenta y uno<det><ind><m>
+:>:seiscientos setenta y uno<det><ind><f>
+:>:seiscientos setenta y uno mil<num><m>
+:>:seiscientos setenta y uno mil<num><f>
+:>:seiscientos setenta y uno mil<det><ind><m>
+:>:seiscientos setenta y uno mil<det><ind><f>
+:>:seiscientos sesenta y uno<det><ind><m>
+:>:seiscientos sesenta y uno<det><ind><f>
+:>:seiscientos sesenta y uno mil<num><m>
+:>:seiscientos sesenta y uno mil<num><f>
+:>:seiscientos sesenta y uno mil<det><ind><m>
+:>:seiscientos sesenta y uno mil<det><ind><f>
+:>:seiscientos cincuenta y uno<det><ind><m>
+:>:seiscientos cincuenta y uno<det><ind><f>
+:>:seiscientos cincuenta y uno mil<num><m>
+:>:seiscientos cincuenta y uno mil<num><f>
+:>:seiscientos cincuenta y uno mil<det><ind><m>
+:>:seiscientos cincuenta y uno mil<det><ind><f>
+:>:seiscientos cuarenta y uno<det><ind><m>
+:>:seiscientos cuarenta y uno<det><ind><f>
+:>:seiscientos cuarenta y uno mil<num><m>
+:>:seiscientos cuarenta y uno mil<num><f>
+:>:seiscientos cuarenta y uno mil<det><ind><m>
+:>:seiscientos cuarenta y uno mil<det><ind><f>
+:>:seiscientos treinta y uno<det><ind><m>
+:>:seiscientos treinta y uno<det><ind><f>
+:>:seiscientos treinta y uno mil<num><m>
+:>:seiscientos treinta y uno mil<num><f>
+:>:seiscientos treinta y uno mil<det><ind><m>
+:>:seiscientos treinta y uno mil<det><ind><f>
+:>:seiscientos veintiuno<det><ind><m>
+:>:seiscientos veintiuno<det><ind><f>
+:>:seiscientos veintiuno mil<num><m>
+:>:seiscientos veintiuno mil<num><f>
+:>:seiscientos veintiuno mil<det><ind><m>
+:>:seiscientos veintiuno mil<det><ind><f>
+:setecientos uno<num>
+:setecientos noventa y uno<num>
+:setecientos noventa y uno<det><def>
+:setecientos ochenta y uno<num>
+:setecientos ochenta y uno<det><def>
+:setecientos setenta y uno<num>
+:setecientos setenta y uno<det><def>
+:setecientos sesenta y uno<num>
+:setecientos sesenta y uno<det><def>
+:setecientos cincuenta y uno<num>
+:setecientos cincuenta y uno<det><def>
+:setecientos cuarenta y uno<num>
+:setecientos cuarenta y uno<det><def>
+:setecientos treinta y uno<num>
+:setecientos treinta y uno<det><def>
+:setecientos veintiuno<num>
+:setecientos veintiuno<det><def>
+:>:setecientos catorce<num><f>
+:>:setecientos catorce mil<num><f>
+:>:setecientos quince<num><f>
+:>:setecientos quince mil<num><f>
+:>:setecientos trece<num><f>
+:>:setecientos trece mil<num><f>
+:>:setecientos doce<num><f>
+:>:setecientos doce mil<num><f>
+:>:setecientos once<num><f>
+:>:setecientos once mil<num><f>
+:>:setecientos cincuenta<num><f>
+:>:setecientos cincuenta mil<num><f>
+:>:setecientos cuatro<num><f>
+:>:setecientos cuatro mil<num><f>
+:>:setecientos diez<num><f>
+:>:setecientos diez mil<num><f>
+:>:setecientos dos<num><f>
+:>:setecientos dos mil<num><f>
+:>:setecientos nueve<num><f>
+:>:setecientos nueve mil<num><f>
+:>:setecientos ocho<num><f>
+:>:setecientos ocho mil<num><f>
+:>:setecientos seis<num><f>
+:>:setecientos seis mil<num><f>
+:>:setecientos siete<num><f>
+:>:setecientos siete mil<num><f>
+:>:setecientos tres<num><f>
+:>:setecientos tres mil<num><f>
+:>:setecientos cinco<num><f>
+:>:setecientos cinco mil<num><f>
+:>:setecientos cincuenta<num><f>
+:>:setecientos cincuenta mil<num><f>
+:>:setecientos noventa<num><f>
+:>:setecientos noventa mil<num><f>
+:>:setecientos noventa y cinco<num><f>
+:>:setecientos noventa y cinco mil<num><f>
+:>:setecientos noventa y cuatro<num><f>
+:>:setecientos noventa y cuatro mil<num><f>
+:>:setecientos noventa y dos<num><f>
+:>:setecientos noventa y dos mil<num><f>
+:>:setecientos noventa y nueve<num><f>
+:>:setecientos noventa y nueve mil<num><f>
+:>:setecientos noventa y ocho<num><f>
+:>:setecientos noventa y ocho mil<num><f>
+:>:setecientos noventa y seis<num><f>
+:>:setecientos noventa y seis mil<num><f>
+:>:setecientos noventa y siete<num><f>
+:>:setecientos noventa y siete mil<num><f>
+:>:setecientos noventa y tres<num><f>
+:>:setecientos noventa y tres mil<num><f>
+:>:setecientos ochenta<num><f>
+:>:setecientos ochenta mil<num><f>
+:>:setecientos ochenta y cinco<num><f>
+:>:setecientos ochenta y cinco mil<num><f>
+:>:setecientos ochenta y cuatro<num><f>
+:>:setecientos ochenta y cuatro mil<num><f>
+:>:setecientos ochenta y dos<num><f>
+:>:setecientos ochenta y dos mil<num><f>
+:>:setecientos ochenta y nueve<num><f>
+:>:setecientos ochenta y nueve mil<num><f>
+:>:setecientos ochenta y ocho<num><f>
+:>:setecientos ochenta y ocho mil<num><f>
+:>:setecientos ochenta y seis<num><f>
+:>:setecientos ochenta y seis mil<num><f>
+:>:setecientos ochenta y siete<num><f>
+:>:setecientos ochenta y siete mil<num><f>
+:>:setecientos ochenta y tres<num><f>
+:>:setecientos ochenta y tres mil<num><f>
+:>:setecientos setenta<num><f>
+:>:setecientos setenta mil<num><f>
+:>:setecientos setenta y cinco<num><f>
+:>:setecientos setenta y cinco mil<num><f>
+:>:setecientos setenta y cuatro<num><f>
+:>:setecientos setenta y cuatro mil<num><f>
+:>:setecientos setenta y dos<num><f>
+:>:setecientos setenta y dos mil<num><f>
+:>:setecientos setenta y nueve<num><f>
+:>:setecientos setenta y nueve mil<num><f>
+:>:setecientos setenta y ocho<num><f>
+:>:setecientos setenta y ocho mil<num><f>
+:>:setecientos setenta y seis<num><f>
+:>:setecientos setenta y seis mil<num><f>
+:>:setecientos setenta y siete<num><f>
+:>:setecientos setenta y siete mil<num><f>
+:>:setecientos setenta y tres<num><f>
+:>:setecientos setenta y tres mil<num><f>
+:>:setecientos sesenta<num><f>
+:>:setecientos sesenta mil<num><f>
+:>:setecientos sesenta y cinco<num><f>
+:>:setecientos sesenta y cinco mil<num><f>
+:>:setecientos sesenta y cuatro<num><f>
+:>:setecientos sesenta y cuatro mil<num><f>
+:>:setecientos sesenta y dos<num><f>
+:>:setecientos sesenta y dos mil<num><f>
+:>:setecientos sesenta y nueve<num><f>
+:>:setecientos sesenta y nueve mil<num><f>
+:>:setecientos sesenta y ocho<num><f>
+:>:setecientos sesenta y ocho mil<num><f>
+:>:setecientos sesenta y seis<num><f>
+:>:setecientos sesenta y seis mil<num><f>
+:>:setecientos sesenta y siete<num><f>
+:>:setecientos sesenta y siete mil<num><f>
+:>:setecientos sesenta y tres<num><f>
+:>:setecientos sesenta y tres mil<num><f>
+:>:setecientos cincuenta y cinco<num><f>
+:>:setecientos cincuenta y cinco mil<num><f>
+:>:setecientos cincuenta y cuatro<num><f>
+:>:setecientos cincuenta y cuatro mil<num><f>
+:>:setecientos cincuenta y dos<num><f>
+:>:setecientos cincuenta y dos mil<num><f>
+:>:setecientos cincuenta y nueve<num><f>
+:>:setecientos cincuenta y nueve mil<num><f>
+:>:setecientos cincuenta y ocho<num><f>
+:>:setecientos cincuenta y ocho mil<num><f>
+:>:setecientos cincuenta y seis<num><f>
+:>:setecientos cincuenta y seis mil<num><f>
+:>:setecientos cincuenta y siete<num><f>
+:>:setecientos cincuenta y siete mil<num><f>
+:>:setecientos cincuenta y tres<num><f>
+:>:setecientos cincuenta y tres mil<num><f>
+:>:setecientos cuarenta<num><f>
+:>:setecientos cuarenta mil<num><f>
+:>:setecientos cuarenta y cinco<num><f>
+:>:setecientos cuarenta y cinco mil<num><f>
+:>:setecientos cuarenta y cuatro<num><f>
+:>:setecientos cuarenta y cuatro mil<num><f>
+:>:setecientos cuarenta y dos<num><f>
+:>:setecientos cuarenta y dos mil<num><f>
+:>:setecientos cuarenta y nueve<num><f>
+:>:setecientos cuarenta y nueve mil<num><f>
+:>:setecientos cuarenta y ocho<num><f>
+:>:setecientos cuarenta y ocho mil<num><f>
+:>:setecientos cuarenta y seis<num><f>
+:>:setecientos cuarenta y seis mil<num><f>
+:>:setecientos cuarenta y siete<num><f>
+:>:setecientos cuarenta y siete mil<num><f>
+:>:setecientos cuarenta y tres<num><f>
+:>:setecientos cuarenta y tres mil<num><f>
+:>:setecientos treinta<num><f>
+:>:setecientos treinta mil<num><f>
+:>:setecientos treinta y cinco<num><f>
+:>:setecientos treinta y cinco mil<num><f>
+:>:setecientos treinta y cuatro<num><f>
+:>:setecientos treinta y cuatro mil<num><f>
+:>:setecientos treinta y dos<num><f>
+:>:setecientos treinta y dos mil<num><f>
+:>:setecientos treinta y nueve<num><f>
+:>:setecientos treinta y nueve mil<num><f>
+:>:setecientos treinta y ocho<num><f>
+:>:setecientos treinta y ocho mil<num><f>
+:>:setecientos treinta y seis<num><f>
+:>:setecientos treinta y seis mil<num><f>
+:>:setecientos treinta y siete<num><f>
+:>:setecientos treinta y siete mil<num><f>
+:>:setecientos treinta y tres<num><f>
+:>:setecientos treinta y tres mil<num><f>
+:>:setecientos veinte<num><f>
+:>:setecientos veinte mil<num><f>
+:>:setecientos veinticinco<num><f>
+:>:setecientos veinticinco mil<num><f>
+:>:setecientos veinticuatro<num><f>
+:>:setecientos veinticuatro mil<num><f>
+:>:setecientos veintidós<num><f>
+:>:setecientos veintidós mil<num><f>
+:>:setecientos veintinueve<num><f>
+:>:setecientos veintinueve mil<num><f>
+:>:setecientos veintiocho<num><f>
+:>:setecientos veintiocho mil<num><f>
+:>:setecientos veintiséis<num><f>
+:>:setecientos veintiséis mil<num><f>
+:>:setecientos veintisiete<num><f>
+:>:setecientos veintisiete mil<num><f>
+:>:setecientos veintitrés<num><f>
+:>:setecientos veintitrés mil<num><f>
+:>:setecientos cuatro<num><f>
+:>:setecientos cuatro mil<num><f>
+:>:setecientos diecinueve<num><f>
+:>:setecientos diecinueve mil<num><f>
+:>:setecientos dieciocho<num><f>
+:>:setecientos dieciocho mil<num><f>
+:>:setecientos diecisiete<num><f>
+:>:setecientos diecisiete mil<num><f>
+:>:setecientos dieciséis<num><f>
+:>:setecientos dieciséis mil<num><f>
+:>:setecientos diez<num><f>
+:>:setecientos diez mil<num><f>
+:>:setecientos dos<num><f>
+:>:setecientos dos mil<num><f>
+:>:setecientos catorce<num><m>
+:>:setecientos catorce mil<num><m>
+:>:setecientos quince<num><m>
+:>:setecientos quince mil<num><m>
+:>:setecientos trece<num><m>
+:>:setecientos trece mil<num><m>
+:>:setecientos doce<num><m>
+:>:setecientos doce mil<num><m>
+:>:setecientos once<num><m>
+:>:setecientos once mil<num><m>
+:>:setecientos cincuenta<num><m>
+:>:setecientos cincuenta mil<num><m>
+:>:setecientos cuatro<num><m>
+:>:setecientos cuatro mil<num><m>
+:>:setecientos diez<num><m>
+:>:setecientos diez mil<num><m>
+:>:setecientos dos<num><m>
+:>:setecientos dos mil<num><m>
+:>:setecientos nueve<num><m>
+:>:setecientos nueve mil<num><m>
+:>:setecientos ocho<num><m>
+:>:setecientos ocho mil<num><m>
+:>:setecientos seis<num><m>
+:>:setecientos seis mil<num><m>
+:>:setecientos siete<num><m>
+:>:setecientos siete mil<num><m>
+:>:setecientos tres<num><m>
+:>:setecientos tres mil<num><m>
+:>:setecientos cinco<num><m>
+:>:setecientos cinco mil<num><m>
+:>:setecientos cincuenta<num><m>
+:>:setecientos cincuenta mil<num><m>
+:>:setecientos noventa<num><m>
+:>:setecientos noventa mil<num><m>
+:>:setecientos noventa y cinco<num><m>
+:>:setecientos noventa y cinco mil<num><m>
+:>:setecientos noventa y cuatro<num><m>
+:>:setecientos noventa y cuatro mil<num><m>
+:>:setecientos noventa y dos<num><m>
+:>:setecientos noventa y dos mil<num><m>
+:>:setecientos noventa y nueve<num><m>
+:>:setecientos noventa y nueve mil<num><m>
+:>:setecientos noventa y ocho<num><m>
+:>:setecientos noventa y ocho mil<num><m>
+:>:setecientos noventa y seis<num><m>
+:>:setecientos noventa y seis mil<num><m>
+:>:setecientos noventa y siete<num><m>
+:>:setecientos noventa y siete mil<num><m>
+:>:setecientos noventa y tres<num><m>
+:>:setecientos noventa y tres mil<num><m>
+:>:setecientos ochenta<num><m>
+:>:setecientos ochenta mil<num><m>
+:>:setecientos ochenta y cinco<num><m>
+:>:setecientos ochenta y cinco mil<num><m>
+:>:setecientos ochenta y cuatro<num><m>
+:>:setecientos ochenta y cuatro mil<num><m>
+:>:setecientos ochenta y dos<num><m>
+:>:setecientos ochenta y dos mil<num><m>
+:>:setecientos ochenta y nueve<num><m>
+:>:setecientos ochenta y nueve mil<num><m>
+:>:setecientos ochenta y ocho<num><m>
+:>:setecientos ochenta y ocho mil<num><m>
+:>:setecientos ochenta y seis<num><m>
+:>:setecientos ochenta y seis mil<num><m>
+:>:setecientos ochenta y siete<num><m>
+:>:setecientos ochenta y siete mil<num><m>
+:>:setecientos ochenta y tres<num><m>
+:>:setecientos ochenta y tres mil<num><m>
+:>:setecientos setenta<num><m>
+:>:setecientos setenta mil<num><m>
+:>:setecientos setenta y cinco<num><m>
+:>:setecientos setenta y cinco mil<num><m>
+:>:setecientos setenta y cuatro<num><m>
+:>:setecientos setenta y cuatro mil<num><m>
+:>:setecientos setenta y dos<num><m>
+:>:setecientos setenta y dos mil<num><m>
+:>:setecientos setenta y nueve<num><m>
+:>:setecientos setenta y nueve mil<num><m>
+:>:setecientos setenta y ocho<num><m>
+:>:setecientos setenta y ocho mil<num><m>
+:>:setecientos setenta y seis<num><m>
+:>:setecientos setenta y seis mil<num><m>
+:>:setecientos setenta y siete<num><m>
+:>:setecientos setenta y siete mil<num><m>
+:>:setecientos setenta y tres<num><m>
+:>:setecientos setenta y tres mil<num><m>
+:>:setecientos sesenta<num><m>
+:>:setecientos sesenta mil<num><m>
+:>:setecientos sesenta y cinco<num><m>
+:>:setecientos sesenta y cinco mil<num><m>
+:>:setecientos sesenta y cuatro<num><m>
+:>:setecientos sesenta y cuatro mil<num><m>
+:>:setecientos sesenta y dos<num><m>
+:>:setecientos sesenta y dos mil<num><m>
+:>:setecientos sesenta y nueve<num><m>
+:>:setecientos sesenta y nueve mil<num><m>
+:>:setecientos sesenta y ocho<num><m>
+:>:setecientos sesenta y ocho mil<num><m>
+:>:setecientos sesenta y seis<num><m>
+:>:setecientos sesenta y seis mil<num><m>
+:>:setecientos sesenta y siete<num><m>
+:>:setecientos sesenta y siete mil<num><m>
+:>:setecientos sesenta y tres<num><m>
+:>:setecientos sesenta y tres mil<num><m>
+:>:setecientos cincuenta y cinco<num><m>
+:>:setecientos cincuenta y cinco mil<num><m>
+:>:setecientos cincuenta y cuatro<num><m>
+:>:setecientos cincuenta y cuatro mil<num><m>
+:>:setecientos cincuenta y dos<num><m>
+:>:setecientos cincuenta y dos mil<num><m>
+:>:setecientos cincuenta y nueve<num><m>
+:>:setecientos cincuenta y nueve mil<num><m>
+:>:setecientos cincuenta y ocho<num><m>
+:>:setecientos cincuenta y ocho mil<num><m>
+:>:setecientos cincuenta y seis<num><m>
+:>:setecientos cincuenta y seis mil<num><m>
+:>:setecientos cincuenta y siete<num><m>
+:>:setecientos cincuenta y siete mil<num><m>
+:>:setecientos cincuenta y tres<num><m>
+:>:setecientos cincuenta y tres mil<num><m>
+:>:setecientos cuarenta<num><m>
+:>:setecientos cuarenta mil<num><m>
+:>:setecientos cuarenta y cinco<num><m>
+:>:setecientos cuarenta y cinco mil<num><m>
+:>:setecientos cuarenta y cuatro<num><m>
+:>:setecientos cuarenta y cuatro mil<num><m>
+:>:setecientos cuarenta y dos<num><m>
+:>:setecientos cuarenta y dos mil<num><m>
+:>:setecientos cuarenta y nueve<num><m>
+:>:setecientos cuarenta y nueve mil<num><m>
+:>:setecientos cuarenta y ocho<num><m>
+:>:setecientos cuarenta y ocho mil<num><m>
+:>:setecientos cuarenta y seis<num><m>
+:>:setecientos cuarenta y seis mil<num><m>
+:>:setecientos cuarenta y siete<num><m>
+:>:setecientos cuarenta y siete mil<num><m>
+:>:setecientos cuarenta y tres<num><m>
+:>:setecientos cuarenta y tres mil<num><m>
+:>:setecientos treinta<num><m>
+:>:setecientos treinta mil<num><m>
+:>:setecientos treinta y cinco<num><m>
+:>:setecientos treinta y cinco mil<num><m>
+:>:setecientos treinta y cuatro<num><m>
+:>:setecientos treinta y cuatro mil<num><m>
+:>:setecientos treinta y dos<num><m>
+:>:setecientos treinta y dos mil<num><m>
+:>:setecientos treinta y nueve<num><m>
+:>:setecientos treinta y nueve mil<num><m>
+:>:setecientos treinta y ocho<num><m>
+:>:setecientos treinta y ocho mil<num><m>
+:>:setecientos treinta y seis<num><m>
+:>:setecientos treinta y seis mil<num><m>
+:>:setecientos treinta y siete<num><m>
+:>:setecientos treinta y siete mil<num><m>
+:>:setecientos treinta y tres<num><m>
+:>:setecientos treinta y tres mil<num><m>
+:>:setecientos veinte<num><m>
+:>:setecientos veinte mil<num><m>
+:>:setecientos veinticinco<num><m>
+:>:setecientos veinticinco mil<num><m>
+:>:setecientos veinticuatro<num><m>
+:>:setecientos veinticuatro mil<num><m>
+:>:setecientos veintidós<num><m>
+:>:setecientos veintidós mil<num><m>
+:>:setecientos veintinueve<num><m>
+:>:setecientos veintinueve mil<num><m>
+:>:setecientos veintiocho<num><m>
+:>:setecientos veintiocho mil<num><m>
+:>:setecientos veintiséis<num><m>
+:>:setecientos veintiséis mil<num><m>
+:>:setecientos veintisiete<num><m>
+:>:setecientos veintisiete mil<num><m>
+:>:setecientos veintitrés<num><m>
+:>:setecientos veintitrés mil<num><m>
+:>:setecientos cuatro<num><m>
+:>:setecientos cuatro mil<num><m>
+:>:setecientos diecinueve<num><m>
+:>:setecientos diecinueve mil<num><m>
+:>:setecientos dieciocho<num><m>
+:>:setecientos dieciocho mil<num><m>
+:>:setecientos diecisiete<num><m>
+:>:setecientos diecisiete mil<num><m>
+:>:setecientos dieciséis<num><m>
+:>:setecientos dieciséis mil<num><m>
+:>:setecientos diez<num><m>
+:>:setecientos diez mil<num><m>
+:>:setecientos dos<num><m>
+:>:setecientos dos mil<num><m>
+:>:setecientos mil<num><f>
+:>:setecientos mil<num><m>
+:>:setecientos noventa y uno<det><ind><m>
+:>:setecientos noventa y uno<det><ind><f>
+:>:setecientos noventa y uno mil<num><m>
+:>:setecientos noventa y uno mil<num><f>
+:>:setecientos noventa y uno mil<det><ind><m>
+:>:setecientos noventa y uno mil<det><ind><f>
+:>:setecientos ochenta y uno<det><ind><m>
+:>:setecientos ochenta y uno<det><ind><f>
+:>:setecientos ochenta y uno mil<num><m>
+:>:setecientos ochenta y uno mil<num><f>
+:>:setecientos ochenta y uno mil<det><ind><m>
+:>:setecientos ochenta y uno mil<det><ind><f>
+:>:setecientos setenta y uno<det><ind><m>
+:>:setecientos setenta y uno<det><ind><f>
+:>:setecientos setenta y uno mil<num><m>
+:>:setecientos setenta y uno mil<num><f>
+:>:setecientos setenta y uno mil<det><ind><m>
+:>:setecientos setenta y uno mil<det><ind><f>
+:>:setecientos sesenta y uno<det><ind><m>
+:>:setecientos sesenta y uno<det><ind><f>
+:>:setecientos sesenta y uno mil<num><m>
+:>:setecientos sesenta y uno mil<num><f>
+:>:setecientos sesenta y uno mil<det><ind><m>
+:>:setecientos sesenta y uno mil<det><ind><f>
+:>:setecientos cincuenta y uno<det><ind><m>
+:>:setecientos cincuenta y uno<det><ind><f>
+:>:setecientos cincuenta y uno mil<num><m>
+:>:setecientos cincuenta y uno mil<num><f>
+:>:setecientos cincuenta y uno mil<det><ind><m>
+:>:setecientos cincuenta y uno mil<det><ind><f>
+:>:setecientos cuarenta y uno<det><ind><m>
+:>:setecientos cuarenta y uno<det><ind><f>
+:>:setecientos cuarenta y uno mil<num><m>
+:>:setecientos cuarenta y uno mil<num><f>
+:>:setecientos cuarenta y uno mil<det><ind><m>
+:>:setecientos cuarenta y uno mil<det><ind><f>
+:>:setecientos treinta y uno<det><ind><m>
+:>:setecientos treinta y uno<det><ind><f>
+:>:setecientos treinta y uno mil<num><m>
+:>:setecientos treinta y uno mil<num><f>
+:>:setecientos treinta y uno mil<det><ind><m>
+:>:setecientos treinta y uno mil<det><ind><f>
+:>:setecientos veintiuno<det><ind><m>
+:>:setecientos veintiuno<det><ind><f>
+:>:setecientos veintiuno mil<num><m>
+:>:setecientos veintiuno mil<num><f>
+:>:setecientos veintiuno mil<det><ind><m>
+:>:setecientos veintiuno mil<det><ind><f>
+:trescientos uno<num>
+:trescientos noventa y uno<num>
+:trescientos noventa y uno<det><def>
+:trescientos ochenta y uno<num>
+:trescientos ochenta y uno<det><def>
+:trescientos setenta y uno<num>
+:trescientos setenta y uno<det><def>
+:trescientos sesenta y uno<num>
+:trescientos sesenta y uno<det><def>
+:trescientos cincuenta y uno<num>
+:trescientos cincuenta y uno<det><def>
+:trescientos cuarenta y uno<num>
+:trescientos cuarenta y uno<det><def>
+:trescientos treinta y uno<num>
+:trescientos treinta y uno<det><def>
+:trescientos veintiuno<num>
+:trescientos veintiuno<det><def>
+:>:trescientos catorce<num><f>
+:>:trescientos catorce mil<num><f>
+:>:trescientos quince<num><f>
+:>:trescientos quince mil<num><f>
+:>:trescientos trece<num><f>
+:>:trescientos trece mil<num><f>
+:>:trescientos doce<num><f>
+:>:trescientos doce mil<num><f>
+:>:trescientos once<num><f>
+:>:trescientos once mil<num><f>
+:>:trescientos cincuenta<num><f>
+:>:trescientos cincuenta mil<num><f>
+:>:trescientos cuatro<num><f>
+:>:trescientos cuatro mil<num><f>
+:>:trescientos diez<num><f>
+:>:trescientos diez mil<num><f>
+:>:trescientos dos<num><f>
+:>:trescientos dos mil<num><f>
+:>:trescientos nueve<num><f>
+:>:trescientos nueve mil<num><f>
+:>:trescientos ocho<num><f>
+:>:trescientos ocho mil<num><f>
+:>:trescientos seis<num><f>
+:>:trescientos seis mil<num><f>
+:>:trescientos siete<num><f>
+:>:trescientos siete mil<num><f>
+:>:trescientos tres<num><f>
+:>:trescientos tres mil<num><f>
+:>:trescientos cinco<num><f>
+:>:trescientos cinco mil<num><f>
+:>:trescientos cincuenta<num><f>
+:>:trescientos cincuenta mil<num><f>
+:>:trescientos noventa<num><f>
+:>:trescientos noventa mil<num><f>
+:>:trescientos noventa y cinco<num><f>
+:>:trescientos noventa y cinco mil<num><f>
+:>:trescientos noventa y cuatro<num><f>
+:>:trescientos noventa y cuatro mil<num><f>
+:>:trescientos noventa y dos<num><f>
+:>:trescientos noventa y dos mil<num><f>
+:>:trescientos noventa y nueve<num><f>
+:>:trescientos noventa y nueve mil<num><f>
+:>:trescientos noventa y ocho<num><f>
+:>:trescientos noventa y ocho mil<num><f>
+:>:trescientos noventa y seis<num><f>
+:>:trescientos noventa y seis mil<num><f>
+:>:trescientos noventa y siete<num><f>
+:>:trescientos noventa y siete mil<num><f>
+:>:trescientos noventa y tres<num><f>
+:>:trescientos noventa y tres mil<num><f>
+:>:trescientos ochenta<num><f>
+:>:trescientos ochenta mil<num><f>
+:>:trescientos ochenta y cinco<num><f>
+:>:trescientos ochenta y cinco mil<num><f>
+:>:trescientos ochenta y cuatro<num><f>
+:>:trescientos ochenta y cuatro mil<num><f>
+:>:trescientos ochenta y dos<num><f>
+:>:trescientos ochenta y dos mil<num><f>
+:>:trescientos ochenta y nueve<num><f>
+:>:trescientos ochenta y nueve mil<num><f>
+:>:trescientos ochenta y ocho<num><f>
+:>:trescientos ochenta y ocho mil<num><f>
+:>:trescientos ochenta y seis<num><f>
+:>:trescientos ochenta y seis mil<num><f>
+:>:trescientos ochenta y siete<num><f>
+:>:trescientos ochenta y siete mil<num><f>
+:>:trescientos ochenta y tres<num><f>
+:>:trescientos ochenta y tres mil<num><f>
+:>:trescientos setenta<num><f>
+:>:trescientos setenta mil<num><f>
+:>:trescientos setenta y cinco<num><f>
+:>:trescientos setenta y cinco mil<num><f>
+:>:trescientos setenta y cuatro<num><f>
+:>:trescientos setenta y cuatro mil<num><f>
+:>:trescientos setenta y dos<num><f>
+:>:trescientos setenta y dos mil<num><f>
+:>:trescientos setenta y nueve<num><f>
+:>:trescientos setenta y nueve mil<num><f>
+:>:trescientos setenta y ocho<num><f>
+:>:trescientos setenta y ocho mil<num><f>
+:>:trescientos setenta y seis<num><f>
+:>:trescientos setenta y seis mil<num><f>
+:>:trescientos setenta y siete<num><f>
+:>:trescientos setenta y siete mil<num><f>
+:>:trescientos setenta y tres<num><f>
+:>:trescientos setenta y tres mil<num><f>
+:>:trescientos sesenta<num><f>
+:>:trescientos sesenta mil<num><f>
+:>:trescientos sesenta y cinco<num><f>
+:>:trescientos sesenta y cinco mil<num><f>
+:>:trescientos sesenta y cuatro<num><f>
+:>:trescientos sesenta y cuatro mil<num><f>
+:>:trescientos sesenta y dos<num><f>
+:>:trescientos sesenta y dos mil<num><f>
+:>:trescientos sesenta y nueve<num><f>
+:>:trescientos sesenta y nueve mil<num><f>
+:>:trescientos sesenta y ocho<num><f>
+:>:trescientos sesenta y ocho mil<num><f>
+:>:trescientos sesenta y seis<num><f>
+:>:trescientos sesenta y seis mil<num><f>
+:>:trescientos sesenta y siete<num><f>
+:>:trescientos sesenta y siete mil<num><f>
+:>:trescientos sesenta y tres<num><f>
+:>:trescientos sesenta y tres mil<num><f>
+:>:trescientos cincuenta y cinco<num><f>
+:>:trescientos cincuenta y cinco mil<num><f>
+:>:trescientos cincuenta y cuatro<num><f>
+:>:trescientos cincuenta y cuatro mil<num><f>
+:>:trescientos cincuenta y dos<num><f>
+:>:trescientos cincuenta y dos mil<num><f>
+:>:trescientos cincuenta y nueve<num><f>
+:>:trescientos cincuenta y nueve mil<num><f>
+:>:trescientos cincuenta y ocho<num><f>
+:>:trescientos cincuenta y ocho mil<num><f>
+:>:trescientos cincuenta y seis<num><f>
+:>:trescientos cincuenta y seis mil<num><f>
+:>:trescientos cincuenta y siete<num><f>
+:>:trescientos cincuenta y siete mil<num><f>
+:>:trescientos cincuenta y tres<num><f>
+:>:trescientos cincuenta y tres mil<num><f>
+:>:trescientos cuarenta<num><f>
+:>:trescientos cuarenta mil<num><f>
+:>:trescientos cuarenta y cinco<num><f>
+:>:trescientos cuarenta y cinco mil<num><f>
+:>:trescientos cuarenta y cuatro<num><f>
+:>:trescientos cuarenta y cuatro mil<num><f>
+:>:trescientos cuarenta y dos<num><f>
+:>:trescientos cuarenta y dos mil<num><f>
+:>:trescientos cuarenta y nueve<num><f>
+:>:trescientos cuarenta y nueve mil<num><f>
+:>:trescientos cuarenta y ocho<num><f>
+:>:trescientos cuarenta y ocho mil<num><f>
+:>:trescientos cuarenta y seis<num><f>
+:>:trescientos cuarenta y seis mil<num><f>
+:>:trescientos cuarenta y siete<num><f>
+:>:trescientos cuarenta y siete mil<num><f>
+:>:trescientos cuarenta y tres<num><f>
+:>:trescientos cuarenta y tres mil<num><f>
+:>:trescientos treinta<num><f>
+:>:trescientos treinta mil<num><f>
+:>:trescientos treinta y cinco<num><f>
+:>:trescientos treinta y cinco mil<num><f>
+:>:trescientos treinta y cuatro<num><f>
+:>:trescientos treinta y cuatro mil<num><f>
+:>:trescientos treinta y dos<num><f>
+:>:trescientos treinta y dos mil<num><f>
+:>:trescientos treinta y nueve<num><f>
+:>:trescientos treinta y nueve mil<num><f>
+:>:trescientos treinta y ocho<num><f>
+:>:trescientos treinta y ocho mil<num><f>
+:>:trescientos treinta y seis<num><f>
+:>:trescientos treinta y seis mil<num><f>
+:>:trescientos treinta y siete<num><f>
+:>:trescientos treinta y siete mil<num><f>
+:>:trescientos treinta y tres<num><f>
+:>:trescientos treinta y tres mil<num><f>
+:>:trescientos veinte<num><f>
+:>:trescientos veinte mil<num><f>
+:>:trescientos veinticinco<num><f>
+:>:trescientos veinticinco mil<num><f>
+:>:trescientos veinticuatro<num><f>
+:>:trescientos veinticuatro mil<num><f>
+:>:trescientos veintidós<num><f>
+:>:trescientos veintidós mil<num><f>
+:>:trescientos veintinueve<num><f>
+:>:trescientos veintinueve mil<num><f>
+:>:trescientos veintiocho<num><f>
+:>:trescientos veintiocho mil<num><f>
+:>:trescientos veintiséis<num><f>
+:>:trescientos veintiséis mil<num><f>
+:>:trescientos veintisiete<num><f>
+:>:trescientos veintisiete mil<num><f>
+:>:trescientos veintitrés<num><f>
+:>:trescientos veintitrés mil<num><f>
+:>:trescientos cuatro<num><f>
+:>:trescientos cuatro mil<num><f>
+:>:trescientos diecinueve<num><f>
+:>:trescientos diecinueve mil<num><f>
+:>:trescientos dieciocho<num><f>
+:>:trescientos dieciocho mil<num><f>
+:>:trescientos diecisiete<num><f>
+:>:trescientos diecisiete mil<num><f>
+:>:trescientos dieciséis<num><f>
+:>:trescientos dieciséis mil<num><f>
+:>:trescientos diez<num><f>
+:>:trescientos diez mil<num><f>
+:>:trescientos dos<num><f>
+:>:trescientos dos mil<num><f>
+:>:trescientos catorce<num><m>
+:>:trescientos catorce mil<num><m>
+:>:trescientos quince<num><m>
+:>:trescientos quince mil<num><m>
+:>:trescientos trece<num><m>
+:>:trescientos trece mil<num><m>
+:>:trescientos doce<num><m>
+:>:trescientos doce mil<num><m>
+:>:trescientos once<num><m>
+:>:trescientos once mil<num><m>
+:>:trescientos cincuenta<num><m>
+:>:trescientos cincuenta mil<num><m>
+:>:trescientos cuatro<num><m>
+:>:trescientos cuatro mil<num><m>
+:>:trescientos diez<num><m>
+:>:trescientos diez mil<num><m>
+:>:trescientos dos<num><m>
+:>:trescientos dos mil<num><m>
+:>:trescientos nueve<num><m>
+:>:trescientos nueve mil<num><m>
+:>:trescientos ocho<num><m>
+:>:trescientos ocho mil<num><m>
+:>:trescientos seis<num><m>
+:>:trescientos seis mil<num><m>
+:>:trescientos siete<num><m>
+:>:trescientos siete mil<num><m>
+:>:trescientos tres<num><m>
+:>:trescientos tres mil<num><m>
+:>:trescientos cinco<num><m>
+:>:trescientos cinco mil<num><m>
+:>:trescientos cincuenta<num><m>
+:>:trescientos cincuenta mil<num><m>
+:>:trescientos noventa<num><m>
+:>:trescientos noventa mil<num><m>
+:>:trescientos noventa y cinco<num><m>
+:>:trescientos noventa y cinco mil<num><m>
+:>:trescientos noventa y cuatro<num><m>
+:>:trescientos noventa y cuatro mil<num><m>
+:>:trescientos noventa y dos<num><m>
+:>:trescientos noventa y dos mil<num><m>
+:>:trescientos noventa y nueve<num><m>
+:>:trescientos noventa y nueve mil<num><m>
+:>:trescientos noventa y ocho<num><m>
+:>:trescientos noventa y ocho mil<num><m>
+:>:trescientos noventa y seis<num><m>
+:>:trescientos noventa y seis mil<num><m>
+:>:trescientos noventa y siete<num><m>
+:>:trescientos noventa y siete mil<num><m>
+:>:trescientos noventa y tres<num><m>
+:>:trescientos noventa y tres mil<num><m>
+:>:trescientos ochenta<num><m>
+:>:trescientos ochenta mil<num><m>
+:>:trescientos ochenta y cinco<num><m>
+:>:trescientos ochenta y cinco mil<num><m>
+:>:trescientos ochenta y cuatro<num><m>
+:>:trescientos ochenta y cuatro mil<num><m>
+:>:trescientos ochenta y dos<num><m>
+:>:trescientos ochenta y dos mil<num><m>
+:>:trescientos ochenta y nueve<num><m>
+:>:trescientos ochenta y nueve mil<num><m>
+:>:trescientos ochenta y ocho<num><m>
+:>:trescientos ochenta y ocho mil<num><m>
+:>:trescientos ochenta y seis<num><m>
+:>:trescientos ochenta y seis mil<num><m>
+:>:trescientos ochenta y siete<num><m>
+:>:trescientos ochenta y siete mil<num><m>
+:>:trescientos ochenta y tres<num><m>
+:>:trescientos ochenta y tres mil<num><m>
+:>:trescientos setenta<num><m>
+:>:trescientos setenta mil<num><m>
+:>:trescientos setenta y cinco<num><m>
+:>:trescientos setenta y cinco mil<num><m>
+:>:trescientos setenta y cuatro<num><m>
+:>:trescientos setenta y cuatro mil<num><m>
+:>:trescientos setenta y dos<num><m>
+:>:trescientos setenta y dos mil<num><m>
+:>:trescientos setenta y nueve<num><m>
+:>:trescientos setenta y nueve mil<num><m>
+:>:trescientos setenta y ocho<num><m>
+:>:trescientos setenta y ocho mil<num><m>
+:>:trescientos setenta y seis<num><m>
+:>:trescientos setenta y seis mil<num><m>
+:>:trescientos setenta y siete<num><m>
+:>:trescientos setenta y siete mil<num><m>
+:>:trescientos setenta y tres<num><m>
+:>:trescientos setenta y tres mil<num><m>
+:>:trescientos sesenta<num><m>
+:>:trescientos sesenta mil<num><m>
+:>:trescientos sesenta y cinco<num><m>
+:>:trescientos sesenta y cinco mil<num><m>
+:>:trescientos sesenta y cuatro<num><m>
+:>:trescientos sesenta y cuatro mil<num><m>
+:>:trescientos sesenta y dos<num><m>
+:>:trescientos sesenta y dos mil<num><m>
+:>:trescientos sesenta y nueve<num><m>
+:>:trescientos sesenta y nueve mil<num><m>
+:>:trescientos sesenta y ocho<num><m>
+:>:trescientos sesenta y ocho mil<num><m>
+:>:trescientos sesenta y seis<num><m>
+:>:trescientos sesenta y seis mil<num><m>
+:>:trescientos sesenta y siete<num><m>
+:>:trescientos sesenta y siete mil<num><m>
+:>:trescientos sesenta y tres<num><m>
+:>:trescientos sesenta y tres mil<num><m>
+:>:trescientos cincuenta y cinco<num><m>
+:>:trescientos cincuenta y cinco mil<num><m>
+:>:trescientos cincuenta y cuatro<num><m>
+:>:trescientos cincuenta y cuatro mil<num><m>
+:>:trescientos cincuenta y dos<num><m>
+:>:trescientos cincuenta y dos mil<num><m>
+:>:trescientos cincuenta y nueve<num><m>
+:>:trescientos cincuenta y nueve mil<num><m>
+:>:trescientos cincuenta y ocho<num><m>
+:>:trescientos cincuenta y ocho mil<num><m>
+:>:trescientos cincuenta y seis<num><m>
+:>:trescientos cincuenta y seis mil<num><m>
+:>:trescientos cincuenta y siete<num><m>
+:>:trescientos cincuenta y siete mil<num><m>
+:>:trescientos cincuenta y tres<num><m>
+:>:trescientos cincuenta y tres mil<num><m>
+:>:trescientos cuarenta<num><m>
+:>:trescientos cuarenta mil<num><m>
+:>:trescientos cuarenta y cinco<num><m>
+:>:trescientos cuarenta y cinco mil<num><m>
+:>:trescientos cuarenta y cuatro<num><m>
+:>:trescientos cuarenta y cuatro mil<num><m>
+:>:trescientos cuarenta y dos<num><m>
+:>:trescientos cuarenta y dos mil<num><m>
+:>:trescientos cuarenta y nueve<num><m>
+:>:trescientos cuarenta y nueve mil<num><m>
+:>:trescientos cuarenta y ocho<num><m>
+:>:trescientos cuarenta y ocho mil<num><m>
+:>:trescientos cuarenta y seis<num><m>
+:>:trescientos cuarenta y seis mil<num><m>
+:>:trescientos cuarenta y siete<num><m>
+:>:trescientos cuarenta y siete mil<num><m>
+:>:trescientos cuarenta y tres<num><m>
+:>:trescientos cuarenta y tres mil<num><m>
+:>:trescientos treinta<num><m>
+:>:trescientos treinta mil<num><m>
+:>:trescientos treinta y cinco<num><m>
+:>:trescientos treinta y cinco mil<num><m>
+:>:trescientos treinta y cuatro<num><m>
+:>:trescientos treinta y cuatro mil<num><m>
+:>:trescientos treinta y dos<num><m>
+:>:trescientos treinta y dos mil<num><m>
+:>:trescientos treinta y nueve<num><m>
+:>:trescientos treinta y nueve mil<num><m>
+:>:trescientos treinta y ocho<num><m>
+:>:trescientos treinta y ocho mil<num><m>
+:>:trescientos treinta y seis<num><m>
+:>:trescientos treinta y seis mil<num><m>
+:>:trescientos treinta y siete<num><m>
+:>:trescientos treinta y siete mil<num><m>
+:>:trescientos treinta y tres<num><m>
+:>:trescientos treinta y tres mil<num><m>
+:>:trescientos veinte<num><m>
+:>:trescientos veinte mil<num><m>
+:>:trescientos veinticinco<num><m>
+:>:trescientos veinticinco mil<num><m>
+:>:trescientos veinticuatro<num><m>
+:>:trescientos veinticuatro mil<num><m>
+:>:trescientos veintidós<num><m>
+:>:trescientos veintidós mil<num><m>
+:>:trescientos veintinueve<num><m>
+:>:trescientos veintinueve mil<num><m>
+:>:trescientos veintiocho<num><m>
+:>:trescientos veintiocho mil<num><m>
+:>:trescientos veintiséis<num><m>
+:>:trescientos veintiséis mil<num><m>
+:>:trescientos veintisiete<num><m>
+:>:trescientos veintisiete mil<num><m>
+:>:trescientos veintitrés<num><m>
+:>:trescientos veintitrés mil<num><m>
+:>:trescientos cuatro<num><m>
+:>:trescientos cuatro mil<num><m>
+:>:trescientos diecinueve<num><m>
+:>:trescientos diecinueve mil<num><m>
+:>:trescientos dieciocho<num><m>
+:>:trescientos dieciocho mil<num><m>
+:>:trescientos diecisiete<num><m>
+:>:trescientos diecisiete mil<num><m>
+:>:trescientos dieciséis<num><m>
+:>:trescientos dieciséis mil<num><m>
+:>:trescientos diez<num><m>
+:>:trescientos diez mil<num><m>
+:>:trescientos dos<num><m>
+:>:trescientos dos mil<num><m>
+:>:trescientos mil<num><f>
+:>:trescientos mil<num><m>
+:>:trescientos noventa y uno<det><ind><m>
+:>:trescientos noventa y uno<det><ind><f>
+:>:trescientos noventa y uno mil<num><m>
+:>:trescientos noventa y uno mil<num><f>
+:>:trescientos noventa y uno mil<det><ind><m>
+:>:trescientos noventa y uno mil<det><ind><f>
+:>:trescientos ochenta y uno<det><ind><m>
+:>:trescientos ochenta y uno<det><ind><f>
+:>:trescientos ochenta y uno mil<num><m>
+:>:trescientos ochenta y uno mil<num><f>
+:>:trescientos ochenta y uno mil<det><ind><m>
+:>:trescientos ochenta y uno mil<det><ind><f>
+:>:trescientos setenta y uno<det><ind><m>
+:>:trescientos setenta y uno<det><ind><f>
+:>:trescientos setenta y uno mil<num><m>
+:>:trescientos setenta y uno mil<num><f>
+:>:trescientos setenta y uno mil<det><ind><m>
+:>:trescientos setenta y uno mil<det><ind><f>
+:>:trescientos sesenta y uno<det><ind><m>
+:>:trescientos sesenta y uno<det><ind><f>
+:>:trescientos sesenta y uno mil<num><m>
+:>:trescientos sesenta y uno mil<num><f>
+:>:trescientos sesenta y uno mil<det><ind><m>
+:>:trescientos sesenta y uno mil<det><ind><f>
+:>:trescientos cincuenta y uno<det><ind><m>
+:>:trescientos cincuenta y uno<det><ind><f>
+:>:trescientos cincuenta y uno mil<num><m>
+:>:trescientos cincuenta y uno mil<num><f>
+:>:trescientos cincuenta y uno mil<det><ind><m>
+:>:trescientos cincuenta y uno mil<det><ind><f>
+:>:trescientos cuarenta y uno<det><ind><m>
+:>:trescientos cuarenta y uno<det><ind><f>
+:>:trescientos cuarenta y uno mil<num><m>
+:>:trescientos cuarenta y uno mil<num><f>
+:>:trescientos cuarenta y uno mil<det><ind><m>
+:>:trescientos cuarenta y uno mil<det><ind><f>
+:>:trescientos treinta y uno<det><ind><m>
+:>:trescientos treinta y uno<det><ind><f>
+:>:trescientos treinta y uno mil<num><m>
+:>:trescientos treinta y uno mil<num><f>
+:>:trescientos treinta y uno mil<det><ind><m>
+:>:trescientos treinta y uno mil<det><ind><f>
+:>:trescientos veintiuno<det><ind><m>
+:>:trescientos veintiuno<det><ind><f>
+:>:trescientos veintiuno mil<num><m>
+:>:trescientos veintiuno mil<num><f>
+:>:trescientos veintiuno mil<det><ind><m>
+:>:trescientos veintiuno mil<det><ind><f>
+:>:cincuenta y uno<det><ind><m>
+:>:cincuenta y uno<det><ind><f>
+:>:cincuenta y uno mil<num><m>
+:>:cincuenta y uno mil<num><f>
+:>:cincuenta y uno mil<det><ind><m>
+:>:cincuenta y uno mil<det><ind><f>
+:>:cuarenta y uno<det><ind><m>
+:>:cuarenta y uno<det><ind><f>
+:>:cuarenta y uno mil<num><m>
+:>:cuarenta y uno mil<num><f>
+:>:cuarenta y uno mil<det><ind><m>
+:>:cuarenta y uno mil<det><ind><f>
+:>:noventa y uno<det><ind><m>
+:>:noventa y uno<det><ind><f>
+:>:noventa y uno mil<num><m>
+:>:noventa y uno mil<num><f>
+:>:noventa y uno mil<det><ind><m>
+:>:noventa y uno mil<det><ind><f>
+:>:ochenta y uno<det><ind><m>
+:>:ochenta y uno<det><ind><f>
+:>:ochenta y uno mil<num><m>
+:>:ochenta y uno mil<num><f>
+:>:ochenta y uno mil<det><ind><m>
+:>:ochenta y uno mil<det><ind><f>
+:>:sesenta y uno<det><ind><m>
+:>:sesenta y uno<det><ind><f>
+:>:sesenta y uno mil<num><m>
+:>:sesenta y uno mil<num><f>
+:>:sesenta y uno mil<det><ind><m>
+:>:sesenta y uno mil<det><ind><f>
+:>:setenta y uno<det><ind><m>
+:>:setenta y uno<det><ind><f>
+:>:setenta y uno mil<num><m>
+:>:setenta y uno mil<num><f>
+:>:setenta y uno mil<det><ind><m>
+:>:setenta y uno mil<det><ind><f>
+:>:treinta y uno<det><ind><m>
+:>:treinta y uno<det><ind><f>
+:>:treinta y uno mil<num><m>
+:>:treinta y uno mil<num><f>
+:>:treinta y uno mil<det><ind><m>
+:>:treinta y uno mil<det><ind><f>
+:>:veintiuno<det><ind><m>
+:>:veintiuno<det><ind><f>
+:>:veintiuno mil<det><ind><m>
+:>:veintiuno mil<det><ind><f>
+:Amazonia<adj>
+:Indus<adj>
+:>:Kurdo<adj>
+:LED<adj>
+:acercado<adj>
+:al revés<adj>
+:bajo tierra<adj>
+:>:alienígena<adj><mf>
+:>:alienígena<adj><mf>
+:alimentaria<adj>
+:alocada<adj><sg>
+:asentado<adj>
+:aterrado<adj>
+:>:automotriz<adj><mf>
+:biónica<adj>
+:>:bondadoso<adj><GD>
+:ciberdelincuente<adj>
+:conectado<adj>
+:costera<adj>
+:>:de acciones<adj><mf><sp>
+:>:de la deuda<adj><mf><ND>
+:de las pensiones<adj>
+:de lluvia<adj>
+:de renta fija<adj>
+:>:delantera<adj>
+:despertado<adj>
+:ejecutado<adj>
+:emocionado<adj>
+:>:encubierto<adj>
+:energética<adj>
+:escolastico<adj>
+:especulativa<adj>
+:excavar<adj>
+:expansiva<adj>
+:>:gobernante<adj><m>
+:>:gobernante<adj><f>
+:golpeado<adj>
+:guardado<adj>
+:implantado<adj>
+:inclusiva<adj>
+:interconectado<adj>
+:>:interminable<adj><sg>
+:>:interminable<adj><pl>
+:involucrado<adj>
+:lesbiana<adj>
+:liberado<adj>
+:luchado<adj>
+:>:macro<adj><sg>
+:>:madre<adj><sp>
+:masiva<adj>
+:mediana<adj>
+:melífera<adj>
+:microbiana<adj>
+:migratoria<adj>
+:migratoria<adj>
+:mucho<adj><ind>
+:mudado<adj>
+:pesquera<adj>
+:prisa<adj>
+:>:púrpura<adj><sg>
+:>:púrpura<adj><pl>
+:>:seductor<adj><mf>
+:>:sexy<adj><sg>
+:>:sexy<adj><pl>
+:>:soltero<adj><m><ND>
+:soviética<adj>
+:>:ultra<adj><mf><sg>
+:>:ultra<adj><mf><pl>
+:>:veinteañero<adj><GD>
+:>:vinculado<adj>
+:AB<n>
+:AIMS<n>
+:AK<n>
+:AO<n>
+:AO<n>
+:AV<n>
+:Argelia<n>
+:BF<n>
+:BF<n>
+:BG<n>
+:BJ<n>
+:Bin<n>
+:CEO<n>
+:CERN<n>
+:CO<n>
+:CR<n>
+:CR<n>
+:CRISPR<n>
+:CT<n>
+:Center<n>
+:DARPA<n>
+:DEG<n>
+:DH<n>
+:EDI<n>
+:EDI<n>
+:EE<n>
+:EFSF<n>
+:EM<n>
+:FDA<n>
+:FG<n>
+:Facebook<n>
+:Flickr<np><al>
+:GG<n>
+:Gary<n>
+:HG<n>
+:HP<n>
+:IA<n>
+:IBM<n>
+:International<n>
+:JC<n>
+:JF<n>
+:JH<n>
+:JS<n>
+:KA<n>
+:KB<n>
+:LGBT<n>
+:MG<n>
+:MGF<n>
+:MK<n>
+:Mola<n>
+:NSA<n>
+:O.S.S<n>
+:ODM<n>
+:OK<n>
+:ONG<n>
+:PH<n>
+:Palestina<n>
+:Parkinson<n>
+:Princeton<n>
+:RG<n>
+:RISD<n>
+:SB<n>
+:SDG<n>
+:SSCN<n>
+:SW<n>
+:Salomón<n>
+:School<n>
+:Senegal<n>
+:Siberia<n>
+:Somalia<n>
+:TAC<n>
+:TTIP<n>
+:Tesoro<n>
+:VPO<n><sp>
+:XXI<n>
+:>:accidente cerebrovascular<n>
+:>:albatros<n><m><sg>
+:>:albatros<n><m><pl>
+:>:albatros<n><f><sg>
+:>:albatros<n><f><pl>
+:alguien<n>
+:alquimista<adj><mf>
+:anatema<n><f>
+:>:ancestro<n><mf>
+:>:antípodas<n><f><sp>
+:>:antípodas<n><f><sp>
+:anárquico<n>
+:>:asociación<n><sg>
+:>:asociación<n><pl>
+:asombrado<n>
+:atado<n>
+:bailarín<adj>
+:>:barrio pobre<n><m><sg>
+:>:barrio pobre<n><m><pl>
+:>:cerámica<n><m>
+:>:bienestar<n><m><ND>
+:bio<n>
+:>:blogger<n><m><sg>
+:>:blogger<n><m><pl>
+:>:blogger<n><f><sg>
+:>:blogger<n><f><pl>
+:centenar<num><mf><sp>
+:centenar<num><mf><pl>
+:cgt<n>
+:>:chimpancé<n><mf><sg>
+:>:chimpancé<n><mf><pl>
+:>:ciencia informática<n>
+:cientos<n><m><pl>
+:circunsición<n>
+:>:click<n><sg>
+:>:click<n><pl>
+:>:clip<n><sg>
+:>:clip<n><pl>
+:>:clímax<n><sp>
+:colono<n><mf>
+:contante<n><m><sg>
+:>:corporación<n><sg>
+:>:corporación<n><pl>
+:>:correo electrónico<n><m>
+:>:cosmos<n><sp>
+:cosmética<n>
+:cosquilla<n><f>
+:>:cuenta<n><sg>
+:>:cuenta<n><pl>
+:>:cuestionario<n><sg>
+:>:cuestionario<n><pl>
+:currículo<n>
+:cuán<n>
+:cv<n>
+:cánnabis<n><mf><sp>
+:da<n>
+:decir<n>
+:>:deficiencia<n><f><ND>
+:del<n>
+:>:demostración<n><sg>
+:>:demostración<n><pl>
+:>:demócrata<n><GD>
+:>:destello<n><sg>
+:>:destello<n><pl>
+:>:diagrama<n><sg>
+:>:diagrama<n><pl>
+:Dirección General<n>
+:>:irector# de cine<n><mf>
+:>:irector# de cine<n><mf>
+:>:irector# de cine<n><mf>
+:dirigentes<n><mf><pl>
+:disfrutar<n>
+:>:dorsal<adj><m><sg>
+:>:dorsal<adj><m><pl>
+:dosis<n><sp>
+:dosis<n><sp>
+:eBay<n>
+:eBay<n>
+:emt<n>
+:en efectivo<n>
+:en línea<n>
+:en escena<n>
+:>:esclavitud<n><sg>
+:>:esclavitud<n><pl>
+:escombro<n><m><ND>
+:>:escuela secundaria<n><f>
+:esta noche<n>
+:>:este<n><m><pl>
+:estéreo<n>
+:estéreo<n>
+:>:externo<n>
+:fifa<n>
+:>:fin de semana<n><m><sg>
+:>:fin de semana<n><m><pl>
+:fines<n>
+:>:flash<n><sg>
+:>:flash<n><pl>
+:>:flash<n><ND>
+:>:fondo# de inversión<n><sg>
+:>:fondo# de inversión<n><pl>
+:>:fondo# de inversión<n><ND>
+:>:foro<n><sg>
+:>:foro<n><pl>
+:fracasado<n>
+:frente<n><f>
+:frente<n><m>
+:gafas de sol<n><f><pl>
+:genial<n>
+:genética<n>
+:genética<n>
+:geopolítica<n>
+:geopolítica<n>
+:>:glamour<n><n><m><sg>
+:>:gobernabilidad<n><sg>
+:>:gobernabilidad<n><pl>
+:>:gobernanza<n><sg>
+:>:gobernanza<n><pl>
+:>:gobernante<n><m>
+:>:gobernante<n><f>
+:>:gorila<n><sg>
+:>:gorila<n><pl>
+:gran cosa<n><f>
+:hablar<n>
+:hambre<n><m>
+:>:handicap<n><m><sg>
+:>:handicap<n><m><pl>
+:>:hardware<n><m><sg>
+:>:hardware<n><m><pl>
+:>:hebreo<n>
+:>:hipnosis<n><f><sg>
+:>:hipnosis<n><f><pl>
+:hormonal<n>
+:iPad<n>
+:iPad<n>
+:iPhone<n>
+:iPhone<n>
+:iPod<n>
+:iPod<n>
+:infestante<n>
+:ingerencia<n>
+:integrante<n>
+:irpf<n>
+:jovial<n>
+:>:líder<n><sg>
+:>:líder<n><pl>
+:>:malvavisco<n><sg>
+:>:malvavisco<n><pl>
+:>:mamut<n><sg>
+:>:mamut<n><pl>
+:>:manager<n><sg>
+:>:manager<n><pl>
+:>:mantis<n><sp>
+:>:mantis<n><sp>
+:>:mantra<n><sg>
+:>:mantra<n><pl>
+:marino<n>
+:>:marketing<n><m><pl>
+:matrículación<n>
+:mb<n>
+:medio de comunicación<n><m><pl>
+:>:meme<n><sg>
+:>:meme<n><pl>
+:>:mini<n><sg>
+:>:mini<n><pl>
+:moto<n><f><ND>
+:multi<n>
+:multiverso<n>
+:muy poco<n>
+:métrica<n>
+:nasa<n>
+:>:negocio<n><sg>
+:>:negocio<n><pl>
+:neuronal<n>
+:oligarca<n><m>
+:online<n>
+:operativa<n>
+:ordenanza<n><mf><ND>
+:pato<n><mf>
+:patriarca<n><m><ND>
+:>:peatón<n><mf><ND>
+:per<n>
+:>:pesticida<n><ND>
+:>:polio<n><sg>
+:>:polio<n><pl>
+:>:polio<n><sg>
+:>:polio<n><pl>
+:poquito<n>
+:>:por doquier<n>
+:>:porno<n><m><pl>
+:pos<n>
+:posicionado<n>
+:posicionar<n>
+:pre<n>
+:problemas<n>
+:próspera<n>
+:>:pus<n><m><pl>
+:quo<n>
+:quo<n>
+:>:rascacielos<n><sp>
+:reglamentador<n>
+:>:rehén<n><mf><ND>
+:ritme<n>
+:>:romero<n><f>
+:>:rutina<n><sg>
+:>:rutina<n><pl>
+:sarcástico<n>
+:>:sendos<n>
+:>:sub<n><sg>
+:>:sub<n><pl>
+:tilacino<n>
+:>:aseo<n><m><ND>
+:tribal<n>
+:tribal<n>
+:>:tweet<n><m><sg>
+:>:tweet<n><m><pl>
+:>:vatio<n><sg>
+:>:vatio<n><pl>
+:>:veinteañero<n><m>
+:>:veinteañero<n><f>
+:ver<n>
+:versus<n>
+:vigésimo primero<n>
+:>:vídeo<n><m><sg>
+:>:vídeo<n><m><pl>
+:web<n><f>
+:depender de<vblex><pri>
+:depender de<vblex><prs>
+:depender de<vblex><pii>
+:depender de<vblex><pis>
+:depender de<vblex><fti>
+:depender de<vblex><fts>
+:depender de<vblex><ifi>
+:depender de<vblex><cni>
+:depender de<vblex><pp>
+:depender de<vblex><ger>
+:depender de<vblex><inf>
+:echar# en cara<vblex><pri>
+:echar# en cara<vblex><prs>
+:echar# en cara<vblex><pii>
+:echar# en cara<vblex><pis>
+:echar# en cara<vblex><fti>
+:echar# en cara<vblex><fts>
+:echar# en cara<vblex><ifi>
+:echar# en cara<vblex><cni>
+:echar# en cara<vblex><pp>
+:echar# en cara<vblex><ger>
+:echar# en cara<vblex><inf>
+:soler<vblex><fts>
+:>:ser<vblex>
+:hacer falta<vbmod>
+:>:hacer# hincapié<vblex>mettere# l'accento
+:>:caer# enfermo<vblex>ammalare#
+:>:hay<vblex><fti><p3><sg>
+:dar forma<vblex>
+:ralentización<vblex>
+:ser<vblex>
+:>:topar# con<vblex>
+:>:cualquier otra cosa<prn><mf>
+:>:los dos<prn>
+:los dos<prn><m><pl>
+:los dos<prn><f><pl>
+:quien<prn>
+:a raya<cnjadv>
+:al cabo de<cnjadv>
+:>:pese a<cnjadv>
+:por consiguiente<cnjadv>
+:por ello<cnjadv>
+:>:a nivel mundial<adv>
+:ad-hoc<adv>
+:>:adonde<adv>
+:allí donde<adv>
+:a tempo pieno<adv>
+:alrededor de<adv>
+:>:ante<adv>
+:como por ejemplo<adv>
+:>:cuán<adv>
+:>:de hasta<adv>
+:en lugar de<adv>
+:en línea<adv>
+:en vez de<adv>
+:frente a<adv>
+:>:entero<adv>
+:>:estar en Babia<adv>
+:estar a punto<adv>
+:>:excitante<adv>
+:>:modo<adv>
+:por pares<adv>
+:rumorosamente<adv>
+:>:regular<adv>
+:alrededores<pr>
+:>:de que<pr>
+:>:dentro<pr>
+:miles de<pr>
+:ASW<np>
+:Alfa<np>
+:Alpha<np>
+:American<np>
+:Amy<np>
+:Art<np>
+:Asset Swap Spread<np>
+:Associazione Italiana Private Banking<np><al>
+:Babbage<np>
+:Bang<np>
+:Berkeley<np>
+:Big<np>
+:Blue<np>
+:Bonica<np>
+:Bono Martinez<np><ant>
+:Bronx<np>
+:Caltech<np>
+:Caribe<np><sg>
+:Carnegie<np>
+:Carter<np>
+:Cassini<np>
+:Cct<np>
+:Cheryl<np>
+:CiU<np><ant>
+:Ciro<np><ant>
+:College<np>
+:Columbia<np><f><sg>
+:Cooper<np>
+:DGA<np>
+:DNI<np><ant>
+:Daesh<np>
+:Dalai<np>
+:Dame<np>
+:Dave<np><ant>
+:David Begg<np><ant>
+:Derek<np>
+:Dick<np><ant>
+:Disney<np><f><sg>
+:Doaa<np>
+:Doug<np>
+:Dow Jones<np><al>
+:East<np>
+:Edén<np>
+:Efs<np><al>
+:Efsm<np><al>
+:Etosa<np>
+:European financial stability facility<np><al>
+:European financial stability Mechanism<np><al>
+:Everglades<np>
+:Expo<np>
+:FIAT<np>
+:Flickr<np>
+:Font de Mora y Turón<np>
+:Fox<np><f><sg>
+:Gabby<np>
+:García<np><cog><ant>
+:Gene<np>
+:Geographic<np>
+:Geronimo<np>
+:Gioacchino<np>
+:Giussani<np>
+:Glass<np>
+:Glenn<np>
+:Goliat<np>
+:González<np><cog><ant>
+:Harvard<np><m><sg>
+:Harvard<np><f><sg>
+:Hawaii<np>
+:Higgs<np>
+:High Net Worth Individual<np><al>
+:Hong<np>
+:Hubble<np>
+:IES<np><ant>
+:ISIS<np>
+:IVA<np><al>
+:Indecon Economic Consultants<np><al>
+:Irish Congress of Trade Unions<np><al>
+:Jean-Claude Trichet<np><ant>
+:Juan Pablo I<np><ant>
+:Klaus Regling<np><ant>
+:La Repubblica<np><al>
+:Laterza Editore<np><al>
+:Lacio<np><al>
+:López<np><cog><ant>
+:Martínez<np><cog><ant>
+:Milà<np><cog><cog><cog><ant>
+:MoMA<np>
+:Mumbai<np>
+:NASA<np><f><sg>
+:O'Brien<np><cog><cog><ant>
+:O'Callaghan<np><cog><cog><ant>
+:O'Carroll<np><cog><cog><ant>
+:O'Connell<np><cog><cog><ant>
+:O'Connor<np><cog><cog><ant>
+:O'Doherty<np><cog><cog><ant>
+:O'Donnell<np><cog><cog><ant>
+:O'Dwyer<np><cog><cog><ant>
+:O'Farrell<np><cog><cog><ant>
+:O'Grady<np><cog><cog><ant>
+:O'Keeffe<np><cog><cog><ant>
+:O'Leary<np><cog><cog><ant>
+:O'Mahony<np><cog><cog><ant>
+:O'Neill<np><cog><cog><ant>
+:O'Regan<np><cog><cog><ant>
+:O'Reilly<np><cog><cog><ant>
+:O'Rourke<np><cog><cog><ant>
+:O'Shea<np><cog><cog><ant>
+:O'Sullivan<np><cog><cog><ant>
+:Orël<np>
+:Pamesa<np>
+:Patrick Honohan<np>
+:Piketty<np>
+:Posta<np><al>
+:Pérez<np><cog><ant>
+:Roderico<np>
+:Rodríguez<np><cog><ant>
+:Rosaria Amato<np><ant>
+:Seul<np><loc>
+:Superman<np><al>
+:TAU<np><ant>
+:Van Gogh<np>
+:Villafranca del Cid<np><ant>
+:Von Beust<np>
+:von Neumann<np><ant>
+:África subsahariana<np>
+:Bahrein<np><loc>
+:Carrefour<np><ant>
+:Cartagena<np><al>
+:Ebro<np><ant>
+:Quijote<np><ant>
+:Shanghai<np><loc>
+:EE.UU.<np><loc>
+:Venecia<np><al>
+:html<np><al>
+:Lacio<np><al>
+:ciento catorce<num><mf>
+:ciento catorce mil<num><mf>
+:ciento quince<num><mf>
+:ciento quince mil<num><mf>
+:ciento trece<num><mf>
+:ciento trece mil<num><mf>
+:ciento doce<num><mf>
+:ciento doce mil<num><mf>
+:ciento once<num><mf>
+:ciento once mil<num><mf>
+:ciento cincuenta<num><mf>
+:ciento cincuenta mil<num><mf>
+:ciento cuatro<num><mf>
+:ciento cuatro mil<num><mf>
+:ciento diez<num><mf>
+:ciento diez mil<num><mf>
+:ciento dos<num><mf>
+:ciento dos mil<num><mf>
+:ciento nueve<num><mf>
+:ciento nueve mil<num><mf>
+:ciento ocho<num><mf>
+:ciento ocho mil<num><mf>
+:ciento seis<num><mf>
+:ciento seis mil<num><mf>
+:ciento siete<num><mf>
+:ciento siete mil<num><mf>
+:ciento tres<num><mf>
+:ciento tres mil<num><mf>
+:ciento cinco<num><mf>
+:ciento cinco mil<num><mf>
+:ciento cincuenta<num><mf>
+:ciento cincuenta mil<num><mf>
+:ciento noventa<num><mf>
+:ciento noventa mil<num><mf>
+:ciento noventa y cinco<num><mf>
+:ciento noventa y cinco mil<num><mf>
+:ciento noventa y cuatro<num><mf>
+:ciento noventa y cuatro mil<num><mf>
+:ciento noventa y dos<num><mf>
+:ciento noventa y dos mil<num><mf>
+:ciento noventa y nueve<num><mf>
+:ciento noventa y nueve mil<num><mf>
+:ciento noventa y ocho<num><mf>
+:ciento noventa y ocho mil<num><mf>
+:ciento noventa y seis<num><mf>
+:ciento noventa y seis mil<num><mf>
+:ciento noventa y siete<num><mf>
+:ciento noventa y siete mil<num><mf>
+:ciento noventa y tres<num><mf>
+:ciento noventa y tres mil<num><mf>
+:ciento ochenta<num><mf>
+:ciento ochenta mil<num><mf>
+:ciento ochenta y cinco<num><mf>
+:ciento ochenta y cinco mil<num><mf>
+:ciento ochenta y cuatro<num><mf>
+:ciento ochenta y cuatro mil<num><mf>
+:ciento ochenta y dos<num><mf>
+:ciento ochenta y dos mil<num><mf>
+:ciento ochenta y nueve<num><mf>
+:ciento ochenta y nueve mil<num><mf>
+:ciento ochenta y ocho<num><mf>
+:ciento ochenta y ocho mil<num><mf>
+:ciento ochenta y seis<num><mf>
+:ciento ochenta y seis mil<num><mf>
+:ciento ochenta y siete<num><mf>
+:ciento ochenta y siete mil<num><mf>
+:ciento ochenta y tres<num><mf>
+:ciento ochenta y tres mil<num><mf>
+:ciento setenta<num><mf>
+:ciento setenta mil<num><mf>
+:ciento setenta y cinco<num><mf>
+:ciento setenta y cinco mil<num><mf>
+:ciento setenta y cuatro<num><mf>
+:ciento setenta y cuatro mil<num><mf>
+:ciento setenta y dos<num><mf>
+:ciento setenta y dos mil<num><mf>
+:ciento setenta y nueve<num><mf>
+:ciento setenta y nueve mil<num><mf>
+:ciento setenta y ocho<num><mf>
+:ciento setenta y ocho mil<num><mf>
+:ciento setenta y seis<num><mf>
+:ciento setenta y seis mil<num><mf>
+:ciento setenta y siete<num><mf>
+:ciento setenta y siete mil<num><mf>
+:ciento setenta y tres<num><mf>
+:ciento setenta y tres mil<num><mf>
+:ciento sesenta<num><mf>
+:ciento sesenta mil<num><mf>
+:ciento sesenta y cinco<num><mf>
+:ciento sesenta y cinco mil<num><mf>
+:ciento sesenta y cuatro<num><mf>
+:ciento sesenta y cuatro mil<num><mf>
+:ciento sesenta y dos<num><mf>
+:ciento sesenta y dos mil<num><mf>
+:ciento sesenta y nueve<num><mf>
+:ciento sesenta y nueve mil<num><mf>
+:ciento sesenta y ocho<num><mf>
+:ciento sesenta y ocho mil<num><mf>
+:ciento sesenta y seis<num><mf>
+:ciento sesenta y seis mil<num><mf>
+:ciento sesenta y siete<num><mf>
+:ciento sesenta y siete mil<num><mf>
+:ciento sesenta y tres<num><mf>
+:ciento sesenta y tres mil<num><mf>
+:ciento cincuenta y cinco<num><mf>
+:ciento cincuenta y cinco mil<num><mf>
+:ciento cincuenta y cuatro<num><mf>
+:ciento cincuenta y cuatro mil<num><mf>
+:ciento cincuenta y dos<num><mf>
+:ciento cincuenta y dos mil<num><mf>
+:ciento cincuenta y nueve<num><mf>
+:ciento cincuenta y nueve mil<num><mf>
+:ciento cincuenta y ocho<num><mf>
+:ciento cincuenta y ocho mil<num><mf>
+:ciento cincuenta y seis<num><mf>
+:ciento cincuenta y seis mil<num><mf>
+:ciento cincuenta y siete<num><mf>
+:ciento cincuenta y siete mil<num><mf>
+:ciento cincuenta y tres<num><mf>
+:ciento cincuenta y tres mil<num><mf>
+:ciento cuarenta<num><mf>
+:ciento cuarenta mil<num><mf>
+:ciento cuarenta y cinco<num><mf>
+:ciento cuarenta y cinco mil<num><mf>
+:ciento cuarenta y cuatro<num><mf>
+:ciento cuarenta y cuatro mil<num><mf>
+:ciento cuarenta y dos<num><mf>
+:ciento cuarenta y dos mil<num><mf>
+:ciento cuarenta y nueve<num><mf>
+:ciento cuarenta y nueve mil<num><mf>
+:ciento cuarenta y ocho<num><mf>
+:ciento cuarenta y ocho mil<num><mf>
+:ciento cuarenta y seis<num><mf>
+:ciento cuarenta y seis mil<num><mf>
+:ciento cuarenta y siete<num><mf>
+:ciento cuarenta y siete mil<num><mf>
+:ciento cuarenta y tres<num><mf>
+:ciento cuarenta y tres mil<num><mf>
+:ciento treinta<num><mf>
+:ciento treinta mil<num><mf>
+:ciento treinta y cinco<num><mf>
+:ciento treinta y cinco mil<num><mf>
+:ciento treinta y cuatro<num><mf>
+:ciento treinta y cuatro mil<num><mf>
+:ciento treinta y dos<num><mf>
+:ciento treinta y dos mil<num><mf>
+:ciento treinta y nueve<num><mf>
+:ciento treinta y nueve mil<num><mf>
+:ciento treinta y ocho<num><mf>
+:ciento treinta y ocho mil<num><mf>
+:ciento treinta y seis<num><mf>
+:ciento treinta y seis mil<num><mf>
+:ciento treinta y siete<num><mf>
+:ciento treinta y siete mil<num><mf>
+:ciento treinta y tres<num><mf>
+:ciento treinta y tres mil<num><mf>
+:ciento veinte<num><mf>
+:ciento veinte mil<num><mf>
+:ciento veinticinco<num><mf>
+:ciento veinticinco mil<num><mf>
+:ciento veinticuatro<num><mf>
+:ciento veinticuatro mil<num><mf>
+:ciento veintidós<num><mf>
+:ciento veintidós mil<num><mf>
+:ciento veintinueve<num><mf>
+:ciento veintinueve mil<num><mf>
+:ciento veintiocho<num><mf>
+:ciento veintiocho mil<num><mf>
+:ciento veintiséis<num><mf>
+:ciento veintiséis mil<num><mf>
+:ciento veintisiete<num><mf>
+:ciento veintisiete mil<num><mf>
+:ciento veintitrés<num><mf>
+:ciento veintitrés mil<num><mf>
+:ciento cuatro<num><mf>
+:ciento cuatro mil<num><mf>
+:ciento diecinueve<num><mf>
+:ciento diecinueve mil<num><mf>
+:ciento dieciocho<num><mf>
+:ciento dieciocho mil<num><mf>
+:ciento diecisiete<num><mf>
+:ciento diecisiete mil<num><mf>
+:ciento dieciséis<num><mf>
+:ciento dieciséis mil<num><mf>
+:ciento diez<num><mf>
+:ciento diez mil<num><mf>
+:ciento dos<num><mf>
+:ciento dos mil<num><mf>
+:ciento uno<num>
+:ciento noventa y uno<num>
+:ciento noventa y uno<det><def>
+:ciento ochenta y uno<num>
+:ciento ochenta y uno<det><def>
+:ciento setenta y uno<num>
+:ciento setenta y uno<det><def>
+:ciento sesenta y uno<num>
+:ciento sesenta y uno<det><def>
+:ciento cincuenta y uno<num>
+:ciento cincuenta y uno<det><def>
+:ciento cuarenta y uno<num>
+:ciento cuarenta y uno<det><def>
+:ciento treinta y uno<num>
+:ciento treinta y uno<det><def>
+:ciento veintiuno<num>
+:ciento veintiuno<det><def>
+:>:ciento<num><mf>
+:>:ciento mil<num><f>
+:>:ciento mil<num><m>
+:>:ciento noventa y uno<det><ind><m>
+:>:ciento noventa y uno<det><ind><f>
+:>:ciento noventa y uno mil<num><m>
+:>:ciento noventa y uno mil<num><f>
+:>:ciento noventa y uno mil<det><ind><m>
+:>:ciento noventa y uno mil<det><ind><f>
+:>:ciento ochenta y uno<det><ind><m>
+:>:ciento ochenta y uno<det><ind><f>
+:>:ciento ochenta y uno mil<num><m>
+:>:ciento ochenta y uno mil<num><f>
+:>:ciento ochenta y uno mil<det><ind><m>
+:>:ciento ochenta y uno mil<det><ind><f>
+:>:ciento setenta y uno<det><ind><m>
+:>:ciento setenta y uno<det><ind><f>
+:>:ciento setenta y uno mil<num><m>
+:>:ciento setenta y uno mil<num><f>
+:>:ciento setenta y uno mil<det><ind><m>
+:>:ciento setenta y uno mil<det><ind><f>
+:>:ciento sesenta y uno<det><ind><m>
+:>:ciento sesenta y uno<det><ind><f>
+:>:ciento sesenta y uno mil<num><m>
+:>:ciento sesenta y uno mil<num><f>
+:>:ciento sesenta y uno mil<det><ind><m>
+:>:ciento sesenta y uno mil<det><ind><f>
+:>:ciento cincuenta y uno<det><ind><m>
+:>:ciento cincuenta y uno<det><ind><f>
+:>:ciento cincuenta y uno mil<num><m>
+:>:ciento cincuenta y uno mil<num><f>
+:>:ciento cincuenta y uno mil<det><ind><m>
+:>:ciento cincuenta y uno mil<det><ind><f>
+:>:ciento cuarenta y uno<det><ind><m>
+:>:ciento cuarenta y uno<det><ind><f>
+:>:ciento cuarenta y uno mil<num><m>
+:>:ciento cuarenta y uno mil<num><f>
+:>:ciento cuarenta y uno mil<det><ind><m>
+:>:ciento cuarenta y uno mil<det><ind><f>
+:>:ciento treinta y uno<det><ind><m>
+:>:ciento treinta y uno<det><ind><f>
+:>:ciento treinta y uno mil<num><m>
+:>:ciento treinta y uno mil<num><f>
+:>:ciento treinta y uno mil<det><ind><m>
+:>:ciento treinta y uno mil<det><ind><f>
+:>:ciento veintiuno<det><ind><m>
+:>:ciento veintiuno<det><ind><f>
+:>:ciento veintiuno mil<num><m>
+:>:ciento veintiuno mil<num><f>
+:>:ciento veintiuno mil<det><ind><m>
+:>:ciento veintiuno mil<det><ind><f>
+:,<cm>
+:-<guio>

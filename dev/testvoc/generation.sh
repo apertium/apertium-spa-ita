@@ -16,35 +16,31 @@ declare -ir J=${J-1}
 # pipelines have memory leaks and need restarting every so often):
 declare -r BLOCK=${BLOCK:-100M}
 
+HFST=false
+UNTRIMMED=false
+EXCLUDE=""
+PRINT_ALL=false
 
-if [[ $# -ge 1 && $1 = --hfst ]]; then
-    HFST=true
-    shift
-else
-    HFST=false
-fi
-
-if [[ $# -eq 1 ]]; then
-    mode=$1
-    dix=guess
-elif  [[ $# -eq 2 ]]; then
-    mode=$1
-    dix=$2
-else
+show_help () {
     cat >&2 <<EOF
-Usage: $0 lang1-lang2
-or:    $0 lang1-lang2 foo.dix
-or:    $0 --hfst lang1-lang2 foo-bar.automorf.bin
+USAGE: $0 [ -a ] [-e 'string' ] [-u] lang1-lang2 [ source_dix ]
+or:    $0 [ -a ] [-e 'string' ] --hfst lang1-lang2 foo-bar.automorf.bin
+
+ -a, --all:       output all entries, not just errors
+ -H, --hfst:      use HFST for analysis
+ -e, --exclude:   exclude entries containing the specified string
+ -u, --untrimmed: run the pipeline without trimming (find @, non-HFST)
+ -h, --help:      show this help
 
 Replaces the first step of the pipeline with the expanded analyser and
 shows the resulting generation errors.
 
-For example, do \`$0 nno-nob' in trunk/apertium-nno-nob/' to find
+For example, do '$0 nno-nob' in 'apertium-nno-nob' to find
 generation errors in the nno-nob direction (assumes that
 modes/nno-nob.mode exists).
 
 If the source .dix file has a non-standard name, you can specify it in
-the second argument, for example \`$0 eng-sco
+the second argument, for example '$0 eng-sco
 ../apertium-eng_feil/apertium-eng.eng.dix'
 
 If you pass --hfst, the trimmed analyser will be used, and
@@ -55,19 +51,71 @@ name of the first program of the mode).
 
 EOF
     exit 1
+}
+
+while :; do
+    if [ $# -eq 0 ]; then
+        show_help
+    fi
+    case $1 in
+        -a|--all)
+            PRINT_ALL=true
+            ;;
+        -e|--exclude)
+            if [ "$2" ]; then
+                EXCLUDE="$2"
+                shift
+            else
+                die 'ERROR: "--exclude" requires a non-empty option argument.'
+            fi
+            ;;
+        -h|-\?|--help)
+            show_help
+            ;;
+        -H|--hfst)
+            HFST=true
+            ;;
+        -u|--untrimmed)
+            UNTRIMMED=true
+            ;;
+        --)
+            shift
+            break
+            ;;
+        *)
+            break
+    esac
+    shift
+done
+
+if [[ $# -eq 1 ]]; then
+    mode=$1
+    dix=guess
+elif  [[ $# -eq 2 ]]; then
+    mode=$1
+    dix=$2
+else
+    show_help
 fi
 
+SRCDIR=$(pwd)
+for i in {1..3}; do
+    if [[ -e $SRCDIR/modes.xml ]]; then
+        break
+    fi
+    cd '..'
+    SRCDIR=$(pwd)
+done
+
 analysis_expansion () {
+    # sed workaround to ignore escaped colon (lemmas may contain it and interfere with the output from lt-expand)
     lt-expand "$1" \
-        | awk -v clb="$2" -F':|:[<>]:' '
+        | sed '/:[<>]:/b;s/\\:/§§§/g;s/:/:-:/g;s/§§§/\\:/g' \
+        | awk -v clb="$2" -F':[<>\\-]:' '
           /:<:/ {next}
           $2 ~ /<compound-(R|only-L)>|DUE_TO_LT_PROC_HANG|__REGEXP__/ {next}
           {
-            esc=$2
-            gsub("/","\\/",esc)
-            gsub("^","\\^",esc)
-            gsub("$","\\$",esc)
-            print "["esc"] ^"$1"/"$2"$ ^./.<sent>"clb"$"
+            print "["$2"] ^"$1"/"$2"$ ^./.<sent>"clb"$"
           }'
 }
 
@@ -93,25 +141,35 @@ analysis_expansion_hfst () {
           /<compound-(R|only-L)>|DUE_TO_LT_PROC_HANG|__REGEXP__/ {next}
           {
             gsub("]","\\]")
-            esc=$0
-            gsub("/","\\/",esc)
-            gsub("^","\\^",esc)
-            gsub("$","\\$",esc)
-            print "["esc"] ^"$0"$ ^.<sent>"clb"$"
+            print "["$0"] ^"$0"$ ^.<sent>"clb"$"
           }'
     # give the "disambiguated" output, no forms
 }
 
 only_errs () {
-    if [[ $# -ge 1 && $1 = --no-@ ]]; then
-        atfilter () { grep -v '].*/@'; }
-    else
-        atfilter () { cat; }
-    fi
     # turn escaped SOLIDUS into DIVISION SLASH, so we don't grep correct stuff ("A/S" is a possible lemma)
-    sed 's%\\/%∕%g' |\
-        atfilter |\
-        grep '][^<]*[#/]'
+    sed 's%\\/%∕%g' |
+    if [[ $PRINT_ALL = true ]]; then
+        cat
+    else
+        grep -e ' #' -e ' @' -e '/'
+    fi
+}
+
+atfilter () {
+    if [[ $UNTRIMMED = true ]]; then
+        cat
+    else
+        grep -v '].*/@'
+    fi
+}
+
+exclude_analysis () {
+    if [[ "$EXCLUDE" ]]; then
+        grep -v $EXCLUDE
+    else
+        cat
+    fi
 }
 
 run_mode () {
@@ -142,40 +200,70 @@ split_ambig=$(mktemp -t gentestvoc.XXXXXXXXXXX)
 TMPFILES+=("${split_ambig}")
 cat >"${split_ambig}" <<EOF
 #!/usr/bin/env ${python}
-from streamparser import parse_file, readingToString, known
 import sys
-for blank, lu in parse_file(sys.stdin, withText=True):
-    if lu.knownness == known:
-        print(blank+" ".join("^{}/{}\$".format(lu.wordform, readingToString(r))
-                            for r in lu.readings),
-            end="")
-    else:
-        print(blank+"^"+lu.wordform+"/"+lu.knownness.symbol+lu.wordform+"$",
-              end="")
+import re
+from streamparser import parse, reading_to_string, known
+from itertools import product
+for line in sys.stdin:
+    line = re.sub("(?<!\\|>)\+", "\\+", line)
+    units = list(parse(line, with_text=True))
+    exp = []
+    for unit in units:
+        uniq = []
+        for r in unit[1].readings:
+            uniq.append((unit[0], "^{}/{}$".format(unit[1].wordform, reading_to_string(r))))
+        exp.append(uniq)
+    for combination in product(*exp):
+        for t in combination:
+            print("".join(t), end="")
+        print("")
 EOF
 chmod +x "${split_ambig}"
 
-# TODO: using modes.xml with gendebug="yes" should make these
+split_gen=$(mktemp -t gentestvoc.XXXXXXXXXXX)
+TMPFILES+=("${split_gen}")
+cat >"${split_gen}" <<EOF
+#!/usr/bin/env ${python}
+from streamparser import parse, reading_to_string, known
+import sys
+import re
+for line in sys.stdin:
+    line = re.sub("(?<!\\|>)\+", "\\+", line)
+    for blank, lu in parse(line, with_text=True):
+        readings = {}
+        if lu.knownness == known:
+            for r in lu.readings:
+                tags = "_".join(sorted(r[0].tags))
+                if tags not in readings:
+                    readings[tags] = r[0].baseform
+                else:
+                    readings[tags] += "/"+r[0].baseform
+            print(blank+" ".join(readings.values()), end="")
+        else:
+            print(blank+reading_to_string(lu.readings[0]), end="")
+    print("")
+EOF
+chmod +x "${split_gen}"
+
 mode_after_analysis=$(mktemp -t gentestvoc.XXXXXXXXXXX)
 TMPFILES+=("${mode_after_analysis}")
-grep '|' modes/"${mode}".mode \
+grep '|' $SRCDIR/modes/"${mode}"-biltrans.mode \
     | sed 's/[^|]*|//' \
-    | sed 's/lt-proc -p[^|]*/cat/' \
-    | sed "s%autobil.bin'* *|%& ${split_ambig} |%" \
-    | sed 's/\$1/-d/g;s/\$2//g' \
     > "${mode_after_analysis}"
 
 mode_after_tagger=$(mktemp -t gentestvoc.XXXXXXXXXXX)
 TMPFILES+=("${mode_after_tagger}")
-grep '|' modes/"${mode}".mode \
+grep '|' $SRCDIR/modes/"${mode}"-biltrans.mode \
     | sed 's/[^|]*|//' \
     | sed 's/.*apertium-pretransfer/apertium-pretransfer/' \
-    | sed 's/lt-proc -p[^|]*/cat/' \
-    | sed "s%autobil.bin'* *|%& ${split_ambig} |%" \
-    | sed 's/\$1/-d/g;s/\$2//g' \
     > "${mode_after_tagger}"
-# lt-proc -p fails, that's why we remove that
 
+mode_after_bidix=$(mktemp -t gentestvoc.XXXXXXXXXXX)
+TMPFILES+=("${mode_after_bidix}")
+grep '|' $SRCDIR/modes/"${mode}"-dgen.mode \
+    | sed "s%.*autobil.bin'* *|% ${split_ambig} |%" \
+    | sed -E "s%lt-proc([^b]*)'%lt-proc\1-b '%" \
+    > "${mode_after_bidix}"
 
 lang1=${mode%%-*}
 
@@ -186,21 +274,31 @@ esac
 
 if $HFST; then
     if [[ ${dix} = guess ]]; then
-        dix=$(xmllint --xpath "string(/modes/mode[@name = '${mode}']/pipeline/program[1]/file[1]/@name)" modes.xml)
+        dix=$(xmllint --xpath "string(/modes/mode[@name = '${mode}']/pipeline/program[1]/file[1]/@name)" $SRCDIR/modes.xml)
     fi
     analysis_expansion_hfst "${dix}" "${clb}" \
+        | exclude_analysis \
         | run_mode "${mode_after_tagger}"     \
+        | run_mode "${mode_after_bidix}" \
+        | ${split_gen} \
         | only_errs
 else
     if [[ ${dix} = guess ]]; then
-        lang1dir=$(grep -m1 "^AP_SRC.*apertium-${lang1}" config.log | sed "s/^[^=]*='//;s/'$//")
+        lang1dir=$(grep -m1 "^AP_SRC.*apertium-${lang1}" $SRCDIR/config.log | sed "s/^[^=]*='//;s/'$//")
         dix=${lang1dir}/apertium-${lang1}.${lang1}.dix
+        if ! [[ -e $dix ]]; then
+            dix=${lang1dir}/.deps/apertium-${lang1}.${lang1}.dix
+        fi
     fi
     # Make it possible to edit the .dix while testvoc is running:
     dixtmp=$(mktemp -t gentestvoc.XXXXXXXXXXX)
     TMPFILES+=("${dixtmp}")
     cat "${dix}" > "${dixtmp}"
     analysis_expansion "${dixtmp}" "${clb}" \
+        | exclude_analysis \
         | run_mode "${mode_after_analysis}" \
-        | only_errs --no-@
+        | atfilter \
+        | run_mode "${mode_after_bidix}" \
+        | ${split_gen} \
+        | only_errs
 fi
