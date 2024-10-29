@@ -2898,8 +2898,8 @@
 <e>       <p><l>previsible<s n="adj"/></l>             <r>prevedibile<s n="adj"/></r></p></e>
 <e>       <p><l>previsto<s n="adj"/></l>               <r>previsto<s n="adj"/></r></p></e>
 <e>       <p><l>primario<s n="adj"/></l>               <r>primario<s n="adj"/></r></p></e>
-<e r="LR"><p><l>primer<s n="adj"/></l>                 <r>primo<s n="adj"/><s n="ord"/></r></p></e>
-<e>       <p><l>primero<s n="adj"/></l>                <r>primo<s n="adj"/><s n="ord"/></r></p></e>
+<e r="LR"><p><l>primer<s n="adj"/><s n="ord"/></l>                 <r>primo<s n="adj"/><s n="ord"/></r></p></e>
+<e>       <p><l>primero<s n="adj"/><s n="ord"/></l>                <r>primo<s n="adj"/><s n="ord"/></r></p></e>
 <e>       <p><l>primitivo<s n="adj"/></l>              <r>primitivo<s n="adj"/></r></p></e>
 <e>       <p><l>primordial<s n="adj"/></l>             <r>primordiale<s n="adj"/></r></p></e>
 <e>       <p><l>principal<s n="adj"/></l>              <r>principale<s n="adj"/></r></p></e>
@@ -16378,6 +16378,7 @@
 <e r="LR"><p><l>sobradamente<s n="adv"/></l>           <r>ampiamente<s n="adv"/></r></p></e>
 <e>       <p><l>sobre<b/>todo<s n="adv"/></l>          <r>soprattutto<s n="adv"/></r></p></e>
 <e r="RL"><p><l>sobre<b/>todo<s n="adv"/></l>          <r>prima<b/>di<b/>tutto<s n="adv"/></r></p></e>
+<e r="RL"><p><l>primero<s n="adv"/></l>                <r>prima<b/>di<b/>tutto<s n="adv"/></r></p></e>
 <e>       <p><l>socialmente<s n="adv"/></l>            <r>socialmente<s n="adv"/></r></p></e>
 <e>       <p><l>solamente<s n="adv"/></l>              <r>solamente<s n="adv"/></r></p></e>
 <e>       <p><l>solemnemente<s n="adv"/></l>           <r>solennemente<s n="adv"/></r></p></e>
