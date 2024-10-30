@@ -14072,7 +14072,7 @@
 <e>       <p><l>parar<s n="vblex"/></l>                <r>fermare<s n="vblex"/></r></p><par n="temps"/></e>
 <e r="RL"><p><l>parecer<s n="vblex"/></l>              <r>parere<s n="vblex"/></r></p><par n="temps"/></e>
 <e>       <p><l>parecer<s n="vblex"/></l>              <r>sembrare<s n="vblex"/></r></p><par n="temps"/></e>
-<e>       <p><l>parir<s n="vblex"/></l>                <r>partorire<s n="vblex"/></r></p><par n="temps"/></e>
+<!--<e>       <p><l>parir<s n="vblex"/></l>                <r>partorire<s n="vblex"/></r></p><par n="temps"/></e> until PR is fixed-->
 <e>       <p><l>participar<s n="vblex"/></l>           <r>partecipare<s n="vblex"/></r></p><par n="temps"/></e>
 <e>       <p><l>partir<s n="vblex"/></l>               <r>partire<s n="vblex"/></r></p><par n="temps"/></e>
 <e>       <p><l>pasar<s n="vblex"/></l>                <r>passare<s n="vblex"/></r></p><par n="temps"/></e>
